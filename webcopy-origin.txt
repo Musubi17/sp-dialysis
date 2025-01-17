@@ -1,0 +1,2836 @@
+Uri: https://cdc-dialysis.ru/
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\index.htm
+Content Type: text/html
+
+Uri: https://cdc-dialysis.ru/bitrix/components/bitrix/landing.pub/templates/.default/script.min.js?17126771928487
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\components\bitrix\landing.pub\templates\.default\script.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/components/bitrix/landing.pub/templates/.default/style.min.css?170246969943765
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\components\bitrix\landing.pub\templates\.default\style.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/images/intranet/intranet-mail-popup-arrows.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\images\intranet\intranet-mail-popup-arrows.png
+Content Type: image/png
+
+Uri: https://cdc-dialysis.ru/bitrix/images/landing/buttons_styles/snowflakes-left.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\images\landing\buttons_styles\snowflakes-left.png
+Content Type: image/png
+
+Uri: https://cdc-dialysis.ru/bitrix/images/landing/buttons_styles/snowflakes-right.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\images\landing\buttons_styles\snowflakes-right.png
+Content Type: image/png
+
+Uri: https://cdc-dialysis.ru/bitrix/images/landing/marta.jpg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\images\landing\marta.jpg
+Content Type: image/jpeg
+
+Uri: https://cdc-dialysis.ru/bitrix/js/catalog/core_tree.min.js?172546552845402
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\catalog\core_tree.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/intranet/design-tokens/bitrix24/bitrix24-design-tokens.min.css?16854388541467
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\intranet\design-tokens\bitrix24\bitrix24-design-tokens.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/intranet/intranet-common.min.css?166151605361199
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\intranet\intranet-common.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/css/landing_public.min.css?1567508327250
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\css\landing_public.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/event-tracker/event-tracker.min.js?15839331302876
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\event-tracker\event-tracker.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/event-tracker/services/base-service.min.js?1538227870259
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\event-tracker\services\base-service.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/event-tracker/services/google-analytics-service.min.js?1538227870485
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\event-tracker\services\google-analytics-service.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/events/block_event.min.js?1538227870520
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\events\block_event.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/mediaplayer/base_mediaplayer.min.js?16662689151069
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\mediaplayer\base_mediaplayer.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/mediaplayer/mediaplayer_factory.min.js?1666268915372
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\mediaplayer\mediaplayer_factory.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/mediaplayer/youtube_mediaplayer.min.js?16662689152281
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\mediaplayer\youtube_mediaplayer.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/metrika/dist/metrika.bundle.min.js?17053049563428
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\metrika\dist\metrika.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/polyfill.min.js?15675083271062
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/public.min.js?17249436704643
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\public.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/ui/tool/auto_font_scale/dist/auto_font_scale.bundle.min.js?16989351205160
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\ui\tool\auto_font_scale\dist\auto_font_scale.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/landing/utils/utils.min.js?173329386319728
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\landing\utils\utils.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/core.min.js?1727100220225181
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/core_clipboard.min.js?16572140002246
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\core_clipboard.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/core_date.min.js?161286731026661
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\core_date.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/core_frame_cache.min.js?173392982711132
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\core_frame_cache.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/core_fx.min.js?14909536449768
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\core_fx.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/core_ls.min.js?17339298272683
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\core_ls.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/core_window.min.js?170185523776324
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\core_window.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/css/core_date.min.css?16607515339928
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\css\core_date.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/images/calendar-sprite.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\images\calendar-sprite.png
+Content Type: image/png
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/images/components/minus.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\images\components\minus.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/images/components/plus.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\images\components\plus.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/images/controls-sprite.png?1
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\images\controls-sprite.png
+Content Type: image/png
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/images/controls-sprite.png?2
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\images\controls-sprite-1.png
+Content Type: image/png
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/images/menu/checkbox.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\images\menu\checkbox.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/core/images/popup/upload-waiting.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\core\images\popup\upload-waiting.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/date/main.date.min.js?173392982719136
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\date\main.date.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/loader/dist/loader.bundle.min.css?15589648062029
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\loader\dist\loader.bundle.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/loader/dist/loader.bundle.min.js?17169973954392
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\loader\dist\loader.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/pageobject/pageobject.min.js?1584117434570
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\pageobject\pageobject.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.min.js?15362428577124
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\polyfill\intersectionobserver\js\intersectionobserver.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/popup/dist/main.popup.bundle.min.css?173392982726589
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\popup\dist\main.popup.bundle.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/popup/dist/main.popup.bundle.min.js?173392982765924
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\popup\dist\main.popup.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/sidepanel/css/images/loader.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\sidepanel\css\images\loader.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/sidepanel/css/sidepanel.min.css?170185523712285
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\sidepanel\css\sidepanel.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/sidepanel/manager.min.js?171699739538706
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\sidepanel\manager.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/main/sidepanel/slider.min.js?172710022035720
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\main\sidepanel\slider.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/pull/client/pull.client.min.js?172302241249664
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\pull\client\pull.client.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/pull/protobuf/model.min.js?159231549114190
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\pull\protobuf\model.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/pull/protobuf/protobuf.min.js?159231549176433
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\pull\protobuf\protobuf.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/rest/client/rest.client.min.js?16015491189240
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\rest\client\rest.client.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?171327662823463
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\design-tokens\dist\ui.design-tokens.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/dexie/dist/dexie3.bundle.min.js?169399112688274
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\dexie\dist\dexie3.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/fonts/opensans/opensans-bold.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\fonts\opensans\opensans-bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/fonts/opensans/opensans-bold.woff
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\fonts\opensans\opensans-bold.woff
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/fonts/opensans/opensans-light.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\fonts\opensans\opensans-light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/fonts/opensans/opensans-light.woff
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\fonts\opensans\opensans-light.woff
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/fonts/opensans/opensans-regular.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\fonts\opensans\opensans-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/fonts/opensans/opensans-regular.woff
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\fonts\opensans\opensans-regular.woff
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\fonts\opensans\opensans-semibold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.woff
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\fonts\opensans\opensans-semibold.woff
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16620208132320
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\fonts\opensans\ui.font.opensans.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/4-cubes-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\4-cubes-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/4-cubes-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\4-cubes-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/agenda-gap.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\agenda-gap.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/arrow-down.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/arrow-download.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\arrow-download.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/arrow-to-the-left.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\arrow-to-the-left.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/arrow-to-the-right.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\arrow-to-the-right.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/arrow-to-the-top.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\arrow-to-the-top.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/arrow-top.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\arrow-top.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/brush.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\brush.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/chevron-down.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/chevron-to-the-left.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\chevron-to-the-left.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/chevron-to-the-right.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\chevron-to-the-right.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/chevron-up.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\chevron-up.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/collapse-diagonal.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\collapse-diagonal.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/collapse.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\collapse.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/connection.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\connection.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/conversion-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\conversion-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/conversion-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\conversion-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/copy-plates.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\copy-plates.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-20.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-20.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-25.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-25.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-30.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-30.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-40.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-40.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-45.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-45.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-50.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-50.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-55.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-55.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-60.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-60.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-circle-50.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-circle-50.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-circle-60.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-circle-60.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/cross-circle-70.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\cross-circle-70.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/curved-arrow-left.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\curved-arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/disconnection.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\disconnection.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/double-shevrons-right.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\double-shevrons-right.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/download-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\download-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/download-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\download-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/download-double.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\download-double.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/download.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\download.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/expand-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\expand-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/expand-diagonal.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\expand-diagonal.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/expand-to-full-screen.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\expand-to-full-screen.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/forward-2-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\forward-2-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/forward-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\forward-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/forward-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\forward-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/forward.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\forward.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/image-rotate-left.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\image-rotate-left.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/image-rotate-right.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\image-rotate-right.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/keyboard-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\keyboard-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/keyboard.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\keyboard.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/left-semicircular-anticlockwise-arrow-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\left-semicircular-anticlockwise-arrow-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/left-semicircular-anticlockwise-arrow-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\left-semicircular-anticlockwise-arrow-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/left-semicircular-anticlockwise-arrow-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\left-semicircular-anticlockwise-arrow-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/left-semicircular-anticlockwise-arrow-4.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\left-semicircular-anticlockwise-arrow-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/line.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\line.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/lines.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\lines.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/minus-20.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\minus-20.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/minus-30.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\minus-30.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/minus-40.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\minus-40.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/minus-50.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\minus-50.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/minus-60.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\minus-60.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/minus-in-circle.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\minus-in-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/more.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\more.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/next.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\next.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/numerable-list.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\numerable-list.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/open-in-30.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\open-in-30.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/open-in-40.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\open-in-40.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/open-in-50.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\open-in-50.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/pause.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\pause.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/pen.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\pen.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/pencil-40.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\pencil-40.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/pencil-50.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\pencil-50.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/pencil-60.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\pencil-60.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/pencil-draw.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\pencil-draw.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/plates.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\plates.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/play.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\play.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/plus-20.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\plus-20.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/plus-30.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\plus-30.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/plus-40.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\plus-40.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/plus-50.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\plus-50.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/plus-60.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\plus-60.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/plus-in-circle.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\plus-in-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/redo-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\redo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/redo-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\redo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/refresh-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\refresh-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/refresh-10.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\refresh-10.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/refresh-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\refresh-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/refresh-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\refresh-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/refresh-4.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\refresh-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/refresh-5.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\refresh-5.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/refresh-6.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\refresh-6.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/refresh-7.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\refresh-7.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/refresh-8.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\refresh-8.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/refresh-closed.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\refresh-closed.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/replay-all.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\replay-all.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/reply.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\reply.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/settings-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\settings-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/settings-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\settings-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/settings-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\settings-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/settings-4.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\settings-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/sort.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\sort.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/stop.svg?2
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\stop.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/swap.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\swap.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/sync-settings.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\sync-settings.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/undo-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\undo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/upload.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\upload.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/zoom-in.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\zoom-in.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/images/zoom-out.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\images\zoom-out.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/actions/style.min.css?173402213419819
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\actions\style.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/icon-base.css
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\icon-base.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/05-numbers.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\05-numbers.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/1c.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\1c.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/a-letter.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\a-letter.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/activity.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\activity.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/add-chat.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\add-chat.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/add-to-checklist.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\add-to-checklist.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/ai.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\ai.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/alarm.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\alarm.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/apps.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\apps.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/arrow-line.svg?2
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\arrow-line.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/ascending-sort.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\ascending-sort.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/attach-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\attach-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/attach-picture.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\attach-picture.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/attach.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\attach.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/attention-i-black.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\attention-i-black.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/attention-i-circle.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\attention-i-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/b-24.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\b-24.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/backspace.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\backspace.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/barcode-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\barcode-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/barcode.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\barcode.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/battery-1-stick.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\battery-1-stick.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/battery-2-sticks.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\battery-2-sticks.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/bell-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\bell-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/bell.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\bell.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/black-clock.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\black-clock.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/black-list.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\black-list.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/book-closed.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\book-closed.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/book-open-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\book-open-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/book-opened-with-arrow.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\book-opened-with-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/bookmark-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\bookmark-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/bottom.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/box.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\box.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/bp.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\bp.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/brightness-bold-emoji.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\brightness-bold-emoji.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/brightness.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\brightness.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/business-proccess.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\business-proccess.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/calculator.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\calculator.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/calendar-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\calendar-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/calendar-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\calendar-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/calendar-24.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\calendar-24.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/calendar-check.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\calendar-check.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/calendar-deadline.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\calendar-deadline.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/calendar-off.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\calendar-off.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/calendar-sharing.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\calendar-sharing.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/calendar-slots.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\calendar-slots.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/call-chat.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\call-chat.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/camera.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\camera.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cart-with-cursor.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cart-with-cursor.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cash-terminal.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cash-terminal.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/chat-button.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\chat-button.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/chat-message.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\chat-message.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/chats-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\chats-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/chats-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\chats-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/chats-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\chats-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/chats-persons.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\chats-persons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/chats-with-check.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\chats-with-check.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/check-receipt.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\check-receipt.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/check.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\check.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/chemistry.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\chemistry.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/circle-check-thin.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\circle-check-thin.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/circle-check.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\circle-check.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/circle-minus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\circle-minus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/circle-plus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\circle-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/city.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\city.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/clock-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\clock-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/clock-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\clock-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/clock-black-white.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\clock-black-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/clock-with-arrow.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\clock-with-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/close-chat.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\close-chat.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cloud-clock.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cloud-clock.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cloud-cloud.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cloud-cloud.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cloud-empty.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cloud-empty.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cloud-error.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cloud-error.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cloud-letter-post.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cloud-letter-post.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cloud-pause.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cloud-pause.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cloud-sso.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cloud-sso.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cloud-sync.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cloud-sync.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cloud-transfer-data.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cloud-transfer-data.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/collab.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\collab.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/collaboration.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\collaboration.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/compass.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\compass.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/complete.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\complete.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/condition.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\condition.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/copilot-ai-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\copilot-ai-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/copilot-ai-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\copilot-ai-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/copilot-ai.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\copilot-ai.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/create-prompt.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\create-prompt.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/credit-debit-card.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\credit-debit-card.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/crm.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\crm.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/crossed-eye-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\crossed-eye-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/crossed-eye.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\crossed-eye.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/crown-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\crown-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/crown-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\crown-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cube-plus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cube-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cubes-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cubes-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cursor-click.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cursor-click.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/cut.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\cut.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/dead-battery.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\dead-battery.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/delete-hyperlink.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\delete-hyperlink.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/delivery-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\delivery-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/delivery-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\delivery-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/demonstration-graphics-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\demonstration-graphics-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/demonstration-graphics.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\demonstration-graphics.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/demonstration-off.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\demonstration-off.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/demonstration-on-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\demonstration-on-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/demonstration-on-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\demonstration-on-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/descending-sort-names.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\descending-sort-names.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/descending-sort.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\descending-sort.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/developer-resources.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\developer-resources.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/device-rotate.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\device-rotate.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/devices.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\devices.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/diamond.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\diamond.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/disk.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\disk.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/dislike.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\dislike.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/distribution.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\distribution.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/document-plus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\document-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/document-sign.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\document-sign.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/document-stream.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\document-stream.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/document.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\document.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/donation.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\donation.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/door-opened.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\door-opened.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/double-arrow-counter-clockwise-scrum.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\double-arrow-counter-clockwise-scrum.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/double-rhombus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\double-rhombus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/drawer.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\drawer.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/earth-language.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\earth-language.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/earth-time.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\earth-time.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/earth.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\earth.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/edit-menu.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\edit-menu.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/edit-pencil.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\edit-pencil.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/elements.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\elements.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/eraser.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\eraser.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/expand.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\expand.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/favorite-0.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\favorite-0.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/favorite-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\favorite-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/favorite-prompt.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\favorite-prompt.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/feed-bold.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\feed-bold.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/feed.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\feed.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/feedback.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\feedback.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file-arrow-down.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file-arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file-arrow-top.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file-arrow-top.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file-check-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file-check-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file-check.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file-check.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file-delete.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file-delete.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file-download.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file-download.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file-sync.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file-sync.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file-upload.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file-upload.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/file.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\file.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/filial-network.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\filial-network.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/filter-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\filter-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/filter-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\filter-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/filter-by-name.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\filter-by-name.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/filter-plus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\filter-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/fire.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\fire.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/flag-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\flag-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/flag-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\flag-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/flag-with-cross.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\flag-with-cross.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/flipchart.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\flipchart.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/folder-24.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\folder-24.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/folder-curved-arrow.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\folder-curved-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/folder-empty.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\folder-empty.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/folder-info.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\folder-info.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/folder-left-arrow.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\folder-left-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/folder-plus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\folder-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/folder-right-arrow.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\folder-right-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/folders.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\folders.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/full-battery.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\full-battery.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/funnel.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\funnel.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/gantt-graphs.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\gantt-graphs.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/gift.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\gift.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/graduation-cap.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\graduation-cap.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/graphs-diagram.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\graphs-diagram.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/group.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\group.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/headset.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\headset.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/heart.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\heart.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/help.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\help.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/home-page.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\home-page.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/home.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\home.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/hourglass-sandglass.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\hourglass-sandglass.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/hr-automation.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\hr-automation.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/idea-lamp.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\idea-lamp.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/img-format.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\img-format.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/implementation-request.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\implementation-request.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/incoming-call.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\incoming-call.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/indent.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\indent.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/info-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\info-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/info-circle-plus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\info-circle-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/info-circle.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\info-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/info.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\info.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/insert-hyperlink.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\insert-hyperlink.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/inventory-management.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\inventory-management.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/ip.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\ip.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/key.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\key.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/light-bold-sparkle.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\light-bold-sparkle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/light-bold.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\light-bold.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/lightning-plus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\lightning-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/like.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\like.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/lines-text.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\lines-text.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/lines.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\lines.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/link-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\link-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/link-bold.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\link-bold.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/links-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\links-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/list-ai.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\list-ai.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/list.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\list.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/location-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\location-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/location-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\location-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/location-plus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\location-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/lock.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\lock.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/low-battery.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\low-battery.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/magic-image.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\magic-image.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/magic-wand.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\magic-wand.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/mail-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\mail-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/mail-in.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\mail-in.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/mail-money.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\mail-money.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/mail-out.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\mail-out.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/mail-read.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\mail-read.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/mail-reply.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\mail-reply.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/mail.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\mail.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/main.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\main.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/map.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\map.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/markers.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\markers.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/market-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\market-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/market-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\market-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/marketing.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\marketing.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/menu-point.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\menu-point.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/menu.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\menu.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/message-chat-with-arrow.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\message-chat-with-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/message-chat-with-point.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\message-chat-with-point.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/microphone-off.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\microphone-off.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/microphone-on.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\microphone-on.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/mobile-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\mobile-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/mobile-with-star.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\mobile-with-star.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/more-information.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\more-information.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/more-points.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\more-points.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/move-to-checklist.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\move-to-checklist.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/music-note-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\music-note-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/music-note-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\music-note-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/music-note-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\music-note-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/my-plan.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\my-plan.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/new-message-mail.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\new-message-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/no-picture.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\no-picture.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/no-video.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\no-video.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/note-circle.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\note-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/note.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\note.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/notifications-off.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\notifications-off.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/notifications-on.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\notifications-on.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/numbers-123.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\numbers-123.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/observer-closed.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\observer-closed.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/observer.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\observer.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/open-book.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\open-book.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/open-chat.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\open-chat.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/open-lines.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\open-lines.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/opened-eye.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\opened-eye.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/opened-letter-mail.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\opened-letter-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/outdent.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\outdent.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/outgoing-call.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\outgoing-call.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/paint-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\paint-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/paint-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\paint-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/parallel-queue.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\parallel-queue.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/paste.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\paste.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/payment-terminal.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\payment-terminal.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-2-checks.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-2-checks.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-3-sticks.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-3-sticks.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-arrow-down.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-arrow-left-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-arrow-left-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-arrow-left-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-arrow-left-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-arrow-right.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-call.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-call.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-camera.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-camera.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-check.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-check.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-clock-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-clock-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-clock.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-clock.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-descending.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-descending.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-flag.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-flag.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-handset.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-handset.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-letter.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-letter.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-location.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-location.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-message-arrow-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-message-arrow-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-message-arrow-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-message-arrow-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-message.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-message.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-phone.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-plus-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-plus-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person-plus.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/person.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\person.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/persons-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\persons-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/persons-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\persons-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/persons-deny.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\persons-deny.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/persons-hand.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\persons-hand.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/persons-storage.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\persons-storage.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/picture.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\picture.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/pin-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\pin-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/pin-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\pin-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/planning-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\planning-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/planning.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\planning.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/play-circle.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\play-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/plug.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\plug.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/print-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\print-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/print-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\print-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/prompt-var.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\prompt-var.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/prompt.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\prompt.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/prompts-library.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\prompts-library.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/pulse-circle.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\pulse-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/pulse.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\pulse.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/qr-code-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\qr-code-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/qr-code-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\qr-code-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/quote.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/receipt-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\receipt-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/receipt-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\receipt-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/record-video.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\record-video.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/refresh.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\refresh.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/restore-password.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\restore-password.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/robot.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\robot.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/rocket.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\rocket.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/roles-library.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\roles-library.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/ruler-and-pencil.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\ruler-and-pencil.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sad-bold-emoji.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sad-bold-emoji.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sale-tag.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sale-tag.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/save-prompt.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\save-prompt.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/screen-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\screen-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/screen-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\screen-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/screen-arrow.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\screen-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/screen-black-white.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\screen-black-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/screen-share.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\screen-share.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/search-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\search-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/search-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\search-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/send.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\send.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sequential-queue.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sequential-queue.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/services.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\services.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/settings.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\settings.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/share-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\share-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/share-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\share-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shield-2-attention.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shield-2-attention.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shield-2-checked.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shield-2-checked.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shield-2-contour.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shield-2-contour.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shield-2-core-problem.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shield-2-core-problem.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shield-2-defended.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shield-2-defended.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shield-2-menu.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shield-2-menu.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shield-2-plain.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shield-2-plain.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shield-2-time.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shield-2-time.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shield-2-update.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shield-2-update.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shield.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shield.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shining-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shining-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/shining.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\shining.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sigma-summ-a.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sigma-summ-a.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sigma-summ.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sigma-summ.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sign.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sign.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/signal-wifi-off.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\signal-wifi-off.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/signal-wifi.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\signal-wifi.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sitemap.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sitemap.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sites-stores.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sites-stores.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/smart-process.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\smart-process.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/smile.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\smile.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sms.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sms.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sort-activity.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sort-activity.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sort-calendar.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sort-calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sound-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sound-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sound-off.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sound-off.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sound-on.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sound-on.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/spanner.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\spanner.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/speaker-mouthpiece.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\speaker-mouthpiece.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/speakerphone.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\speakerphone.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/speed-meter.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\speed-meter.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/stop-hand.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\stop-hand.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/stopwatch.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\stopwatch.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sub-point.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sub-point.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/subscription.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\subscription.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/subtask.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\subtask.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/suitcase.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\suitcase.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sun.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sun.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sunglasses.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sunglasses.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/switch.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\switch.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/sync-circle.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\sync-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/table.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\table.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/tag.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\tag.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/target-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\target-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/target-timer.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\target-timer.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/target.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\target.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/tasks.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\tasks.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/telephony-handset-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\telephony-handset-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/telephony-handset-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\telephony-handset-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/telephony-handset-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\telephony-handset-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/telephony-handset-4.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\telephony-handset-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/telephony-handset-5.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\telephony-handset-5.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/telephony-handset-6.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\telephony-handset-6.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/telephony-phonebook-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\telephony-phonebook-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/telephony-phonebook.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\telephony-phonebook.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/temp-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\temp-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/temp-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\temp-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/templates.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\templates.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/thread-single.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\thread-single.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/thread.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\thread.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/time-picker.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\time-picker.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/topic.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\topic.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/torrent.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\torrent.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/translation.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\translation.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/trash-bin.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\trash-bin.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/unavailable.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\unavailable.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/unpin.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\unpin.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/unsub-point.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\unsub-point.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/video-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\video-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/video-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\video-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/video-3.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\video-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/video-and-chat.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\video-and-chat.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/waiting-list.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\waiting-list.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/waiting-points.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\waiting-points.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/warning-circle.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\warning-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/warning.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\warning.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/watch.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\watch.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/waves.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\waves.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window-arrow.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window-check-arrow.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window-check-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window-check-link.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window-check-link.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window-check-pencil.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window-check-pencil.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window-check-with-folder.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window-check-with-folder.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window-double-check-1.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window-double-check-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window-double-check-2.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window-double-check-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window-flag.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window-flag.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window-ring.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window-ring.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window-with-point.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window-with-point.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/images/window.svg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\images\window.svg
+Content Type: image/svg+xml
+
+Uri: https://cdc-dialysis.ru/bitrix/js/ui/icon-set/main/style.min.css?173402213475565
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\js\ui\icon-set\main\style.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/panel/catalog/catalog_cond.min.css?15549945847248
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\panel\catalog\catalog_cond.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/panel/catalog/images/cond-alert.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\panel\catalog\images\cond-alert.png
+Content Type: image/png
+
+Uri: https://cdc-dialysis.ru/bitrix/panel/main/images/bx-admin-sprite-small-2.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\panel\main\images\bx-admin-sprite-small-2.png
+Content Type: image/png
+
+Uri: https://cdc-dialysis.ru/bitrix/panel/main/images/popup_menu_sprite_2.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\panel\main\images\popup_menu_sprite_2.png
+Content Type: image/png
+
+Uri: https://cdc-dialysis.ru/bitrix/panel/main/images/popup_sprite.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\panel\main\images\popup_sprite.png
+Content Type: image/png
+
+Uri: https://cdc-dialysis.ru/bitrix/panel/main/images_old/panel/pencil.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\panel\main\images_old\panel\pencil.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/panel/main/popup.min.css?167109653420774
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\panel\main\popup.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/css/custom.min.css?15738327531305
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\css\custom.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/components/hs.carousel.min.js?16711921524391
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\components\hs.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/components/hs.core_landing.min.js?1658933105614
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\components\hs.core_landing.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/auto_font_scale_init.min.js?1698935120150
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\auto_font_scale_init.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/carousel/base_carousel_init.min.js?16614118232748
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\carousel\base_carousel_init.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/carousel/carousel_helper.min.js?16692084138623
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\carousel\carousel_helper.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/gallery_cards_init.min.js?16292822253277
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\gallery_cards_init.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/inline-video.min.js?16692084132915
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\inline-video.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/lazyload.min.js?16989351202187
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\lazyload.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/menu/block-header-entry.min.js?16355193376947
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\menu\block-header-entry.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/menu/block-header-init.min.js?16843044571122
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\menu\block-header-init.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/menu/menu_init.min.js?17024696994546
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\menu\menu_init.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/menu/scrollspy.min.js?16770006392633
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\menu\scrollspy.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/onscroll-animation_init.min.js?16989351203360
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\onscroll-animation_init.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/popup_init.min.js?1658933105779
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\popup_init.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/js/helpers/upper_init.min.js?1594736530704
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\js\helpers\upper_init.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/animate.min.css?167119215225402
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\animate.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/bootstrap/bootstrap.min.css?1694617665177088
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/bootstrap/js/dist/collapse.min.js?15906508266674
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\bootstrap\js\dist\collapse.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/bootstrap/js/dist/util.min.js?15906508262242
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\bootstrap\js\dist\util.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/fancybox/jquery.fancybox.min.css?156750832713920
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\fancybox\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/fancybox/jquery.fancybox_landing.min.js?171143448261369
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\fancybox\jquery.fancybox_landing.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/hamburgers/dist/hamburgers.min.css?169461766511902
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\hamburgers\dist\hamburgers.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/fab/font.woff
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\fab\font.woff
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/fab/font.woff2
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\fab\font.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/fab/style.min.css?16454331983795
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\fab\style.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/far/font.woff
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\far\font.woff
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/far/font.woff2
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\far\font.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/far/style.min.css?1640342071601
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\far\style.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/icon-medical/font.woff
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\icon-medical\font.woff
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/icon-medical/style.min.css?1590650826824
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\icon-medical\style.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/icon/font.woff
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\icon\font.woff
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/icon/font.woff2
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\icon\font.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/icon/icon/style.min.css?15994906853423
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\icon\icon\style.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/jquery.easing/js/jquery.easing_landing.min.js?16589331053591
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\jquery.easing\js\jquery.easing_landing.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/jquery/jquery_landing.min.js?166385260095077
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\jquery\jquery_landing.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/slick-carousel/slick/landing-slick.min.css?16946176653544
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\slick-carousel\slick\landing-slick.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/slick-carousel/slick/slick.min.css?16946176651267
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\slick-carousel\slick\slick.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/assets/vendor/slick-carousel/slick/slick_landing.min.js?165893310545151
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\assets\vendor\slick-carousel\slick\slick_landing.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/template_styles.min.css?16843044572401
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\template_styles.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/templates/landing24/theme.min.css?1702469699584893
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\templates\landing24\theme.min.css
+Content Type: text/css
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons/copy.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons\copy.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons/edit.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons\edit.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons/edit_common.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons\edit_common.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons/edit_wf.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons\edit_wf.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons/menu_add.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons\menu_add.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons/menu_delete.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons\menu_delete.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons/menu_edit.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons\menu_edit.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons/menu_templ.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons\menu_templ.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons/nav_templ.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons\nav_templ.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons/parameters.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons\parameters.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons2/copy.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons2\copy.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons2/delcache.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons2\delcache.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons2/edit.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons2\edit.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons2/edit_css.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons2\edit_css.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/components/buttons2/parameters.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\components\buttons2\parameters.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/buttons/delete.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\buttons\delete.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/comp_cache.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\comp_cache.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/create_folder_template.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\create_folder_template.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/create_template.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\create_template.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/delete_file.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\delete_file.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/delete_folder.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\delete_folder.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/edit_html.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\edit_html.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/edit_php.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\edit_php.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/edit_text.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\edit_text.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/file_access.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\file_access.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/file_props.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\file_props.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/folder_access.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\folder_access.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/folder_props.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\folder_props.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/key.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\key.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/new_file.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\new_file.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/new_folder.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\new_folder.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/page_cache.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\page_cache.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/bitrix/themes/.default/public/panel_new/menus/user.gif
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\themes\.default\public\panel_new\menus\user.gif
+Content Type: image/gif
+
+Uri: https://cdc-dialysis.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cdc-dialysis.ru/pravilapodgotovkikdiagnosticheskimissledovaniyam/
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\pravilapodgotovkikdiagnosticheskimissledovaniyam\index.htm
+Content Type: text/html
+
+Uri: https://cdc-dialysis.ru/pustayastranitsa/
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\pustayastranitsa\index.htm
+Content Type: text/html
+
+Uri: https://cdc-dialysis.ru/turizmnabaykale/
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\turizmnabaykale\index.htm
+Content Type: text/html
+
+Uri: https://cdn.bitrix24.site/bitrix/images/landing/patterns/pattern1.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\images\landing\patterns\pattern1.png
+Content Type: image/png
+
+Uri: https://cdn.bitrix24.site/bitrix/images/landing/patterns/pattern2.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\images\landing\patterns\pattern2.png
+Content Type: image/png
+
+Uri: https://cdn.bitrix24.site/bitrix/images/landing/patterns/pattern3.png
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\bitrix\images\landing\patterns\pattern3.png
+Content Type: image/png
+
+Uri: https://fonts.bitrix24.ru/css2?family=Open+Sans:wght@100;200;300;400;500;600;700;800;900
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.bitrix24.ru/css2?family=Open+Sans:wght@100;200;300;400;500;600;700;800;900&subset=cyrillic
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\css2-2
+Content Type: text/css
+
+Uri: https://fonts.bitrix24.ru/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.bitrix24.ru/css?family=Manrope:300,400,500,600,700,900
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\css
+Content Type: text/css
+
+Uri: https://fonts.bitrix24.ru/fonts/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEammT.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbWmT.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.bitrix24.ru/fonts/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\fonts\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://go.2gis.com/3mdhu
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\3mdhu
+Content Type: text/plain
+
+Uri: https://img.youtube.com/vi/mfKCKJOFVLY/sddefault.jpg
+File Name: C:\Downloaded Web Sites\cdc-dialysis.ru\vi\mfKCKJOFVLY\sddefault.jpg
+Content Type: image/jpeg
+

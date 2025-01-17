@@ -1,0 +1,768 @@
+﻿<!DOCTYPE html>
+<html xml:lang="ru" lang="ru" class="">
+<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="MobileOptimized" content="width">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>ЧУЗ Специализированная поликлиника</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+							:root {
+								--theme-color-b24button: var(--primary);
+							}
+						</style>
+<style>:root {--theme-color-main: #12222d !important;--theme-color-title: #12222d !important;}</style>
+<style type="text/css">
+				:root {
+					--primary: #30a593 !important;
+					--primary-darken-1: hsl(170.77, 55%, 40%);
+					--primary-darken-2: hsl(170.77, 55%, 37%);
+					--primary-darken-3: hsl(170.77, 55%, 32%);
+					--primary-lighten-1: hsl(170.77, 55%, 52%);
+					--primary-opacity-0: rgba(48, 165, 147, 0);
+					--primary-opacity-0_05: rgba(48, 165, 147, 0.05);
+					--primary-opacity-0_1: rgba(48, 165, 147, 0.1);
+					--primary-opacity-0_15: rgba(48, 165, 147, 0.15);
+					--primary-opacity-0_2: rgba(48, 165, 147, 0.2);
+					--primary-opacity-0_25: rgba(48, 165, 147, 0.25);
+					--primary-opacity-0_3: rgba(48, 165, 147, 0.3);
+					--primary-opacity-0_35: rgba(48, 165, 147, 0.35);
+					--primary-opacity-0_4: rgba(48, 165, 147, 0.4);
+					--primary-opacity-0_45: rgba(48, 165, 147, 0.45);
+					--primary-opacity-0_5: rgba(48, 165, 147, 0.5);
+					--primary-opacity-0_55: rgba(48, 165, 147, 0.55);
+					--primary-opacity-0_6: rgba(48, 165, 147, 0.6);
+					--primary-opacity-0_65: rgba(48, 165, 147, 0.65);
+					--primary-opacity-0_7: rgba(48, 165, 147, 0.7);
+					--primary-opacity-0_75: rgba(48, 165, 147, 0.75);
+					--primary-opacity-0_8: rgba(48, 165, 147, 0.8);
+					--primary-opacity-0_85: rgba(48, 165, 147, 0.85);
+					--primary-opacity-0_9: rgba(48, 165, 147, 0.9);
+					--primary-opacity-0_95: rgba(48, 165, 147, 0.95);
+					--theme-color-main: hsl(170.77, 20%, 20%);
+					--theme-color-secondary: hsl(170.77, 20%, 80%);
+					--theme-color-title: hsl(170.77, 20%, 20%);
+					--theme-color-strict-inverse: #ffffff;
+				}
+			</style>
+<script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
+
+
+<link href="bitrix/js/intranet/intranet-common.min.css?166151605361199" type="text/css" rel="stylesheet">
+<link href="bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?171327662823463" type="text/css" rel="stylesheet">
+<link href="bitrix/js/intranet/design-tokens/bitrix24/bitrix24-design-tokens.min.css?16854388541467" type="text/css" rel="stylesheet">
+<link href="bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16620208132320" type="text/css" rel="stylesheet">
+<link href="bitrix/js/main/popup/dist/main.popup.bundle.min.css?173392982726589" type="text/css" rel="stylesheet">
+<link href="bitrix/js/ui/icon-set/actions/style.min.css?173402213419819" type="text/css" rel="stylesheet">
+<link href="bitrix/js/ui/icon-set/main/style.min.css?173402213475565" type="text/css" rel="stylesheet">
+<link href="bitrix/js/main/sidepanel/css/sidepanel.min.css?170185523712285" type="text/css" rel="stylesheet">
+<link href="bitrix/js/main/core/css/core_date.min.css?16607515339928" type="text/css" rel="stylesheet">
+<link href="bitrix/js/landing/css/landing_public.min.css?1567508327250" type="text/css" rel="stylesheet">
+<link href="bitrix/components/bitrix/landing.pub/templates/.default/style.min.css?170246969943765" type="text/css" rel="stylesheet">
+<link href="bitrix/panel/main/popup.min.css?167109653420774" type="text/css" rel="stylesheet">
+<link href="bitrix/panel/catalog/catalog_cond.min.css?15549945847248" type="text/css" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/vendor/bootstrap/bootstrap.min.css?1694617665177088" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/theme.min.css?1702469699584893" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/css/custom.min.css?15738327531305" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/vendor/animate.min.css?167119215225402" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/vendor/hamburgers/dist/hamburgers.min.css?169461766511902" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/vendor/icon/icon/style.min.css?15994906853423" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/vendor/icon/icon-medical/style.min.css?1590650826824" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/vendor/fancybox/jquery.fancybox.min.css?156750832713920" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/vendor/icon/far/style.min.css?1640342071601" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/vendor/slick-carousel/slick/slick.min.css?16946176651267" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/vendor/slick-carousel/slick/landing-slick.min.css?16946176653544" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/assets/vendor/icon/fab/style.min.css?16454331983795" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="bitrix/templates/landing24/template_styles.min.css?16843044572401" type="text/css" data-template-style="true" rel="stylesheet">
+
+
+
+
+<script type="extension/settings" data-extension="main.date">{"formats":{"FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","SHORT_DATE_FORMAT":"d.m.Y","MEDIUM_DATE_FORMAT":"j M Y","LONG_DATE_FORMAT":"j F Y","DAY_MONTH_FORMAT":"j F","DAY_SHORT_MONTH_FORMAT":"j M","SHORT_DAY_OF_WEEK_MONTH_FORMAT":"D, j F","SHORT_DAY_OF_WEEK_SHORT_MONTH_FORMAT":"D, j M","DAY_OF_WEEK_MONTH_FORMAT":"l, j F","FULL_DATE_FORMAT":"l, j F  Y","SHORT_TIME_FORMAT":"H:i","LONG_TIME_FORMAT":"H:i:s"}}</script>
+
+
+
+<meta name="robots" content="all">
+<style>
+					@keyframes page-transition {
+						0% {
+							opacity: 1;
+						}
+						100% {
+							opacity: 0;
+						}
+					}
+					body.landing-page-transition::after {
+						opacity: 1;
+						background: #fff;
+						animation: page-transition 2s 1s forwards;
+					}
+				</style>
+
+
+
+<link rel="preload" href="bitrix/templates/landing24/assets/vendor/icon/icon/font.woff" as="font" crossorigin="anonymous" type="font/woff" crossorigin="">
+<link rel="preload" href="bitrix/templates/landing24/assets/vendor/icon/icon/font.woff2" as="font" crossorigin="anonymous" type="font/woff2" crossorigin="">
+<style>.icon-phone:before{content:"\e600";}.icon-envelope-open:before{content:"\e01e";}.icon-cursor:before{content:"\e06e";}.icon-calendar:before{content:"\e075";}</style>
+<link rel="preload" href="bitrix/templates/landing24/assets/vendor/icon/icon-medical/font.woff" as="font" crossorigin="anonymous" type="font/woff" crossorigin="">
+<style>.icon-medical-041:before{content:"W";}.icon-medical-071:before{content:"$";}</style>
+<link rel="preload" href="bitrix/templates/landing24/assets/vendor/icon/far/font.woff" as="font" crossorigin="anonymous" type="font/woff" crossorigin="">
+<link rel="preload" href="bitrix/templates/landing24/assets/vendor/icon/far/font.woff2" as="font" crossorigin="anonymous" type="font/woff2" crossorigin="">
+<style>.fa-edit:before{content:"\f044";}.fa-heartbeat:before{content:"\f21e";}.fa-stethoscope:before{content:"\f0f1";}.fa-medkit:before{content:"\f0fa";}.fa-hospital-o:before{content:"\f0f8";}</style>
+<style>.fa-angle-left:before{content:"\f104";}.fa-angle-right:before{content:"\f105";}</style>
+<link rel="preload" href="bitrix/templates/landing24/assets/vendor/icon/fab/font.woff" as="font" crossorigin="anonymous" type="font/woff" crossorigin="">
+<link rel="preload" href="bitrix/templates/landing24/assets/vendor/icon/fab/font.woff2" as="font" crossorigin="anonymous" type="font/woff2" crossorigin="">
+<style>.fa-linkedin:before{content:"\f08c";}</style>
+<style>.fa-map-marker:before{content:"\f041";}.fa-volume-control-phone:before{content:"\f2a0";}.fa-envelope:before{content:"\f0e0";}.fa-calendar:before{content:"\f133";}</style>
+<style>.fa-map-marker:before{content:"\f041";}.icon-call-in:before{content:"\e047";}.icon-earphones-alt:before{content:"\e03c";}</style>
+<style>
+					body {
+						--landing-font-family: Roboto
+					}
+				</style>
+<link rel="stylesheet" href="css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900">
+<style>
+				body {
+					font-weight: 400;
+					font-family: Arial, sans-serif;
+					-webkit-font-smoothing: antialiased;
+					-moz-osx-font-smoothing: grayscale;
+					-moz-font-feature-settings: "liga", "kern";
+					text-rendering: optimizelegibility;
+				}
+			</style>
+<style>
+				h1, h2, h3, h4, h5, h6 {
+					font-family: Arial, sans-serif;
+				}
+			</style>
+<style>
+			html {font-size: 14px;}
+			body {font-size: 1rem;}
+			.g-font-size-default {font-size: 1rem;}
+		</style>
+<style>
+				main.landing-public-mode {
+					line-height: 1.6;
+					font-weight: 400;
+				}
+				
+				.landing-public-mode .h1, .landing-public-mode .h2, .landing-public-mode .h3, .landing-public-mode .h4, 
+				.landing-public-mode .h5, .landing-public-mode .h6, .landing-public-mode .h7,
+				.landing-public-mode h1, .landing-public-mode h2, .landing-public-mode h3, .landing-public-mode h4, 
+				.landing-public-mode h5, .landing-public-mode h6 {
+					font-weight: 400;
+				}
+			</style>
+<meta property="og:title" content="ЧУЗ Специализированная поликлиника"><meta property="og:description" content="Медицинский центр амбулаторного гемодиализа"><meta property="og:image" content="https://cdn-ru.bitrix24.ru/b334051/landing/47b/47b8e63e645ce7cafde9c9a3e708ee91/-iStock-Natali_Mis-1024x576_1x.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta property="og:type" content="website"><meta property="twitter:title" content="ЧУЗ Специализированная поликлиника"><meta property="twitter:description" content="Медицинский центр амбулаторного гемодиализа"><meta property="twitter:image" content="https://cdn-ru.bitrix24.ru/b334051/landing/47b/47b8e63e645ce7cafde9c9a3e708ee91/-iStock-Natali_Mis-1024x576_1x.jpg"><meta name="twitter:card" content="summary_large_image"><meta property="twitter:type" content="website"> <meta property="Bitrix24SiteType" content="page"> <meta property="og:url" content="https://cdc-dialysis.ru/">
+<link rel="canonical" href="index.htm">
+<link rel="icon" type="image/png" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/047e4a127947eff3c7d861cc2f113186/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/45fd33a620da2e44653e6a92c96d9446/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/c8042d925d6656dd077f15192d13bb8f/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="96x96">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/eb45a9f96698d396483d7a1236fe0380/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/a03d95df41ccb7c2ab8a9e9ebcd4cf8a/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="180x180">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/8245e211b4cc1aeef31861f9c55143e5/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/26c9f99963f016735739c7de412de1e1/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="167x167">
+ <noscript><link rel="stylesheet" href="css?family=Manrope:300,400,500,600,700,900" data-font="g-font-manrope"></noscript>
+<link rel="preload" href="css?family=Manrope:300,400,500,600,700,900" data-font="g-font-manrope" onload="this.removeAttribute('onload');this.rel='stylesheet'" as="style">
+<style data-id="g-font-manrope">.g-font-manrope { font-family: "Manrope", sans-serif; }</style> <link rel="icon" type="image/x-icon" href="favicon.ico"></head>
+<body class="landing-page-transition landing-b24button-use-style">
+<main class="w-100 landing-public-mode">
+<div id="b4310" class="block-wrapper block-0-menu-17-restaurant"><header class="landing-block landing-semantic-background-color u-header u-header--sticky u-header--relative g-z-index-9999 g-bg" style="--bg: #30a593;">
+	<div class="u-header__section u-header__section--light g-transition-0_3 g-py-16" data-header-fix-moment-exclude="g-py-16" data-header-fix-moment-classes="u-shadow-v27 g-py-6">
+		<nav class="navbar navbar-expand-lg g-py-0 g-mt-3 g-px-10 u-navbar-color u-navbar-color--hover" style="--navbar-color: #ffffff;--navbar-color--hover: #f4d39e;">
+			<div class="container">
+				<!-- Logo -->
+				<a href="index.htm" class="landing-block-node-menu-logo-link navbar-brand u-header__logo p-0" target="_self">
+					<img class="landing-block-node-menu-logo u-header__logo-img u-header__logo-img--main g-max-width-180" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2MCI+PHJlY3QgaWQ9ImJhY2tncm91bmRyZWN0IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4PSIwIiB5PSIwIiBmaWxsPSIjZGRkIiBmaWxsLW9wYWNpdHk9Ii43IiBzdHJva2U9Im5vbmUiLz48L3N2Zz4=" alt="" data-fileid="387058" data-fileid2x="387060" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/72b/72bc162dcbcdc5ae0f51ceccd4638fe1/Dokument5_2_1x.png" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/a17/a1740db31ee5ac2eafc827f77dd031d2/Dokument5_2_2x.png 2x">
+				</a>
+				<!-- End Logo -->
+
+				<!-- Navigation -->
+				<div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar4310">
+					<ul class="landing-block-node-menu-list js-scroll-nav navbar-nav text-uppercase g-font-weight-700 g-font-size-12 g-pt-20 g-pt-0--lg ml-auto"><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="index.htm" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">ГЛАВНАЯ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg landing-card">
+							<a href="pustayastranitsa/index.htm" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self" data-selector=".landing-block-node-menu-list-item-link@1" title="Нажмите, чтобы отредактировать кнопку">ВРАЧИ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="pravilapodgotovkikdiagnosticheskimissledovaniyam/index.htm" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">ПАЦИЕНТАМ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="turizmnabaykale/index.htm" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">ТУРИЗМ НА БАЙКАЛЕ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="#b3982" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">ОТЗЫВЫ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="#contacts" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">КОНТАКТЫ</a>
+						</li></ul>
+				</div>
+				<!-- End Navigation -->
+
+				<!-- Responsive Toggle Button -->
+				<button class="navbar-toggler btn g-line-height-1 g-brd-none g-pa-0 ml-auto" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar4310" data-toggle="collapse" data-target="#navBar4310">
+                <span class="hamburger hamburger--slider">
+                  <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                  </span>
+                </span>
+				</button>
+				<!-- End Responsive Toggle Button -->
+			</div>
+		</nav>
+	</div>
+</header></div><div id="b3888" class="block-wrapper block-46-7-cover-bgimg-text-blocks-with-icons"><section class="landing-block">
+	<div class="landing-block-node-bgimg g-height-100vh u-bg-overlay g-flex-centered g-bg-img-hero g-mb-minus-140 g-bg--after" data-fileid="385266" data-fileid2x="385268" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" style="--bg--after: hsla(0, 0%, 0%, 0.3);background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjEwMDkiPjxyZWN0IGlkPSJiYWNrZ3JvdW5kcmVjdCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeD0iMCIgeT0iMCIgZmlsbD0iI2RkZCIgZmlsbC1vcGFjaXR5PSIuNyIgc3Ryb2tlPSJub25lIi8+PC9zdmc+);" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/dca/dca787908f6491908a914082aaf3c179/dialysis_1x_1x.jpg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/dca/dca787908f6491908a914082aaf3c179/dialysis_1x_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/b19/b1909e526d5ff07e8b7ee7230dd6fb05/dialysis_1x_2x.jpg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/dca/dca787908f6491908a914082aaf3c179/dialysis_1x_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/b19/b1909e526d5ff07e8b7ee7230dd6fb05/dialysis_1x_2x.jpg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/dca/dca787908f6491908a914082aaf3c179/dialysis_1x_1x.jpg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/b19/b1909e526d5ff07e8b7ee7230dd6fb05/dialysis_1x_2x.jpg">
+		<div class="u-bg-overlay__inner w-100">
+			<div class="container g-pos-rel g-z-index-1 g-mt-50--md">
+				<div class="row align-items-center">
+					<div class="landing-block-node-container js-animation fadeInLeft col-sm-10 col-lg-8">
+						<h2 class="landing-block-node-title landing-semantic-title-image-medium g-color-white g-mb-30 g-mb-50--sm g-font-size-42 text-left g-font-weight-auto"><p style=""> Специализированная поликлиника<br></p></h2>
+
+						<div class="row"><div class="landing-block-node-card col-md-6 col-lg-6 g-mb-10 g-mb-30--md">
+								<div class="media">
+                      <span class="landing-block-node-card-icon-container d-flex u-icon-v1 g-width-50 g-height-50 g-color-white g-bg-white-opacity-0_1 g-font-size-26 g-line-height-1 rounded-circle g-pos-rel g-pa-12 mr-3">
+                        <i class="landing-block-node-card-icon icon-phone" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+                      </span>
+									<div class="media-body">
+										<div class="landing-block-node-card-title landing-semantic-subtitle-image-medium g-color-white g-font-size-30">ТЕЛЕФОН</div>
+										<h2 class="landing-block-node-card-text landing-semantic-text-image-medium lead g-color-white-opacity-0_9">+7 (9021) 609-690<p>+7 (9021) 605-613 Селенгинск<br></p></h2>
+									</div>
+								</div>
+							</div><div class="landing-block-node-card col-md-6 col-lg-6 g-mb-10 g-mb-30--md">
+								<div class="media">
+                      <span class="landing-block-node-card-icon-container d-flex u-icon-v1 g-width-50 g-height-50 g-color-white g-bg-white-opacity-0_1 g-font-size-26 g-line-height-1 rounded-circle g-pos-rel g-pa-12 mr-3">
+                        <i class="landing-block-node-card-icon icon-envelope-open" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+                      </span>
+									<div class="media-body">
+										<div class="landing-block-node-card-title landing-semantic-subtitle-image-medium g-color-white g-font-size-30">E-MAIL</div>
+										<h2 class="landing-block-node-card-text landing-semantic-text-image-medium lead g-color-white-opacity-0_9">info.uugdc@gmail.com</h2>
+									</div>
+								</div>
+							</div><div class="landing-block-node-card col-md-6 col-lg-6 g-mb-10 g-mb-30--md">
+								<div class="media">
+                      <span class="landing-block-node-card-icon-container d-flex u-icon-v1 g-width-50 g-height-50 g-color-white g-bg-white-opacity-0_1 g-font-size-26 g-line-height-1 rounded-circle g-pos-rel g-pa-12 mr-3">
+                        <i class="landing-block-node-card-icon icon-cursor" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+                      </span>
+									<div class="media-body">
+										<div class="landing-block-node-card-title landing-semantic-subtitle-image-medium g-color-white g-font-size-30">АДРЕС</div>
+										<h2 class="landing-block-node-card-text landing-semantic-text-image-medium lead g-color-white-opacity-0_9 g-pl-auto" style="--color: ;">670047 г. Улан-Удэ, ул. Боевая д.9Б<br>​671247 пгт Селенгинск, ул. Южный микрорайон, 38, Кабанский район Республика Бурятия<br></h2>
+									</div>
+								</div>
+							</div><div class="landing-block-node-card col-md-6 col-lg-6 g-mb-10 g-mb-30--md">
+								<div class="media">
+                      <span class="landing-block-node-card-icon-container d-flex u-icon-v1 g-width-50 g-height-50 g-color-white g-bg-white-opacity-0_1 g-font-size-26 g-line-height-1 rounded-circle g-pos-rel g-pa-12 mr-3">
+                        <i class="landing-block-node-card-icon icon-calendar" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+                      </span>
+									<div class="media-body">
+										<div class="landing-block-node-card-title landing-semantic-subtitle-image-medium g-color-white g-font-size-30">ГРАФИК РАБОТЫ</div>
+										<h2 class="landing-block-node-card-text landing-semantic-text-image-medium lead g-color-white-opacity-0_9">Пн - Сб: 08:00 - 23:00</h2>
+									</div>
+								</div>
+							</div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<svg class="g-pos-rel" version="1.1" preserveaspectratio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="140px" viewbox="20 -20 300 100">
+		<path d="M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729
+      c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z" opacity="0.4" fill="#f0f1f3"></path>
+		<path d="M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729
+      c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z" opacity="0.4" fill="#f0f1f3"></path>
+		<path d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716
+      H42.401L43.415,98.342z" opacity="0" fill="#fafbfc"></path>
+		<path d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428
+      c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" fill="#fafbfc"></path>
+	</svg>
+</section></div><div id="b3908" class="block-wrapper block-19-2-features-with-img"><section class="landing-block landing-semantic-background-color g-pt-30 g-pb-30 g-bg" style="--bg: linear-gradient(180deg, #fafbfc 0%, #ffffff 100%);--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-5 col-lg-5 text-center g-overflow-hidden order-2 order-md-1">
+				<img class="landing-block-node-img js-animation slideInLeft img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NDUiIGhlaWdodD0iNjcyIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="385238" data-fileid2x="385240" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/aa8/aa8c3762fd0b83e3fbf005132589be2d/DSC_7988_2x_1x.jpg" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/750/750ab6710b76cf4db8a3be8b102490f8/DSC_7988_2x_2x.jpg 2x">
+			</div>
+
+			<div class="landing-block-node-text-container col-md-7 col-lg-7 d-flex text-center text-md-left order-1 order-md-2">
+				<div>
+					<div class="text-uppercase">
+						<h6 class="landing-block-node-subtitle landing-semantic-subtitle-small g-font-weight-700 g-mb-15"><span style="color: rgb(48, 165, 147);">ЧУЗ Специализированная поликлиника</span></h6>
+						<h2 class="landing-block-node-title landing-semantic-title-medium g-line-height-1_3 h1 g-mb-20"><span style="font-weight: 700;">о Учреждении амбулаторного гемодиализа</span></h2>
+					</div>
+
+					<div class="landing-block-node-text landing-semantic-text-medium g-mb-65"><p style="text-align: justify;">Учреждение гемодиализа открылся в январе 2020 года и оказывает медицинскую помощь пациентам с хронической почечной недостаточностью, нуждающимся в проведении заместительной почечной терапии. Учреждение входит в реестр медицинских учреждений, оказывающих медицинскую помощь в рамках территориальной программы ОМС жителям Республики Бурятия и иногородним пациентам по обращению.</p></div>
+
+					<div class="landing-block-node-cards-container"><div class="landing-block-node-card media d-block d-md-flex text-center text-md-left g-mb-30">
+							<div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+							<span class="landing-block-node-card-icon-border u-icon-v2 u-icon-size--lg g-font-size-26 g-color-primary g-rounded-50x">
+								<i class="landing-block-node-card-icon icon-medical-041 u-line-icon-pro" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+							</span>
+							</div>
+
+							<div class="media-body align-self-center">
+								<h6 class="landing-block-node-card-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-mb-15">ГЕМОДИАЛИЗ</h6>
+								<div class="landing-block-node-card-text landing-semantic-text-medium mb-0"><p style="text-align: justify;">Гемодиализ — это наиболее распространенный метод при лечении хронической болезни почек. В процессе гемодиализа происходит очищение крови от токсинов вне организма с использованием специального фильтра (диализатора)</p></div>
+							</div>
+						</div><div class="landing-block-node-card media d-block d-md-flex text-center text-md-left g-mb-30">
+							<div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+							<span class="landing-block-node-card-icon-border u-icon-v2 u-icon-size--lg g-font-size-26 g-color-primary g-rounded-50x">
+								<i class="landing-block-node-card-icon icon-medical-071 u-line-icon-pro" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+							</span>
+							</div>
+
+							<div class="media-body align-self-center">
+								<h6 class="landing-block-node-card-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-mb-15">НАШИ СПЕЦИАЛИСТЫ</h6>
+								<div class="landing-block-node-card-text landing-semantic-text-medium mb-0"><p style="text-align: justify;">В штате работают высококвалифицированные врачи-нефрологи и медицинские сестры с большим опытом работы с диализными пациентами. Главным врачом является врач-нефролог, кандидат медицинских наук, врач высшей квалификационной категории Мондоев Леонид Геннадьевич.</p></div>
+							</div>
+						</div></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div><div id="b3986" class="block-wrapper block-32-6-img-grid-4cols-1-no-gutters"><section class="landing-block g-pt-0 g-pb-0">
+
+	<div class="row no-gutters js-gallery-cards">
+
+		<div class="col-12 col-sm-6 col-md-3">
+			<div class="h-100">
+				<div class="landing-block-node-img-container landing-block-node-img-container-leftleft js-animation fadeInLeft h-100 g-pos-rel g-parent u-block-hover">
+					<img data-fancybox="gallery" class="landing-block-node-img img-fluid g-object-fit-cover h-100 w-100 u-block-hover__main--zoom-v1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDgwIiBoZWlnaHQ9IjU0MCI+PHJlY3QgaWQ9ImJhY2tncm91bmRyZWN0IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4PSIwIiB5PSIwIiBmaWxsPSIjZGRkIiBmaWxsLW9wYWNpdHk9Ii43IiBzdHJva2U9Im5vbmUiLz48L3N2Zz4=" alt="" data-fileid="385432" data-fileid2x="385434" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/6f4/6f4d22568b3016f338acbe27af55af8b/604a1c59f196be0018beecb2_1x.jpg" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/066/0666240b3ff4c6348d54208676b0cda6/604a1c59f196be0018beecb2_2x.jpg 2x">
+				</div>
+			</div>
+		</div>
+
+		<div class="col-12 col-sm-6 col-md-3">
+			<div class="h-100">
+				<div class="landing-block-node-img-container landing-block-node-img-container-left js-animation fadeInDown h-100 g-pos-rel g-parent u-block-hover">
+					<img data-fancybox="gallery" class="landing-block-node-img img-fluid g-object-fit-cover h-100 w-100 u-block-hover__main--zoom-v1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDgwIiBoZWlnaHQ9IjcxOSI+PHJlY3QgaWQ9ImJhY2tncm91bmRyZWN0IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4PSIwIiB5PSIwIiBmaWxsPSIjZGRkIiBmaWxsLW9wYWNpdHk9Ii43IiBzdHJva2U9Im5vbmUiLz48L3N2Zz4=" alt="" data-fileid="385446" data-fileid2x="385442" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/c4d/c4ddff3aabba4266aac3ea496d04c128/nurse-medical-treatment-machine-patient_1x.jpg" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/1d5/1d5ebf73ea9c53f5e40c57508149c81a/nurse-medical-treatment-machine-patient_2x.jpg 2x">
+				</div>
+			</div>
+		</div>
+
+		<div class="col-12 col-sm-6 col-md-3">
+			<div class="h-100">
+				<div class="landing-block-node-img-container landing-block-node-img-container-right js-animation fadeInDown h-100 g-pos-rel g-parent u-block-hover">
+					<img data-fancybox="gallery" class="landing-block-node-img img-fluid g-object-fit-cover h-100 w-100 u-block-hover__main--zoom-v1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDgwIiBoZWlnaHQ9IjcyMCI+PHJlY3QgaWQ9ImJhY2tncm91bmRyZWN0IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4PSIwIiB5PSIwIiBmaWxsPSIjZGRkIiBmaWxsLW9wYWNpdHk9Ii43IiBzdHJva2U9Im5vbmUiLz48L3N2Zz4=" alt="" data-fileid="385438" data-fileid2x="385436" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/509/509d2fd4af6b7118034f4eb2f9082ba8/iStock-941245560-2121x1414_1x.jpg" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/c7a/c7a17317e34e42d0e7672fc4ee663b9e/iStock-941245560-2121x1414_2x.jpg 2x">
+				</div>
+			</div>
+		</div>
+
+		<div class="col-12 col-sm-6 col-md-3">
+			<div class="h-100">
+				<div class="landing-block-node-img-container landing-block-node-img-container-rightright js-animation fadeInRight h-100 g-pos-rel g-parent u-block-hover">
+					<img data-fancybox="gallery" class="landing-block-node-img img-fluid g-object-fit-cover h-100 w-100 u-block-hover__main--zoom-v1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDgwIiBoZWlnaHQ9IjcxOCI+PHJlY3QgaWQ9ImJhY2tncm91bmRyZWN0IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4PSIwIiB5PSIwIiBmaWxsPSIjZGRkIiBmaWxsLW9wYWNpdHk9Ii43IiBzdHJva2U9Im5vbmUiLz48L3N2Zz4=" alt="" data-fileid="385444" data-fileid2x="385440" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/af3/af368cb3aa1d199098c5f5ad6dbf9774/image_1x.jpg" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/941/9414c5c67fe4155f91e3217455c7e645/image_1x.jpg 2x">
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+</section></div><div id="b3962" class="block-wrapper block-08-7-list-with-text"><section class="landing-block g-pb-30 g-pt-30" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+	<div class="landing-block-container container"><div class="landing-block-card row js-animation fadeIn g-mb-10 g-mb-0--last landing-card">
+			<div class="row col-12 align-items-center">
+				<span class="landing-block-icon-container landing-semantic-color-main col-2 col-md-1 text-right g-font-size-22 g-color" style="--color: #30a593;">
+					<i class="landing-block-icon fa fa-edit" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+				</span>
+				<h4 class="landing-block-title landing-semantic-title-small col-10 col-md-11 text-left g-font-weight-700 g-ma-0"><span style="color: rgb(48, 165, 147);">
+					УСЛОВИЯ ОКАЗАНИЯ МЕДИЦИНСКОЙ ПОМОЩИ
+				</span></h4>
+			</div>
+			<div class="row col-12 align-items-center">
+				<div class="landing-block-text landing-semantic-text-medium col-10 offset-2 col-md-11 offset-md-1 text-left g-font-size-13" style="--color: ;"><p></p><p style="text-align: justify;"><span st="" yle="color: var(--theme-color-main);">Учреждение диализа входит в систему обязательного медицинского страхования (ОМС), оказывая бесплатную специализированную медицинскую помощь гражданам Российской Федерации, включая население Республики Бурятия в амбулаторных условиях по полису ОМС согласно следующим нормативным документам:</span></p><ul><li style="text-align: justify;"><span st="" yle="color: var(--theme-color-main);">Федеральный закон от 29.11.2010 № 326 «ОБ ОБЯЗАТЕЛЬНОМ МЕДИЦИНСКОМ СТРАХОВАНИИ В РОССИЙСКОЙ ФЕДЕРАЦИИ».</span></li><li style="text-align: justify;"><span st="" yle="color: var(--theme-color-main);">Федеральный закон от 21.11.2011 № 323 «ОБ ОСНОВАХ ОХРАНЫ ЗДОРОВЬЯ ГРАЖДАН В РОССИЙСКОЙ ФЕДЕРАЦИИ».</span></li><li style="text-align: justify;"><span st="" yle="color: var(--theme-color-main);">Программа государственных гарантий бесплатного оказания гражданам медицинской помощи на территории Республики Бурятия на 2024 год и на плановый период 2025 и 2026 годов</span></li></ul><p style="text-align: justify;"><span style="font-weight: bold; color: rgb(33, 33, 33);">Права и обязанности застрахованных лиц</span><span style="font-weight: bold; color: rgb(48, 165, 147);">:
+</span><br></p><ul><li>Статья 16 федерального закона Российской Федерации от 29 ноября 2010 г. № 326-ФЗ «ОБ ОБЯЗАТЕЛЬНОМ МЕДИЦИНСКОМ СТРАХОВАНИИ В РОССИЙСКОЙ ФЕДЕРАЦИИ».
+</li></ul>
+<span style="font-weight: bold; color: rgb(33, 33, 33);">Права и обязанности граждан в сфере охраны здоровья:
+</span><br><ul><li>Глава 4 федерального закона Российской Федерации от 21 ноября 2011 г. № 323-ФЗ «ОБ</li></ul><p></p><p></p></div>
+			</div>
+		</div><div class="landing-block-card row js-animation fadeIn g-mb-10 g-mb-0--last">
+			<div class="row col-12 align-items-center">
+				<span class="landing-block-icon-container landing-semantic-color-main col-2 col-md-1 text-right g-font-size-22 g-color" style="--color: #30a593;">
+					<i class="landing-block-icon fa fa-heartbeat" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+				</span>
+				<h4 class="landing-block-title landing-semantic-title-small col-10 col-md-11 text-left g-font-weight-700 g-ma-0"><span style="color: rgb(48, 165, 147);">
+					ВИДЫ ОКАЗЫВАЕМОЙ ПОМОЩИ
+				</span></h4>
+			</div>
+			<div class="row col-12 align-items-center">
+				<div class="landing-block-text landing-semantic-text-medium col-10 offset-2 col-md-11 offset-md-1 text-left g-font-size-13" style="--color: ;"><p><span style="font-weight: bold;">Первичная доврачебная медико-санитарная помощь в амбулаторных условиях по:</span></p><p></p><ul><li><span st="" yle="font-size: 0.92857rem; color: var(--theme-color-main);">сестринскому делу;</span></li></ul><p></p><span style="font-weight: bold;">Первичная специализированная медико-санитарная помощь в амбулаторных условиях по:</span><p></p><ul><li><span st="" yle="font-size: 0.92857rem; color: var(--theme-color-main);">нефрологии;</span></li><li><span st="" yle="font-size: 0.92857rem; color: var(--theme-color-main);">организации здравоохранения и общественному здоровью, эпидемиологии <br></span></li></ul><span style="font-weight: bold;">Первичная специализированная медико-санитарная помощь в условиях дневного стационара по:
+</span><br><ul><li>нефрологии;</li></ul><p></p><p></p></div>
+			</div>
+		</div><div class="landing-block-card row js-animation fadeIn g-mb-10 g-mb-0--last">
+			<div class="row col-12 align-items-center">
+				<span class="landing-block-icon-container landing-semantic-color-main col-2 col-md-1 text-right g-font-size-22 g-color" style="--color: #30a593;">
+					<i class="landing-block-icon fa fa-stethoscope" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+				</span>
+				<h4 class="landing-block-title landing-semantic-title-small col-10 col-md-11 text-left g-font-weight-700 g-ma-0"><span style="color: rgb(48, 165, 147);">
+					О ПРИЕМЕ ГРАЖДАН
+				</span></h4>
+			</div>
+			<div class="row col-12 align-items-center">
+				<div class="landing-block-text landing-semantic-text-medium col-10 offset-2 col-md-11 offset-md-1 text-left g-font-size-13" style="--color: ;"><p>По всем интересующим вопросам можно обращаться в часы работы центра по телефону: +7 902 160 96 90, телефон в Селенгинске +79021605613</p></div>
+			</div>
+		</div><div class="landing-block-card row js-animation fadeIn g-mb-10 g-mb-0--last">
+			<div class="row col-12 align-items-center">
+				<span class="landing-block-icon-container landing-semantic-color-main col-2 col-md-1 text-right g-font-size-22 g-color" style="--color: #30a593;">
+					<i class="landing-block-icon fa fa-medkit" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+				</span>
+				<h4 class="landing-block-title landing-semantic-title-small col-10 col-md-11 text-left g-font-weight-700 g-ma-0"><span style="color: rgb(48, 165, 147);">
+					МЕДИКАМЕНТОЗНОЕ ОБЕСПЕЧЕНИЕ
+				</span></h4>
+			</div>
+			<div class="row col-12 align-items-center">
+				<div class="landing-block-text landing-semantic-text-medium col-10 offset-2 col-md-11 offset-md-1 text-left g-font-size-13" style="--color: ;"><p style="text-align: justify;"><span st="" yle="font-size: 0.92857rem; color: var(--theme-color-main);">Все пациенты центра, нуждающиеся в лекарственных препаратах, имеющих право на получение лекарственных препаратов в соответствии с Постановлением Правительства Российской Федерации от 30 июля 1994 г. N 890, обеспечиваются по месту прикрепления (жительства) к медицинской организации по заключению врачебной комиссии лечебно-профилактического учреждения.</span></p><p style="text-align: justify; "><span st="" yle="font-size: 0.92857rem; color: var(--theme-color-main);">Всем пациентам проводится медикаментозная коррекция хронической патологии почек, а также при возникновении экстренных состояний.</span>.</p></div>
+			</div>
+		</div><div class="landing-block-card row js-animation fadeIn g-mb-10 g-mb-0--last landing-card">
+			<div class="row col-12 align-items-center">
+				<span class="landing-block-icon-container landing-semantic-color-main col-2 col-md-1 text-right g-font-size-22 g-color" style="--color: #30a593;">
+					<i class="landing-block-icon fa fa-hospital-o" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+				</span>
+				<h4 class="landing-block-title landing-semantic-title-small col-10 col-md-11 text-left g-font-weight-700 g-ma-0"><span style="color: rgb(48, 165, 147);">ОТКРЫТЫЕ ВАКАНСИИ</span></h4>
+			</div>
+			<div class="row col-12 align-items-center">
+				<div class="landing-block-text landing-semantic-text-medium col-10 offset-2 col-md-11 offset-md-1 text-left g-font-size-13" style="--color: ;"><p style="text-align: justify;"><span st="" yle="font-size: 0.92857rem; color: var(--theme-color-main);">По поводу вакансий, пожалуйста, обращайтесь по телефону+7 902 160 96 90, или отправьте свое резюме на почту с пометкой &quot;Вакансии&quot;:info.uugdc@gmail.com</span></p></div>
+			</div>
+		</div></div>
+</section></div><div id="b7962" class="block-wrapper block-32-12-img-grid-no-gallery-1row"><section class="landing-block g-pt-30 g-pb-0">
+	<div class="container">
+		<div class="landing-block-node-row row"><div class="landing-block-card col-12 col-md-6 g-height-200 g-height-300--lg js-animation fadeInRight g-mb-25 col-lg-4">
+				<div class="landing-block-node-img-container h-100 g-pos-rel g-parent u-block-hover g-rounded-20">
+					<div class="landing-block-node-img g-bg-img-hero h-100 w-100 u-block-hover__main--zoom-v1" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMTEwIiBoZWlnaHQ9IjE1NzAiPjxyZWN0IGlkPSJiYWNrZ3JvdW5kcmVjdCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeD0iMCIgeT0iMCIgZmlsbD0iI2RkZCIgZmlsbC1vcGFjaXR5PSIuNyIgc3Ryb2tlPSJub25lIi8+PC9zdmc+);" data-fileid="679526" data-fileid2x="679528" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/75c/75cbe0d0f164fb180f19367b89a7eaaf/scan20241102100248_1x.jpg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/75c/75cbe0d0f164fb180f19367b89a7eaaf/scan20241102100248_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/b1e/b1e97a9786b0a84ab25d412dc671364e/scan20241102100248_2x.jpg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/75c/75cbe0d0f164fb180f19367b89a7eaaf/scan20241102100248_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/b1e/b1e97a9786b0a84ab25d412dc671364e/scan20241102100248_2x.jpg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/75c/75cbe0d0f164fb180f19367b89a7eaaf/scan20241102100248_1x.jpg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/b1e/b1e97a9786b0a84ab25d412dc671364e/scan20241102100248_2x.jpg"></div>
+					<div class="landing-block-node-img-title-container w-100 g-pos-abs g-bottom-0 g-left-0 g-top-0 g-bg-black-opacity-0_5 opacity-0 g-opacity-1--parent-hover g-pa-20 g-transition-0_2 g-transition--ease-in g-pointer-events-none">
+						<div class="h-100 g-flex-centered flex-column g-brd-around g-brd-white-opacity-0_2 text-uppercase">
+							<h3 class="landing-block-node-img-title text-center w-100 g-color-white g-line-height-1_4 g-letter-spacing-5 g-pointer-events-all"> </h3>
+						</div>
+					</div>
+				</div>
+			</div><div class="landing-block-card col-12 col-md-6 col-lg-6 g-mb-30 g-height-200 g-height-300--lg js-animation fadeInRight">
+				<div class="landing-block-node-img-container h-100 g-pos-rel g-parent u-block-hover g-rounded-20">
+					<div class="landing-block-node-img g-bg-img-hero h-100 w-100 u-block-hover__main--zoom-v1" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMTEwIiBoZWlnaHQ9IjE1NjkiPjxyZWN0IGlkPSJiYWNrZ3JvdW5kcmVjdCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeD0iMCIgeT0iMCIgZmlsbD0iI2RkZCIgZmlsbC1vcGFjaXR5PSIuNyIgc3Ryb2tlPSJub25lIi8+PC9zdmc+);" data-fileid="679530" data-fileid2x="679532" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/93c/93c07b75fa2bd6e49b672da9849b401a/scan20241102100324_1x.jpg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/93c/93c07b75fa2bd6e49b672da9849b401a/scan20241102100324_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/016/016f60fe94fdded274c5f15974e6e0a8/scan20241102100324_2x.jpg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/93c/93c07b75fa2bd6e49b672da9849b401a/scan20241102100324_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/016/016f60fe94fdded274c5f15974e6e0a8/scan20241102100324_2x.jpg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/93c/93c07b75fa2bd6e49b672da9849b401a/scan20241102100324_1x.jpg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/016/016f60fe94fdded274c5f15974e6e0a8/scan20241102100324_2x.jpg"></div>
+					<div class="landing-block-node-img-title-container w-100 g-pos-abs g-bottom-0 g-left-0 g-top-0 g-bg-black-opacity-0_5 opacity-0 g-opacity-1--parent-hover g-pa-20 g-transition-0_2 g-transition--ease-in g-pointer-events-none">
+						<div class="h-100 g-flex-centered flex-column g-brd-around g-brd-white-opacity-0_2 text-uppercase">
+							<h3 class="landing-block-node-img-title text-center w-100 g-color-white g-line-height-1_4 g-letter-spacing-5 g-pointer-events-all"> </h3>
+						</div>
+					</div>
+				</div>
+			</div></div>
+	</div>
+</section></div><div id="b8124" class="block-wrapper block-32-12-img-grid-no-gallery-1row"><section class="landing-block g-pt-30 g-pb-0">
+	<div class="container">
+		<div class="landing-block-node-row row"><div class="landing-block-card col-12 col-md-6 col-lg-6 g-mb-30 g-height-200 g-height-300--lg js-animation fadeInLeft">
+				<div class="landing-block-node-img-container h-100 g-pos-rel g-parent u-block-hover g-rounded-20">
+					<div class="landing-block-node-img g-bg-img-hero h-100 w-100 u-block-hover__main--zoom-v1" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMTEwIiBoZWlnaHQ9Ijc4NCI+PHJlY3QgaWQ9ImJhY2tncm91bmRyZWN0IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4PSIwIiB5PSIwIiBmaWxsPSIjZGRkIiBmaWxsLW9wYWNpdHk9Ii43IiBzdHJva2U9Im5vbmUiLz48L3N2Zz4=);" data-fileid="672072" data-fileid2x="672074" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/2fc/2fc8541f869fb832da85358f27f646b2/1_1x.jpg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/2fc/2fc8541f869fb832da85358f27f646b2/1_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/188/1884892dcb2103a0bda46b89d9722a10/1_2x.jpg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/2fc/2fc8541f869fb832da85358f27f646b2/1_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/188/1884892dcb2103a0bda46b89d9722a10/1_2x.jpg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/2fc/2fc8541f869fb832da85358f27f646b2/1_1x.jpg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/188/1884892dcb2103a0bda46b89d9722a10/1_2x.jpg"></div>
+					<div class="landing-block-node-img-title-container w-100 g-pos-abs g-bottom-0 g-left-0 g-top-0 g-bg-black-opacity-0_5 opacity-0 g-opacity-1--parent-hover g-pa-20 g-transition-0_2 g-transition--ease-in g-pointer-events-none">
+						<div class="h-100 g-flex-centered flex-column g-brd-around g-brd-white-opacity-0_2 text-uppercase">
+							<h3 class="landing-block-node-img-title text-center w-100 g-color-white g-line-height-1_4 g-letter-spacing-5 g-pointer-events-all">Team building</h3>
+						</div>
+					</div>
+				</div>
+			</div><div class="landing-block-card col-12 col-md-6 col-lg-6 g-mb-30 g-height-200 g-height-300--lg js-animation fadeInRight">
+				<div class="landing-block-node-img-container h-100 g-pos-rel g-parent u-block-hover g-rounded-20">
+					<div class="landing-block-node-img g-bg-img-hero h-100 w-100 u-block-hover__main--zoom-v1" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMTEwIiBoZWlnaHQ9Ijc4NCI+PHJlY3QgaWQ9ImJhY2tncm91bmRyZWN0IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4PSIwIiB5PSIwIiBmaWxsPSIjZGRkIiBmaWxsLW9wYWNpdHk9Ii43IiBzdHJva2U9Im5vbmUiLz48L3N2Zz4=);" data-fileid="672076" data-fileid2x="672078" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/f2e/f2e97eb86ac98a7352a95e10b6a23cdd/2_1x.jpg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/f2e/f2e97eb86ac98a7352a95e10b6a23cdd/2_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/494/49453e50557cd33b888ff771ea89a25e/2_2x.jpg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/f2e/f2e97eb86ac98a7352a95e10b6a23cdd/2_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/494/49453e50557cd33b888ff771ea89a25e/2_2x.jpg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/f2e/f2e97eb86ac98a7352a95e10b6a23cdd/2_1x.jpg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/494/49453e50557cd33b888ff771ea89a25e/2_2x.jpg"></div>
+					<div class="landing-block-node-img-title-container w-100 g-pos-abs g-bottom-0 g-left-0 g-top-0 g-bg-black-opacity-0_5 opacity-0 g-opacity-1--parent-hover g-pa-20 g-transition-0_2 g-transition--ease-in g-pointer-events-none">
+						<div class="h-100 g-flex-centered flex-column g-brd-around g-brd-white-opacity-0_2 text-uppercase">
+							<h3 class="landing-block-node-img-title text-center w-100 g-color-white g-line-height-1_4 g-letter-spacing-5 g-pointer-events-all">Team building</h3>
+						</div>
+					</div>
+				</div>
+			</div></div>
+	</div>
+</section></div><div id="b3982" class="block-wrapper block-23-big-carousel-blocks"><section class="landing-block js-animation fadeIn g-bg-gray-light-v5 g-pb-30 g-pt-auto" data-slider-autoplay="1" data-slider-autoplay-speed="10000" data-slider-slides-show="4" data-slider-pause-hover="true" data-slider-arrows="1" data-slider-dots="0" data-slider-animation="1">
+
+        <div class="js-carousel row" data-autoplay="true" data-pause-hover="true" data-infinite="true" data-speed="10000" data-slides-show="4" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-45 g-height-60 g-font-size-40 g-transition-0_2 g-transition--ease-in g-color-white g-bg-primary g-opacity-0_8--hover" data-arrow-left-classes="fa fa-angle-left g-left-10" data-arrow-right-classes="fa fa-angle-right g-right-10" data-pagi-classes="u-carousel-indicators-v1 g-absolute-centered--x g-pt-10" data-responsive="[{
+               &quot;breakpoint&quot;: 1200,
+               &quot;settings&quot;: {
+                 &quot;slidesToShow&quot;: 4
+               }
+             }, {
+               &quot;breakpoint&quot;: 992,
+               &quot;settings&quot;: {
+                 &quot;slidesToShow&quot;: 2
+               }
+             }, {
+               &quot;breakpoint&quot;: 576,
+               &quot;settings&quot;: {
+                 &quot;slidesToShow&quot;: 1
+               }
+             }]" data-init-classes-exclude="[{
+				 &quot;selector&quot;: &quot;.landing-block-card-carousel-element&quot;,
+				 &quot;class&quot;: &quot;col-12 col-sm-6 col-lg-3&quot;
+			   }, {
+				 &quot;selector&quot;: &quot;.js-carousel&quot;,
+				 &quot;class&quot;: &quot;row&quot;
+			   }]"><div class="landing-block-card-carousel-element js-slide g-pt-60 g-pb-5 g-px-15 col-12 col-sm-6 col-lg-3">
+                <div class="text-center u-shadow-v10 g-bg-white g-pa-0-35-35--sm g-pa-0-20-20">
+                    <img class="landing-block-node-img rounded-circle mx-auto g-width-100 g-brd-10 g-brd-around g-brd-gray-light-v5 g-pull-50x-up" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iOTEiPjxyZWN0IGlkPSJiYWNrZ3JvdW5kcmVjdCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeD0iMCIgeT0iMCIgZmlsbD0iI2RkZCIgZmlsbC1vcGFjaXR5PSIuNyIgc3Ryb2tlPSJub25lIi8+PC9zdmc+" alt="" data-fileid="385468" data-fileid2x="385470" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/34b/34bcc04931c4d1179f65249b0ea7d528/Dokument5_1x_1x.png" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/850/8506c758d97510be77d691baa10c3a89/Dokument5_1x_2x.png 2x">
+
+                    <h4 class="landing-block-node-title text-uppercase g-font-weight-700 mb-0">Давыденко А.А.</h4>
+                    <div class="landing-block-node-subtitle text-uppercase g-font-style-normal g-font-weight-700 g-font-size-10">пациент</div>
+					<div class="u-blockquote-v7">
+						<blockquote class="landing-block-node-text g-line-height-1_5 g-bg-primary--before mb-0 g-font-size-13">Уважаемый Коллектив! От всего сердца хочу сказать Вам огромное спасибо за Ваш нелегкий труд, понимание, индивидуальный подход к каждому пациенту! Считаю работу врачей высокопрофессиональной и добросовестной! Всем присуща врачебная этика, выслушать и оказать необходимую помощь!</blockquote>
+					</div>
+                </div>
+            </div><div class="landing-block-card-carousel-element js-slide g-pt-60 g-pb-5 g-px-15 col-12 col-sm-6 col-lg-3">
+                <div class="text-center u-shadow-v10 g-bg-white g-pa-0-35-35--sm g-pa-0-20-20">
+                    <img class="landing-block-node-img rounded-circle mx-auto g-width-100 g-brd-10 g-brd-around g-brd-gray-light-v5 g-pull-50x-up" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iOTEiPjxyZWN0IGlkPSJiYWNrZ3JvdW5kcmVjdCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeD0iMCIgeT0iMCIgZmlsbD0iI2RkZCIgZmlsbC1vcGFjaXR5PSIuNyIgc3Ryb2tlPSJub25lIi8+PC9zdmc+" alt="" data-fileid="385472" data-fileid2x="385474" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/d41/d41713b6722abd18a5139c8ece0fd7e3/Dokument5_1x_1x.png" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/850/8506c758d97510be77d691baa10c3a89/Dokument5_1x_2x.png 2x">
+
+                    <h4 class="landing-block-node-title text-uppercase g-font-weight-700 mb-0">Житухин А.С.</h4>
+                    <div class="landing-block-node-subtitle text-uppercase g-font-style-normal g-font-weight-700 g-font-size-10">пациент</div>
+					<div class="u-blockquote-v7">
+						<blockquote class="landing-block-node-text g-line-height-1_5 g-bg-primary--before mb-0 g-font-size-13"><p style="text-align: center;"><span st="" yle="color: var(--theme-color-main); font-size: 1rem;">Уважаемые работники центра хочу выразить благодарность за внимательное отношение к пациентам. Благодарю Вас за огромную проделанную работу и оказанию возможности за полноценную жизнь. Желаю Вашему коллективу дальнейших успехов, благодарных пациентов и достойного вознаграждения за Ваш труд.</span></p></blockquote>
+					</div>
+                </div>
+            </div></div>
+
+    </section></div><div id="b3996" class="block-wrapper block-24-3-image-gallery-6-cols-fix-3"><section class="landing-block js-animation zoomIn text-center g-pb-30 g-pt-0" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+	<div class="landing-block-node-container container g-border-color" style="--border-color: #ffffff;">
+		<div class="row g-brd-top g-brd-left g-brd-color-inherit mx-0"><div class="landing-block-node-card col-md-4 d-flex flex-column align-items-center justify-content-center g-brd-bottom g-brd-right g-brd-color-inherit g-py-50 landing-card col-lg-3">
+				<a href="https://egov-buryatia.ru/minzdrav/" class="landing-block-card-logo-link" target="_self">
+					<img class="landing-block-node-img g-width-120" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjQ1Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="385498" data-fileid2x="385504" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/110/1103f68d489a0acaaaf586cad1f661cd/c00443d6d1cc56321d591d13a5afa9c5_2x.png" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/110/1103f68d489a0acaaaf586cad1f661cd/c00443d6d1cc56321d591d13a5afa9c5_2x.png 2x">
+				</a><h2 class="landing-block-node-title-6239-7514 g-pointer-events-all h2 text-center g-font-size-13" style="--color: ;">МИНИСТЕРСТВО ЗДРАВООХРАНЕНИЯ РЕСПУБЛИКИ БУРЯТИЯ</h2>
+			</div><div class="landing-block-node-card col-md-4 d-flex flex-column align-items-center justify-content-center g-brd-bottom g-brd-right g-brd-color-inherit g-py-50 landing-card col-lg-3">
+				<a href="http://03.rospotrebnadzor.ru/" class="landing-block-card-logo-link" target="_self">
+					<img class="landing-block-node-img g-width-120" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MjUiIGhlaWdodD0iNTk4Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="385520" data-fileid2x="385522" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/d3c/d3c8a20cc6f398310a5d46a09ded22fa/logo_1x.png" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/278/27802eac1f2d306674f65e7511504438/logo_2x.png 2x">
+				</a><h2 class="landing-block-node-title-6239-7514 g-pointer-events-all h2 text-center g-font-size-13" style="--color: ;">УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ПО НАДЗОРУ В СФЕРЕ ЗАЩИТЫ ПРАВ ПОТРЕБИТЕЛЕЙ И БЛАГОПОЛУЧИЯ ЧЕЛОВЕКА ПО РЕСПУБЛИКЕ БУРЯТИЯ</h2>
+			</div><div class="landing-block-node-card col-md-4 d-flex flex-column align-items-center justify-content-center g-brd-bottom g-brd-right g-brd-color-inherit g-py-50 landing-card col-lg-3">
+				<a href="https://04reg.roszdravnadzor.gov.ru/#" class="landing-block-card-logo-link" target="_self">
+					<img class="landing-block-node-img g-width-120" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MjUiIGhlaWdodD0iNjE5Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="385516" data-fileid2x="385518" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/ba2/ba2f67e6afaee68c70a64a89ec028bb6/logo-gerb_1x.png" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/334/334a870d1b790e17f701e95390efb929/logo-gerb_2x.png 2x">
+				</a><h2 class="landing-block-node-title-6239-7514 g-pointer-events-all h2 text-center g-font-size-13" style="--color: ;">УПРАВЛЕНИЕ РОСЗДРАВНАДЗОРА ПО РЕСПУБЛИКЕ БУРЯТИЯ</h2>
+			</div><div class="landing-block-node-card col-md-4 d-flex flex-column align-items-center justify-content-center g-brd-bottom g-brd-right g-brd-color-inherit g-py-50 landing-card col-lg-3">
+				<a href="http://www.tfomsrb.ru/" class="landing-block-card-logo-link" target="_self">
+					<img class="landing-block-node-img g-width-120" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzAiIGhlaWdodD0iMjAwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="385524" data-fileid2x="385526" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" style="position: relative;user-select: none;cursor: pointer;" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/b00/b005c934120d5577f5cd7f9b5631a2b0/logo_rgb_1x.jpg" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/b00/b005c934120d5577f5cd7f9b5631a2b0/logo_rgb_1x.jpg 2x">
+				</a><h2 class="landing-block-node-title-6239-7514 g-pointer-events-all h2 text-center g-font-size-13" style="--color: ;">ТЕРРИТОРИАЛЬНЫЙ ФОНД ОБЯЗАТЕЛЬНОГО МЕДИЦИНСКОГО СТРАХОВАНИЯ РЕСПУБЛИКИ БУРЯТИЯ</h2>
+			</div></div>
+	</div>
+</section></div><div id="b4010" class="block-wrapper block-40-7-one-img-right-text-left"><section class="landing-block g-pt-30 g-pb-30" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+	<div class="container">
+		<div class="g-pos-rel row">
+			<div class="g-flex-centered col-12 col-md-6 col-lg-6">
+				<div class="landing-block-text-container js-animation slideInLeft g-px-80--lg align-self-center">
+					<h1 class="landing-block-card-title-left landing-semantic-title-medium g-font-weight-700 h1 g-ma-0 g-line-height-1_4 u-heading-v2-8-2--bottom text-uppercase g-color" style="--color: var(--primary);--border-color: ;--border-color--hover: ;"><span style="color: rgb(33, 33, 33);">График приема граждан руководителем</span></h1>
+					<div class="landing-block-card-text-left landing-semantic-text-medium g-line-height-1_7 g-pt-10 g-pt-30--md g-px-0 g-font-size-13" style="--color: ;"><p style="text-align: justify; "></p><span st="" yle="font-size: 0.92857rem; color: var(--theme-color-main);"><p style="text-align: left;"><span st="" yle="font-size: 0.92857rem; color: var(--theme-color-main);">Специализированная поликлиника (г. Улан-Удэ):</span></p><p style="text-align: left;"></p><ul><li><span st="" yle="color: var(--theme-color-main); font-size: 0.92857rem; font-weight: bold;">четверг, с 12 до 14:00</span></li></ul><p></p></span><p><span st="" yle="font-size: 0.92857rem; color: var(--theme-color-main);"></span></p><p style="text-align: left;"><span st="" yle="font-size: 0.92857rem; color: var(--theme-color-main);">Специализированная поликлиника (пгт. Селенгинск):</span></p><p style="text-align: left;"></p><ul><li><span st="" yle="color: var(--theme-color-main); font-size: 0.92857rem; font-weight: bold;">вторая и четвертая среда месяца – с 12 до 14:00</span></li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div>
+					<div class="landing-block-link-container">
+						
+					</div>
+				</div>
+			</div>
+
+			<div class="landing-block-container col-12 col-md-6 col-lg-6 js-animation fadeIn g-pt-0 g-pb-0 align-self-center">
+				<div class="landing-block-img u-bg-overlay g-flex-centered g-min-height-70vh g-bg-img-hero g-bg--after" style="position: relative;user-select: none;cursor: pointer;--bg--after: hsla(0, 0%, 17%, 0.6);background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NDAiIGhlaWdodD0iMjc5Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==);" data-fileid="385554" data-fileid2x="385548" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/d37/d37a926e930af5e65e7edf7f9486ce6b/CRM-Manager-e1542032461920_1x.jpg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/d37/d37a926e930af5e65e7edf7f9486ce6b/CRM-Manager-e1542032461920_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/ae3/ae3af0db6f688aefe353ddf83cce7102/MYbhN8KaaEc_2x.jpg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/d37/d37a926e930af5e65e7edf7f9486ce6b/CRM-Manager-e1542032461920_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/ae3/ae3af0db6f688aefe353ddf83cce7102/MYbhN8KaaEc_2x.jpg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/d37/d37a926e930af5e65e7edf7f9486ce6b/CRM-Manager-e1542032461920_1x.jpg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/ae3/ae3af0db6f688aefe353ddf83cce7102/MYbhN8KaaEc_2x.jpg">
+					<div class="landing-block-text-container-right g-flex-centered-item--bottom text-left u-bg-overlay__inner g-pl-70 g-pr-70 g-pt-30 g-pb-30">
+						<h2 class="landing-block-card-title-right landing-semantic-title-image-small g-font-weight-700 h1 g-ma-0 g-color-white u-heading-v2-8-2--bottom g-brd-white text-uppercase" style="--color: ;--border-color: ;--border-color--hover: ;">Генеральный директор</h2>
+						<div class="landing-block-card-text-right landing-semantic-text-image-medium g-color-white g-line-height-1_7 g-pt-10 g-pt-30--md"><p>Будаев Баир Борисович</p></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div><div id="contacts" class="block-wrapper block-14-1-contacts-4-cols"><section class="landing-block g-pt-30 g-pb-30 text-center">
+	<div class="container">
+		<div class="row justify-content-center"><div class="landing-block-card js-animation fadeIn landing-block-node-contact g-brd-between-cols col-sm-6 col-md-6 col-lg-3 g-brd-primary g-px-15 g-py-30 g-py-0--md g-mb-15" data-card-preset="contact-link">
+				<a class="landing-block-node-linkcontact-link g-text-decoration-none--hover" href="https://go.2gis.com/3mdhu" target="_popup">
+					<span class="landing-block-node-contact-icon-container d-block g-color-primary g-font-size-50 g-line-height-1 g-mb-20">
+						<i class="landing-block-node-contact-icon fa fa-map-marker"></i>
+					</span>
+					<span class="landing-block-node-linkcontact-title landing-semantic-subtitle-medium d-block text-uppercase g-font-size-14 g-color-main g-mb-5">АДРЕС</span>
+					<span class="landing-block-node-linkcontact-text landing-semantic-subtitle-small-primary g-text-decoration-none g-text-underline--hover g-font-size-14 g-font-weight-600">г. Улан-Удэ, ул. Боевая д.9Б</span>
+				</a>
+			</div>
+			<div class="landing-block-card js-animation fadeIn landing-block-node-contact g-brd-between-cols col-sm-6 col-md-6 col-lg-3 g-brd-primary g-px-15 g-py-30 g-py-0--md g-mb-15" data-card-preset="contact-link">
+				<a class="landing-block-node-linkcontact-link g-text-decoration-none--hover" href="tel:+79021609690" target="_blank">
+					<span class="landing-block-node-contact-icon-container d-block g-color-primary g-font-size-50 g-line-height-1 g-mb-20">
+						<i class="landing-block-node-contact-icon fa fa-volume-control-phone"></i>
+					</span>
+					<span class="landing-block-node-linkcontact-title landing-semantic-subtitle-medium d-block text-uppercase g-font-size-14 g-color-main g-mb-5">ТЕЛЕФОН</span>
+					<span class="landing-block-node-linkcontact-text landing-semantic-subtitle-small-primary g-text-decoration-none g-text-underline--hover g-font-size-14 g-font-weight-700">+7 (9021) 609-690</span>
+				</a>
+			</div>
+			<div class="landing-block-card js-animation fadeIn landing-block-node-contact g-brd-between-cols col-sm-6 col-md-6 col-lg-3 g-brd-primary g-px-15 g-py-30 g-py-0--md g-mb-15" data-card-preset="contact-link">
+				<a class="landing-block-node-linkcontact-link g-text-decoration-none--hover" href="mailto:info.uugdc@gmail.com" target="_blank">
+					<span class="landing-block-node-contact-icon-container d-block g-color-primary g-font-size-50 g-line-height-1 g-mb-20">
+						<i class="landing-block-node-contact-icon fa fa-envelope"></i>
+					</span>
+					<span class="landing-block-node-linkcontact-title landing-semantic-subtitle-medium d-block text-uppercase g-font-size-14 g-color-main g-mb-5">E-MAIL</span>
+					<span class="landing-block-node-linkcontact-text landing-semantic-subtitle-small-primary g-text-decoration-none g-text-underline--hover g-font-size-14 g-font-weight-700">info.uugdc@gmail.com</span>
+				</a>
+			</div>
+			<div class="landing-block-card js-animation fadeIn landing-block-node-contact g-brd-between-cols col-sm-6 col-md-6 col-lg-3 g-brd-primary g-px-15 g-py-30 g-py-0--md g-mb-15" data-card-preset="contact-text">
+				<div class="landing-block-node-contact-container">
+					<span class="landing-block-node-contact-icon-container d-block g-color-primary g-font-size-50 g-line-height-1 g-mb-20">
+						<i class="landing-block-node-contact-icon fa fa-calendar"></i>
+					</span>
+					<span class="landing-block-node-contact-title landing-semantic-subtitle-medium d-block text-uppercase g-font-size-14 g-color-main g-mb-5">ГРАФИК РАБОТЫ ЦЕНТРА</span>
+					<span class="landing-block-node-contact-text landing-semantic-subtitle-small-primary g-text-decoration-none g-text-underline--hover g-font-size-14 g-font-weight-700 g-color-primary">Пн - Сб: 08:00 - 19:00</span>
+				</div>
+			</div></div>
+	</div>
+</section></div><div id="block1176" class="block-wrapper block-14-2contacts-3-cols"><section class="landing-block g-pt-40 g-pb-25 text-center g-bg-main">
+	<div class="container">
+		<div class="row justify-content-center"><div class="landing-block-card js-animation fadeIn landing-block-node-contact g-brd-between-cols col-sm-6 col-md-6 col-lg-4 g-brd-primary g-px-15 g-py-30 g-py-0--md g-mb-15 landing-card" data-card-preset="contact-link">
+				<a class="landing-block-node-linkcontact-link g-text-decoration-none--hover" href="tel:+79021609690" target="_self">
+					<span class="landing-block-node-contact-icon-container d-block g-font-size-50 g-line-height-1 g-mb-20 g-color-teal">
+						<i class="landing-block-node-contact-icon fa fa-map-marker"></i>
+					</span>
+					<span class="landing-block-node-linkcontact-title d-block text-uppercase g-font-size-14 g-color-main g-mb-5">Позвоните нам</span>
+					<span class="landing-block-node-linkcontact-text g-text-decoration-none g-text-underline--hover g-font-size-14 g-font-weight-700 g-color-black-opacity-0_7">+7(9021)60 96 90</span>
+				</a>
+			</div>
+			<div class="landing-block-card js-animation fadeIn landing-block-node-contact g-brd-between-cols col-sm-6 col-md-6 col-lg-4 g-brd-primary g-px-15 g-py-30 g-py-0--md g-mb-15 landing-card" data-card-preset="contact-link">
+				<a class="landing-block-node-linkcontact-link g-text-decoration-none--hover" href="mailto:info.uugdc@gmail.com" target="_self">
+					<span class="landing-block-node-contact-icon-container d-block g-font-size-50 g-line-height-1 g-mb-20 g-color-teal">
+						<i class="landing-block-node-contact-icon icon-call-in"></i>
+					</span>
+					<span class="landing-block-node-linkcontact-title d-block text-uppercase g-font-size-14 g-color-main g-mb-5">Напишите нам</span>
+					<span class="landing-block-node-linkcontact-text g-text-decoration-none g-text-underline--hover g-font-size-14 g-font-weight-700 g-color-black-opacity-0_7">info.uugdc@gmail.com</span>
+				</a>
+			</div>
+			<div class="landing-block-card js-animation fadeIn landing-block-node-contact g-brd-between-cols col-sm-6 col-md-6 col-lg-4 g-brd-primary g-px-15 g-py-30 g-py-0--md g-mb-15 landing-card" data-card-preset="contact-text">
+				<div class="landing-block-node-contact-container">
+					<span class="landing-block-node-contact-icon-container d-block g-font-size-50 g-line-height-1 g-mb-20 g-color-teal">
+						<i class="landing-block-node-contact-icon icon-earphones-alt"></i>
+					</span>
+					<span class="landing-block-node-contact-title d-block text-uppercase g-font-size-14 g-color-main g-mb-5">Адрес</span>
+					<span class="landing-block-node-contact-text g-font-size-14 g-font-weight-700 g-color-black-opacity-0_7">Частное учреждение здравоохранения  «Специализированная поликлиника»
+670047, Россия, Республика Бурятия, г. Улан-Удэ, ул. Боевая д.9Б</span>
+				</div>
+			</div></div>
+	</div>
+</section></div><div id="b2988" class="block-wrapper block-31-4-two-cols-img-text-fix"><section class="landing-block">
+	<div class="landing-block-node-container container g-pt-50 g-pb-50">
+		<div class="row landing-block-node-block">
+			<div class="col-md-6 col-lg-6 order-2 order-md-1">
+				<img class="landing-block-node-img js-animation slideInLeft img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NDAiIGhlaWdodD0iMzExIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="346956" data-fileid2x="346958" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/f76/f762291b5e1299d7201d24a236fc7ac5/Snimok_ekrana_2021-05-26_v_11.20.56_1x.png" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/f3f/f3fd5f6f3de5096dd851e38f0e7557f3/Snimok_ekrana_2021-05-26_v_11.20.56_2x.png 2x">
+			</div>
+
+			<div class="landing-block-node-text-container js-animation slideInRight col-md-6 col-lg-6 g-pb-20 g-pb-0--md order-1 order-md-2">
+				<h2 class="landing-block-node-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 mb-0 g-mb-20">Схема проезда</h2>
+				<div class="landing-block-node-text landing-semantic-text-medium"><p><br></p></div>
+			</div>
+		</div>
+	</div>
+</section></div><div id="block1178" class="block-wrapper block-17-copyright"><section class="landing-block">
+	<div class="landing-semantic-text-medium text-center g-pa-10">
+		<div class="g-width-600 mx-auto">
+			<div class="landing-block-node-text g-font-size-12"><p>© 2020 Частное учреждение здравоохранения  «Специализированная поликлиника» </p></div>
+		</div>
+	</div>
+</section></div>
+</main>
+<!-- <script data-skip-moving="true">
+					(function(w,d,u,b){ 'use strict';
+					var s=d.createElement('script');var r=(Date.now()/1000|0);s.async=1;s.src=u+'?'+r;
+					var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+				})(window,document,'https://cdn-ru.bitrix24.ru/b334051/crm/site_button/loader_2_rwm76o.js');
+				</script> -->
+
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script><script src="bitrix/js/main/core/core.min.js?1727100220225181"></script><script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script>BX.Runtime.registerExtension({"name":"ui.dexie","namespace":"BX.Dexie3","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ls","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"fx","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"fc","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"pull.protobuf","namespace":"BX","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"rest.client","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"pull_server_enabled":"Y","pull_config_timestamp":1734102412,"pull_guest_mode":"N","pull_guest_user_id":0});(window.BX||top.BX).message({"PULL_OLD_REVISION":"Для продолжения корректной работы с сайтом необходимо перезагрузить страницу."});</script>
+<script>BX.Runtime.registerExtension({"name":"pull.client","namespace":"BX","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"pull","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"intranet.design-tokens.bitrix24","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.design-tokens","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.fonts.opensans","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"landing.metrika","namespace":"BX.Landing","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"main.pageobject","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"main.popup","namespace":"BX.Main","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"popup","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"CORE_CLIPBOARD_COPY_SUCCESS":"Скопировано","CORE_CLIPBOARD_COPY_FAILURE":"Не удалось скопировать"});</script>
+<script>BX.Runtime.registerExtension({"name":"clipboard","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.icon-set.actions","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.icon-set.main","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"MAIN_SIDEPANEL_CLOSE":"Закрыть","MAIN_SIDEPANEL_PRINT":"Печать","MAIN_SIDEPANEL_NEW_WINDOW":"Открыть в новом окне","MAIN_SIDEPANEL_COPY_LINK":"Скопировать ссылку","MAIN_SIDEPANEL_MINIMIZE":"Свернуть","MAIN_SIDEPANEL_REMOVE_ALL":"Удалить всё из быстрого доступа"});</script>
+<script>BX.Runtime.registerExtension({"name":"sidepanel","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"AMPM_MODE":false});(window.BX||top.BX).message({"MONTH_1":"Январь","MONTH_2":"Февраль","MONTH_3":"Март","MONTH_4":"Апрель","MONTH_5":"Май","MONTH_6":"Июнь","MONTH_7":"Июль","MONTH_8":"Август","MONTH_9":"Сентябрь","MONTH_10":"Октябрь","MONTH_11":"Ноябрь","MONTH_12":"Декабрь","MONTH_1_S":"января","MONTH_2_S":"февраля","MONTH_3_S":"марта","MONTH_4_S":"апреля","MONTH_5_S":"мая","MONTH_6_S":"июня","MONTH_7_S":"июля","MONTH_8_S":"августа","MONTH_9_S":"сентября","MONTH_10_S":"октября","MONTH_11_S":"ноября","MONTH_12_S":"декабря","MON_1":"янв","MON_2":"фев","MON_3":"мар","MON_4":"апр","MON_5":"мая","MON_6":"июн","MON_7":"июл","MON_8":"авг","MON_9":"сен","MON_10":"окт","MON_11":"ноя","MON_12":"дек","DAY_OF_WEEK_0":"Воскресенье","DAY_OF_WEEK_1":"Понедельник","DAY_OF_WEEK_2":"Вторник","DAY_OF_WEEK_3":"Среда","DAY_OF_WEEK_4":"Четверг","DAY_OF_WEEK_5":"Пятница","DAY_OF_WEEK_6":"Суббота","DOW_0":"Вс","DOW_1":"Пн","DOW_2":"Вт","DOW_3":"Ср","DOW_4":"Чт","DOW_5":"Пт","DOW_6":"Сб","FD_SECOND_AGO_0":"#VALUE# секунд назад","FD_SECOND_AGO_1":"#VALUE# секунду назад","FD_SECOND_AGO_10_20":"#VALUE# секунд назад","FD_SECOND_AGO_MOD_1":"#VALUE# секунду назад","FD_SECOND_AGO_MOD_2_4":"#VALUE# секунды назад","FD_SECOND_AGO_MOD_OTHER":"#VALUE# секунд назад","FD_SECOND_DIFF_0":"#VALUE# секунд","FD_SECOND_DIFF_1":"#VALUE# секунда","FD_SECOND_DIFF_10_20":"#VALUE# секунд","FD_SECOND_DIFF_MOD_1":"#VALUE# секунда","FD_SECOND_DIFF_MOD_2_4":"#VALUE# секунды","FD_SECOND_DIFF_MOD_OTHER":"#VALUE# секунд","FD_SECOND_SHORT":"#VALUE#с","FD_MINUTE_AGO_0":"#VALUE# минут назад","FD_MINUTE_AGO_1":"#VALUE# минуту назад","FD_MINUTE_AGO_10_20":"#VALUE# минут назад","FD_MINUTE_AGO_MOD_1":"#VALUE# минуту назад","FD_MINUTE_AGO_MOD_2_4":"#VALUE# минуты назад","FD_MINUTE_AGO_MOD_OTHER":"#VALUE# минут назад","FD_MINUTE_DIFF_0":"#VALUE# минут","FD_MINUTE_DIFF_1":"#VALUE# минута","FD_MINUTE_DIFF_10_20":"#VALUE# минут","FD_MINUTE_DIFF_MOD_1":"#VALUE# минута","FD_MINUTE_DIFF_MOD_2_4":"#VALUE# минуты","FD_MINUTE_DIFF_MOD_OTHER":"#VALUE# минут","FD_MINUTE_0":"#VALUE# минут","FD_MINUTE_1":"#VALUE# минуту","FD_MINUTE_10_20":"#VALUE# минут","FD_MINUTE_MOD_1":"#VALUE# минуту","FD_MINUTE_MOD_2_4":"#VALUE# минуты","FD_MINUTE_MOD_OTHER":"#VALUE# минут","FD_MINUTE_SHORT":"#VALUE#мин","FD_HOUR_AGO_0":"#VALUE# часов назад","FD_HOUR_AGO_1":"#VALUE# час назад","FD_HOUR_AGO_10_20":"#VALUE# часов назад","FD_HOUR_AGO_MOD_1":"#VALUE# час назад","FD_HOUR_AGO_MOD_2_4":"#VALUE# часа назад","FD_HOUR_AGO_MOD_OTHER":"#VALUE# часов назад","FD_HOUR_DIFF_0":"#VALUE# часов","FD_HOUR_DIFF_1":"#VALUE# час","FD_HOUR_DIFF_10_20":"#VALUE# часов","FD_HOUR_DIFF_MOD_1":"#VALUE# час","FD_HOUR_DIFF_MOD_2_4":"#VALUE# часа","FD_HOUR_DIFF_MOD_OTHER":"#VALUE# часов","FD_HOUR_SHORT":"#VALUE#ч","FD_YESTERDAY":"вчера","FD_TODAY":"сегодня","FD_TOMORROW":"завтра","FD_DAY_AGO_0":"#VALUE# дней назад","FD_DAY_AGO_1":"#VALUE# день назад","FD_DAY_AGO_10_20":"#VALUE# дней назад","FD_DAY_AGO_MOD_1":"#VALUE# день назад","FD_DAY_AGO_MOD_2_4":"#VALUE# дня назад","FD_DAY_AGO_MOD_OTHER":"#VALUE# дней назад","FD_DAY_DIFF_0":"#VALUE# дней","FD_DAY_DIFF_1":"#VALUE# день","FD_DAY_DIFF_10_20":"#VALUE# дней","FD_DAY_DIFF_MOD_1":"#VALUE# день","FD_DAY_DIFF_MOD_2_4":"#VALUE# дня","FD_DAY_DIFF_MOD_OTHER":"#VALUE# дней","FD_DAY_AT_TIME":"#DAY# в #TIME#","FD_DAY_SHORT":"#VALUE#д","FD_MONTH_AGO_0":"#VALUE# месяцев назад","FD_MONTH_AGO_1":"#VALUE# месяц назад","FD_MONTH_AGO_10_20":"#VALUE# месяцев назад","FD_MONTH_AGO_MOD_1":"#VALUE# месяц назад","FD_MONTH_AGO_MOD_2_4":"#VALUE# месяца назад","FD_MONTH_AGO_MOD_OTHER":"#VALUE# месяцев назад","FD_MONTH_DIFF_0":"#VALUE# месяцев","FD_MONTH_DIFF_1":"#VALUE# месяц","FD_MONTH_DIFF_10_20":"#VALUE# месяцев","FD_MONTH_DIFF_MOD_1":"#VALUE# месяц","FD_MONTH_DIFF_MOD_2_4":"#VALUE# месяца","FD_MONTH_DIFF_MOD_OTHER":"#VALUE# месяцев","FD_MONTH_SHORT":"#VALUE#мес","FD_YEARS_AGO_0":"#VALUE# лет назад","FD_YEARS_AGO_1":"#VALUE# год назад","FD_YEARS_AGO_10_20":"#VALUE# лет назад","FD_YEARS_AGO_MOD_1":"#VALUE# год назад","FD_YEARS_AGO_MOD_2_4":"#VALUE# года назад","FD_YEARS_AGO_MOD_OTHER":"#VALUE# лет назад","FD_YEARS_DIFF_0":"#VALUE# лет","FD_YEARS_DIFF_1":"#VALUE# год","FD_YEARS_DIFF_10_20":"#VALUE# лет","FD_YEARS_DIFF_MOD_1":"#VALUE# год","FD_YEARS_DIFF_MOD_2_4":"#VALUE# года","FD_YEARS_DIFF_MOD_OTHER":"#VALUE# лет","FD_YEARS_SHORT_0":"#VALUE#л","FD_YEARS_SHORT_1":"#VALUE#г","FD_YEARS_SHORT_10_20":"#VALUE#л","FD_YEARS_SHORT_MOD_1":"#VALUE#г","FD_YEARS_SHORT_MOD_2_4":"#VALUE#г","FD_YEARS_SHORT_MOD_OTHER":"#VALUE#л","CAL_BUTTON":"Выбрать","CAL_TIME_SET":"Установить время","CAL_TIME":"Время","FD_LAST_SEEN_TOMORROW":"завтра в #TIME#","FD_LAST_SEEN_NOW":"только что","FD_LAST_SEEN_TODAY":"сегодня в #TIME#","FD_LAST_SEEN_YESTERDAY":"вчера в #TIME#","FD_LAST_SEEN_MORE_YEAR":"более года назад"});</script>
+<script>BX.Runtime.registerExtension({"name":"main.date","namespace":"BX.Main","loaded":true});</script>
+<script>(window.BX||top.BX).message({"WEEK_START":1});</script>
+<script>BX.Runtime.registerExtension({"name":"date","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
+<script>BX.Runtime.registerExtension({"name":"window","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"JC_CORE_TREE_SELECT_CONTROL":"Выберите условие","JC_CORE_TREE_ADD_CONTROL":"Добавить условие","JC_CORE_TREE_DELETE_CONTROL":"Удалить условие","JC_CORE_TREE_CONTROL_DATETIME_ICON":"Нажмите для выбора даты","JC_CORE_TREE_CONDITION_ERROR":"Ошибка в условии","JC_CORE_TREE_CONDITION_FATAL_ERROR":"Неустранимая ошибка в условии. Рекомендуется его удалить"});</script>
+<script>BX.Runtime.registerExtension({"name":"core_condtree","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANDING_NAVBAR_TOGGLER_SHOW":"Развернуть","LANDING_NAVBAR_TOGGLER_HIDE":"Свернуть","LANDING_NAVBAR_MODAL_ALERT":"Редактирование.\u003Cbr\u003EПолноценная работа блока будет доступна в\u0026nbsp;режиме просмотра."});</script>
+<script>BX.Runtime.registerExtension({"name":"landing_assets","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1734656698,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"e202962f48f1b4f140fd8dd287d25865"});</script><script src="bitrix/js/ui/dexie/dist/dexie3.bundle.min.js?169399112688274"></script>
+<script src="bitrix/js/main/core/core_ls.min.js?17339298272683"></script>
+<script src="bitrix/js/main/core/core_fx.min.js?14909536449768"></script>
+<script src="bitrix/js/main/core/core_frame_cache.min.js?173392982711132"></script>
+<script src="bitrix/js/pull/protobuf/protobuf.min.js?159231549176433"></script>
+<script src="bitrix/js/pull/protobuf/model.min.js?159231549114190"></script>
+<script src="bitrix/js/rest/client/rest.client.min.js?16015491189240"></script>
+<script src="bitrix/js/pull/client/pull.client.min.js?172302241249664"></script>
+<script src="bitrix/js/landing/metrika/dist/metrika.bundle.min.js?17053049563428"></script>
+<script src="bitrix/js/main/pageobject/pageobject.min.js?1584117434570"></script>
+<script src="bitrix/js/main/popup/dist/main.popup.bundle.min.js?173392982765924"></script>
+<script src="bitrix/js/main/core/core_clipboard.min.js?16572140002246"></script>
+<script src="bitrix/js/main/sidepanel/manager.min.js?171699739538706"></script>
+<script src="bitrix/js/main/sidepanel/slider.min.js?172710022035720"></script>
+<script src="bitrix/js/main/date/main.date.min.js?173392982719136"></script>
+<script src="bitrix/js/main/core/core_date.min.js?161286731026661"></script>
+<script src="bitrix/js/main/core/core_window.min.js?170185523776324"></script>
+<script src="bitrix/js/catalog/core_tree.min.js?172546552845402"></script>
+<script src="bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.min.js?15362428577124"></script>
+<script src="bitrix/js/landing/utils/utils.min.js?173329386319728"></script>
+<script src="bitrix/js/landing/mediaplayer/base_mediaplayer.min.js?16662689151069"></script>
+<script src="bitrix/js/landing/mediaplayer/youtube_mediaplayer.min.js?16662689152281"></script>
+<script src="bitrix/js/landing/mediaplayer/mediaplayer_factory.min.js?1666268915372"></script>
+<script src="bitrix/js/landing/ui/tool/auto_font_scale/dist/auto_font_scale.bundle.min.js?16989351205160"></script>
+<script src="bitrix/js/landing/event-tracker/event-tracker.min.js?15839331302876"></script>
+<script src="bitrix/js/landing/event-tracker/services/base-service.min.js?1538227870259"></script>
+<script src="bitrix/js/landing/event-tracker/services/google-analytics-service.min.js?1538227870485"></script>
+<script src="bitrix/js/landing/polyfill.min.js?15675083271062"></script>
+<script src="bitrix/js/landing/events/block_event.min.js?1538227870520"></script>
+<script src="bitrix/js/landing/public.min.js?17249436704643"></script>
+<script>if (Intl && Intl.DateTimeFormat) document.cookie="BITRIX_SM_TZ="+Intl.DateTimeFormat().resolvedOptions().timeZone+"; path=/; expires=Mon, 01 Dec 2025 00:00:00 +0300";</script>
+<script src="bitrix/templates/landing24/assets/vendor/jquery/jquery_landing.min.js?166385260095077"></script>
+<script src="bitrix/templates/landing24/assets/vendor/jquery.easing/js/jquery.easing_landing.min.js?16589331053591"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/lazyload.min.js?16989351202187"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/onscroll-animation_init.min.js?16989351203360"></script>
+<script src="bitrix/templates/landing24/assets/vendor/bootstrap/js/dist/util.min.js?15906508262242"></script>
+<script src="bitrix/templates/landing24/assets/vendor/bootstrap/js/dist/collapse.min.js?15906508266674"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/menu/scrollspy.min.js?16770006392633"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/menu/menu_init.min.js?17024696994546"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/menu/block-header-entry.min.js?16355193376947"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/menu/block-header-init.min.js?16843044571122"></script>
+<script src="bitrix/templates/landing24/assets/vendor/fancybox/jquery.fancybox_landing.min.js?171143448261369"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/gallery_cards_init.min.js?16292822253277"></script>
+<script src="bitrix/templates/landing24/assets/vendor/slick-carousel/slick/slick_landing.min.js?165893310545151"></script>
+<script src="bitrix/templates/landing24/assets/js/components/hs.core_landing.min.js?1658933105614"></script>
+<script src="bitrix/templates/landing24/assets/js/components/hs.carousel.min.js?16711921524391"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/carousel/carousel_helper.min.js?16692084138623"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/carousel/base_carousel_init.min.js?16614118232748"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/popup_init.min.js?1658933105779"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/upper_init.min.js?1594736530704"></script>
+<script src="bitrix/templates/landing24/assets/js/helpers/auto_font_scale_init.min.js?1698935120150"></script>
+<script src="bitrix/components/bitrix/landing.pub/templates/.default/script.min.js?17126771928487"></script>
+<script>
+	BX.namespace("BX.Landing");
+	BX.Landing.getMode = () => "view";
+</script>
+<script>var _ba = _ba || []; _ba.push(["aid", "bc2cad9153cb418bb2dfd5602c3c3754"]); _ba.push(["host", "pilotgr.bitrix24.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+	(function()
+	{
+		new BX.Landing.Metrika();
+	})();
+</script>
+
+<script>
+	BX.ready(function() {
+		void new BX.Landing.Pub.PageTransition();
+	});
+</script>
+
+<script>
+	(function(w,d,u){
+		var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+		var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+	})(window,document,'https://cdn-ru.bitrix24.ru/b334051/crm/tag/call.tracker.js');
+</script>
+</body>
+</html>
