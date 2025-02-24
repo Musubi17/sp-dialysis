@@ -1,0 +1,571 @@
+﻿<!DOCTYPE html>
+<html xml:lang="ru" lang="ru" class="">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="MobileOptimized" content="width">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>Врачи</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+							:root {
+								--theme-color-b24button: var(--primary);
+							}
+							
+						</style>
+<style>:root {--theme-color-main: #212121 !important;--theme-color-title: #999999 !important;}</style>
+<style type="text/css">
+				:root {
+					--primary: #30a593 !important;
+					--primary-darken-1: hsl(170.77, 55%, 40%);
+					--primary-darken-2: hsl(170.77, 55%, 37%);
+					--primary-darken-3: hsl(170.77, 55%, 32%);
+					--primary-lighten-1: hsl(170.77, 55%, 52%);
+					--primary-opacity-0: rgba(48, 165, 147, 0);
+					--primary-opacity-0_05: rgba(48, 165, 147, 0.05);
+					--primary-opacity-0_1: rgba(48, 165, 147, 0.1);
+					--primary-opacity-0_15: rgba(48, 165, 147, 0.15);
+					--primary-opacity-0_2: rgba(48, 165, 147, 0.2);
+					--primary-opacity-0_25: rgba(48, 165, 147, 0.25);
+					--primary-opacity-0_3: rgba(48, 165, 147, 0.3);
+					--primary-opacity-0_35: rgba(48, 165, 147, 0.35);
+					--primary-opacity-0_4: rgba(48, 165, 147, 0.4);
+					--primary-opacity-0_45: rgba(48, 165, 147, 0.45);
+					--primary-opacity-0_5: rgba(48, 165, 147, 0.5);
+					--primary-opacity-0_55: rgba(48, 165, 147, 0.55);
+					--primary-opacity-0_6: rgba(48, 165, 147, 0.6);
+					--primary-opacity-0_65: rgba(48, 165, 147, 0.65);
+					--primary-opacity-0_7: rgba(48, 165, 147, 0.7);
+					--primary-opacity-0_75: rgba(48, 165, 147, 0.75);
+					--primary-opacity-0_8: rgba(48, 165, 147, 0.8);
+					--primary-opacity-0_85: rgba(48, 165, 147, 0.85);
+					--primary-opacity-0_9: rgba(48, 165, 147, 0.9);
+					--primary-opacity-0_95: rgba(48, 165, 147, 0.95);
+					--theme-color-main: hsl(170.77, 20%, 20%);
+					--theme-color-secondary: hsl(170.77, 20%, 80%);
+					--theme-color-title: hsl(170.77, 20%, 20%);
+					--theme-color-strict-inverse: #ffffff;
+				}
+			</style>
+
+<script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
+
+
+<link href="../bitrix/js/intranet/intranet-common.min.css?166151605361199" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?171327662823463" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/intranet/design-tokens/bitrix24/bitrix24-design-tokens.min.css?16854388541467" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16620208132320" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/main/popup/dist/main.popup.bundle.min.css?173392982726589" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/ui/icon-set/actions/style.min.css?173402213419819" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/ui/icon-set/main/style.min.css?173402213475565" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/main/sidepanel/css/sidepanel.min.css?170185523712285" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/main/core/css/core_date.min.css?16607515339928" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/landing/css/landing_public.min.css?1567508327250" type="text/css" rel="stylesheet">
+<link href="../bitrix/components/bitrix/landing.pub/templates/.default/style.min.css?170246969943765" type="text/css" rel="stylesheet">
+<link href="../bitrix/panel/main/popup.min.css?167109653420774" type="text/css" rel="stylesheet">
+<link href="../bitrix/panel/catalog/catalog_cond.min.css?15549945847248" type="text/css" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/bootstrap/bootstrap.min.css?1694617665177088" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/theme.min.css?1702469699584893" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/css/custom.min.css?15738327531305" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/animate.min.css?167119215225402" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/hamburgers/dist/hamburgers.min.css?169461766511902" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/slick-carousel/slick/slick.min.css?16946176651267" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/slick-carousel/slick/landing-slick.min.css?16946176653544" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/icon/far/style.min.css?1640342071601" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/fancybox/jquery.fancybox.min.css?156750832713920" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/icon/icon/style.min.css?15994906853423" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/template_styles.min.css?16843044572401" type="text/css" data-template-style="true" rel="stylesheet">
+
+
+
+
+<script type="extension/settings" data-extension="main.date">{"formats":{"FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","SHORT_DATE_FORMAT":"d.m.Y","MEDIUM_DATE_FORMAT":"j M Y","LONG_DATE_FORMAT":"j F Y","DAY_MONTH_FORMAT":"j F","DAY_SHORT_MONTH_FORMAT":"j M","SHORT_DAY_OF_WEEK_MONTH_FORMAT":"D, j F","SHORT_DAY_OF_WEEK_SHORT_MONTH_FORMAT":"D, j M","DAY_OF_WEEK_MONTH_FORMAT":"l, j F","FULL_DATE_FORMAT":"l, j F  Y","SHORT_TIME_FORMAT":"H:i","LONG_TIME_FORMAT":"H:i:s"}}</script>
+
+
+
+<meta name="robots" content="all">
+<style>
+					@keyframes page-transition {
+						0% {
+							opacity: 1;
+						}
+						100% {
+							opacity: 0;
+						}
+					}
+					body.landing-page-transition::after {
+						opacity: 1;
+						background: #fff;
+						animation: page-transition 2s 1s forwards;
+					}
+				</style>
+
+
+
+<link rel="preload" href="../bitrix/templates/landing24/assets/vendor/icon/far/font.woff" as="font" crossorigin="anonymous" type="font/woff" crossorigin="">
+<link rel="preload" href="../bitrix/templates/landing24/assets/vendor/icon/far/font.woff2" as="font" crossorigin="anonymous" type="font/woff2" crossorigin="">
+<style>.fa-map-marker:before{content:"\f041";}.fa-volume-control-phone:before{content:"\f2a0";}.fa-envelope:before{content:"\f0e0";}.fa-calendar:before{content:"\f133";}</style>
+<link rel="preload" href="../bitrix/templates/landing24/assets/vendor/icon/icon/font.woff" as="font" crossorigin="anonymous" type="font/woff" crossorigin="">
+<link rel="preload" href="../bitrix/templates/landing24/assets/vendor/icon/icon/font.woff2" as="font" crossorigin="anonymous" type="font/woff2" crossorigin="">
+<style>.fa-map-marker:before{content:"\f041";}.icon-call-in:before{content:"\e047";}.icon-earphones-alt:before{content:"\e03c";}</style>
+<style>
+					body {
+						--landing-font-family: Open Sans
+					}
+				</style>
+<link rel="stylesheet" href="../css2-1?family=Open+Sans:wght@100;200;300;400;500;600;700;800;900">
+<style>
+				body {
+					font-weight: 400;
+					font-family: Open Sans;
+					-webkit-font-smoothing: antialiased;
+					-moz-osx-font-smoothing: grayscale;
+					-moz-font-feature-settings: "liga", "kern";
+					text-rendering: optimizelegibility;
+				}
+			</style>
+<style>
+				h1, h2, h3, h4, h5, h6 {
+					font-family: Open Sans;
+				}
+			</style>
+<style>
+			html {font-size: 14px;}
+			body {font-size: 1rem;}
+			.g-font-size-default {font-size: 1rem;}
+		</style>
+<style>
+				main.landing-public-mode {
+					line-height: 1.6;
+					font-weight: 400;
+				}
+				
+				.landing-public-mode .h1, .landing-public-mode .h2, .landing-public-mode .h3, .landing-public-mode .h4, 
+				.landing-public-mode .h5, .landing-public-mode .h6, .landing-public-mode .h7,
+				.landing-public-mode h1, .landing-public-mode h2, .landing-public-mode h3, .landing-public-mode h4, 
+				.landing-public-mode h5, .landing-public-mode h6 {
+					font-weight: 400;
+				}
+			</style>
+<!-- <meta property="og:title" content="Пустая страница"><meta property="og:description" content="Создайте собственный сайт с чистого листа и привлекайте клиентов!"><meta property="og:image" content="https://cdn.bitrix24.site/bitrix/images/demo/page/empty/preview.jpg"><meta property="og:type" content="website"><meta property="twitter:title" content="Пустая страница"><meta property="twitter:description" content="Создайте собственный сайт с чистого листа и привлекайте клиентов!"><meta property="twitter:image" content="https://cdn.bitrix24.site/bitrix/images/demo/page/empty/preview.jpg"><meta name="twitter:card" content="summary_large_image"><meta property="twitter:type" content="website"> <meta property="Bitrix24SiteType" content="page"> <meta property="og:url" content="https://cdc-dialysis.ru/pustayastranitsa/"> -->
+<link rel="canonical" href="index.html">
+<link rel="icon" type="image/png" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/047e4a127947eff3c7d861cc2f113186/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/45fd33a620da2e44653e6a92c96d9446/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/c8042d925d6656dd077f15192d13bb8f/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="96x96">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/eb45a9f96698d396483d7a1236fe0380/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/a03d95df41ccb7c2ab8a9e9ebcd4cf8a/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="180x180">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/8245e211b4cc1aeef31861f9c55143e5/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/26c9f99963f016735739c7de412de1e1/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="167x167">
+ <link rel="icon" type="image/x-icon" href="../favicon.ico"></head>
+<body class="landing-page-transition landing-b24button-use-style">
+<main class="w-100 landing-public-mode">
+<div id="b4278" class="block-wrapper block-0-menu-17-restaurant"><header class="landing-block landing-semantic-background-color u-header u-header--sticky u-header--relative g-z-index-9999 g-bg" style="--bg: #30a593;">
+	<div class="u-header__section u-header__section--light g-transition-0_3 g-py-16" data-header-fix-moment-exclude="g-py-16" data-header-fix-moment-classes="u-shadow-v27 g-py-6">
+		<nav class="navbar navbar-expand-lg g-py-0 g-mt-3 g-px-10 u-navbar-color u-navbar-color--hover" style="--navbar-color: #ffffff;--navbar-color--hover: #f4d39e;">
+			<div class="container">
+				<!-- Logo -->
+				<a href="../index.html" class="landing-block-node-menu-logo-link navbar-brand u-header__logo p-0" target="_self">
+					<img class="landing-block-node-menu-logo u-header__logo-img u-header__logo-img--main g-max-width-180" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2MCI+PHJlY3QgaWQ9ImJhY2tncm91bmRyZWN0IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4PSIwIiB5PSIwIiBmaWxsPSIjZGRkIiBmaWxsLW9wYWNpdHk9Ii43IiBzdHJva2U9Im5vbmUiLz48L3N2Zz4=" alt="" data-fileid="387034" data-fileid2x="387036" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/72b/72bc162dcbcdc5ae0f51ceccd4638fe1/Dokument5_2_1x.png" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/a17/a1740db31ee5ac2eafc827f77dd031d2/Dokument5_2_2x.png 2x">
+				</a>
+				<!-- End Logo -->
+
+				<!-- Navigation -->
+				<div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar4278">
+					<ul class="landing-block-node-menu-list js-scroll-nav navbar-nav text-uppercase g-font-weight-700 g-font-size-12 g-pt-20 g-pt-0--lg ml-auto"><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">ГЛАВНАЯ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">СОТРУДНИКИ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../pravilapodgotovkikdiagnosticheskimissledovaniyam/index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">ДЛЯ ПАЦИЕНТОВ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../turizmnabaykale/index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">ТУРИЗМ НА БАЙКАЛЕ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../structura/index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">СТРУКТУРА</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../index.html#b3982" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">ОТЗЫВЫ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="#b3030" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">КОНТАКТЫ</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../novosti/index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">НОВОСТИ</a>
+						</li></ul>
+				</div>
+				<!-- End Navigation -->
+
+				<!-- Responsive Toggle Button -->
+				<button class="navbar-toggler btn g-line-height-1 g-brd-none g-pa-0 ml-auto" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar4278" data-toggle="collapse" data-target="#navBar4278">
+                <span class="hamburger hamburger--slider">
+                  <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                  </span>
+                </span>
+				</button>
+				<!-- End Responsive Toggle Button -->
+			</div>
+		</nav>
+	</div>
+</header></div><div id="b4318" class="block-wrapper block-01-big-with-text">
+
+	<div class="js-carousel g-overflow-hidden g-max-height-100vh" data-autoplay="true" data-infinite="true" data-fade="true" data-speed="5000"><div class="landing-block-card-img js-slide g-bg-img-hero g-min-height-100vh" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjEwNzkiPjxyZWN0IGlkPSJiYWNrZ3JvdW5kcmVjdCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeD0iMCIgeT0iMCIgZmlsbD0iI2RkZCIgZmlsbC1vcGFjaXR5PSIuNyIgc3Ryb2tlPSJub25lIi8+PC9zdmc+);" data-fileid="387070" data-fileid2x="387072" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/7f2/7f2e0fd86edca6b34fd2ee45a5d8b64a/healthcare-directive_2x_1x.jpg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/7f2/7f2e0fd86edca6b34fd2ee45a5d8b64a/healthcare-directive_2x_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/181/181f3a5ca98a4358a1a332405d3b4fd4/healthcare-directive_2x_2x.jpg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/7f2/7f2e0fd86edca6b34fd2ee45a5d8b64a/healthcare-directive_2x_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/181/181f3a5ca98a4358a1a332405d3b4fd4/healthcare-directive_2x_2x.jpg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/7f2/7f2e0fd86edca6b34fd2ee45a5d8b64a/healthcare-directive_2x_1x.jpg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/181/181f3a5ca98a4358a1a332405d3b4fd4/healthcare-directive_2x_2x.jpg"></div></div>
+
+	<div class="g-absolute-centered g-width-80x--md">
+		<div class="container text-center g-max-width-800">
+			<div class="landing-block-node-text-container info-v3-4 g-bg-primary-opacity-0_9 g-pa-20 g-pa-60--md js-animation fadeInLeft">
+				<div class="g-pos-rel g-z-index-3">
+					
+					<h2 class="landing-block-node-title landing-semantic-subtitle-image-big h1 text-uppercase g-color-white g-letter-spacing-5 g-mb-20" style="position: relative; user-select: none; cursor: pointer;">наши специалисты</h2>
+					<div class="landing-block-node-text landing-semantic-text-image-medium g-line-height-1_8 g-letter-spacing-3 g-color-white g-mb-20" data-auto-font-scale="">Специализированная поликлиника<br></div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div><div id="b4330" class="block-wrapper block-04-1-one-col-fix-with-title"><section class="landing-block js-animation fadeInUp g-pt-30 g-pb-30" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+	<div class="landing-block-node-inner container g-max-width-container text-uppercase g-brd-primary u-heading-v2-0 text-center" style="--border-color: ;--border-color--hover: ;">
+		<h6 class="landing-block-node-subtitle landing-semantic-subtitle-medium-primary g-font-weight-700 g-letter-spacing-1 g-color-primary g-mb-20"> </h6>
+		<h2 class="landing-block-node-title landing-semantic-title-medium h1 u-heading-v2__title g-line-height-1_3 g-font-weight-700 g-mb-minus-10" style="--color: ;">специалисты специализированной поликлиники</h2>
+	</div>
+
+</section></div><div id="b4386" class="block-wrapper block-10-1-two-cols-big-img-text-and-text-blocks"><section class="landing-block landing-semantic-background-color row no-gutters g-theme-business-bg-blue-dark-v1" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+	<div class="landing-block-node-img col-lg-5 g-min-height-360 g-bg-img-hero order-2 order-md-1" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODAiIGhlaWdodD0iNjA4Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==);" data-fileid="387404" data-fileid2x="387406" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/fdf/fdfe446fe3c028229860de56850aa5d4/Romanenko_Valentin_Aleksandrovich_1x.jpg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/fdf/fdfe446fe3c028229860de56850aa5d4/Romanenko_Valentin_Aleksandrovich_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/fdf/fdfe446fe3c028229860de56850aa5d4/Romanenko_Valentin_Aleksandrovich_1x.jpg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/fdf/fdfe446fe3c028229860de56850aa5d4/Romanenko_Valentin_Aleksandrovich_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/fdf/fdfe446fe3c028229860de56850aa5d4/Romanenko_Valentin_Aleksandrovich_1x.jpg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/fdf/fdfe446fe3c028229860de56850aa5d4/Romanenko_Valentin_Aleksandrovich_1x.jpg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/fdf/fdfe446fe3c028229860de56850aa5d4/Romanenko_Valentin_Aleksandrovich_1x.jpg"></div>
+
+	<div class="landing-block-node-texts col-lg-7 g-pt-100 g-pb-80 g-px-15 g-px-40--md order-1 order-md-2 g-bg" style="--bg: #ffffff;">
+		<header class="landing-block-node-header text-uppercase text-left g-brd-primary g-mb-20 u-heading-v2-0" style="--border-color: ;--border-color--hover: ;">
+			<h6 class="landing-block-node-subtitle landing-semantic-subtitle-small-primary g-font-weight-700 g-letter-spacing-1 g-color-primary g-mb-20">главный врач</h6>
+			<h2 class="landing-block-node-title landing-semantic-title-medium h1 u-heading-v2__title g-line-height-1_3 g-font-weight-700 g-color" style="--color: hsla(0, 0%, 0%, 1);">Романенко Валентин Александрович</h2>
+		</header>
+
+		<div class="landing-block-node-text landing-semantic-text-medium g-color" style="--color: hsla(0, 0%, 0%, 0.7);"><p><span style="font-weight: bold;">Образование</span>: ЧГМА, ИГМУ
+<br><span style="font-weight: bold;">Специальность</span>: Врач-нефролог 
+<br><span style="font-weight: bold;">Стаж работы</span>: 7 лет  <br></p></div>
+
+		<div class="row align-items-stretch"><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+				<article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+					<div class="g-flex-middle-item">
+						<h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">ОБРАЗОВАНИЕ</h6>
+						<div class="landing-block-node-text-block-text landing-semantic-text-small g-color text-justify g-font-size-13" style="--color: hsla(0, 0%, 0%, 0.7);">Окончил в 2017 году Читинскую государственную медицинскую академию. В 2020 году окончил ординатуру по специальности «Нефрология» в Иркутском государственном медицинском университете. Свидетельство об аккредитации по специальности «Нефрология» от 27.11.2020 г.</div>
+					</div>
+				</article>
+			</div><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+				<article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+					<div class="g-flex-middle-item">
+						<h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">Сертификаты</h6>
+						<div class="landing-block-node-text-block-text landing-semantic-text-small g-color text-justify g-font-size-13" style="--color: hsla(0, 0%, 0%, 0.7);">Свидетельство об аккредитации по специальности «Нефрология» от 27.11.2020 г., <p><br></p><p>Аккредитация по специальности «Организация здравоохранения и общественное здоровье» от 12.10.2024<br></p></div>
+					</div>
+				</article>
+			</div></div>
+	</div>
+
+</section></div><div id="b8128" class="block-wrapper block-10-1-two-cols-big-img-text-and-text-blocks"><section class="landing-block landing-semantic-background-color row no-gutters g-theme-business-bg-blue-dark-v1" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+	<div class="landing-block-node-img col-lg-5 g-min-height-360 g-bg-img-hero order-2 order-md-1" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNDkiIGhlaWdodD0iNDA4Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==);" data-fileid="679538" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/e38/e38e0babf47b3479981c7a312703bc53/photo_2024_11_18_13_41_28_1x.jpeg')" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/e38/e38e0babf47b3479981c7a312703bc53/photo_2024_11_18_13_41_28_1x.jpeg"></div>
+
+	<div class="landing-block-node-texts col-lg-7 g-pt-100 g-pb-80 g-px-15 g-px-40--md order-1 order-md-2 g-bg" style="--bg: #ffffff;">
+		<header class="landing-block-node-header text-uppercase text-left g-brd-primary g-mb-20 u-heading-v2-0" style="--border-color: ;--border-color--hover: ;">
+			<h6 class="landing-block-node-subtitle landing-semantic-subtitle-small-primary g-font-weight-700 g-letter-spacing-1 g-color-primary g-mb-20">Врач-нефролог</h6>
+			<h2 class="landing-block-node-title landing-semantic-title-medium h1 u-heading-v2__title g-line-height-1_3 g-font-weight-700 g-color" style="--color: hsla(0, 0%, 0%, 1);">Бутуханова Ирина Сергеевна</h2>
+		</header>
+
+		<div class="landing-block-node-text landing-semantic-text-medium g-color" style="--color: hsla(0, 0%, 0%, 0.7);"><p><span style="font-weight: bold;">Специальность</span>: Врач- нефролог<br><span style="font-weight: bold;">Учёная степень:</span> Кандидат медицинских наук. Высшая квалификационная категория.
+<br><span style="font-weight: bold;">Стаж работы:</span> 35 лет.<br></p></div>
+
+		<div class="row align-items-stretch"><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+				<article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+					<div class="g-flex-middle-item">
+						<h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">ОБРАЗОВАНИЕ</h6>
+						<div class="landing-block-node-text-block-text landing-semantic-text-small g-color text-justify g-font-size-13" style="--color: hsla(0, 0%, 0%, 0.7);"><p>закончила в 1989 году Иркутский государственный медицинский институт по специальности «Лечебное дело».
+<br> В 1990 году окончила интернатуру по специальности «Терапия»
+<br>Специализация по нефрологии на базе Иркутского ГИДУВа в 1996 г.
+<br>Клиническая ординатура по специальности «Терапия» в ИГМУ1996-1998 г.г.
+<br>Аспирантура на базе ИГМУ 2002-2005 г. г.
+<br><br><br></p></div>
+					</div>
+				</article>
+			</div><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+				<article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+					<div class="g-flex-middle-item">
+						<h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">Сертификаты</h6>
+						<div class="landing-block-node-text-block-text landing-semantic-text-small g-color g-font-size-13 text-justify" style="--color: hsla(0, 0%, 0%, 0.7);"><p>Аккредитация по специальности «Нефрология» от 11.10.2021 г.<br></p></div>
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+
+
+    </section></div><div id="b4390" class="block-wrapper block-10-1-two-cols-big-img-text-and-text-blocks"><section class="landing-block landing-semantic-background-color row no-gutters g-theme-business-bg-blue-dark-v1" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+        <div class="landing-block-node-img col-lg-5 g-min-height-360 g-bg-img-hero order-2 order-md-1" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NzQiIGhlaWdodD0iNjQwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==);" data-fileid="387408" data-fileid2x="387410" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/a76/a76f0037092a83bd07d3da054c2fee4a/Dondokova_Darima_Batoevna_1x.jpg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/a76/a76f0037092a83bd07d3da054c2fee4a/Dondokova_Darima_Batoevna_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/a76/a76f0037092a83bd07d3da054c2fee4a/Dondokova_Darima_Batoevna_1x.jpg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/a76/a76f0037092a83bd07d3da054c2fee4a/Dondokova_Darima_Batoevna_1x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/a76/a76f0037092a83bd07d3da054c2fee4a/Dondokova_Darima_Batoevna_1x.jpg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/a76/a76f0037092a83bd07d3da054c2fee4a/Dondokova_Darima_Batoevna_1x.jpg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/a76/a76f0037092a83bd07d3da054c2fee4a/Dondokova_Darima_Batoevna_1x.jpg"></div>
+
+        <div class="landing-block-node-texts col-lg-7 g-pt-100 g-pb-80 g-px-15 g-px-40--md order-1 order-md-2 g-bg" style="--bg: #ffffff;">
+            <header class="landing-block-node-header text-uppercase text-left g-brd-primary g-mb-20 u-heading-v2-0" style="--border-color: ;--border-color--hover: ;">
+                <h6 class="landing-block-node-subtitle landing-semantic-subtitle-small-primary g-font-weight-700 g-letter-spacing-1 g-color-primary g-mb-20">Врач-нефролог</h6>
+                <h2 class="landing-block-node-title landing-semantic-title-medium h1 u-heading-v2__title g-line-height-1_3 g-font-weight-700 g-color" style="--color: hsla(0, 0%, 0%, 1);">Дондокова Дарима Батоевна</h2>
+            </header>
+
+			<div class="landing-block-node-text landing-semantic-text-medium g-color" style="--color: hsla(0, 0%, 0%, 0.7);"><span style="font-weight: bold;">
+				Образование</span>: ЧГМА
+<br><span style="font-weight: bold;">Специальность</span>: врач-нефролог
+<br><span style="font-weight: bold;">Ученая степень</span>: Кандидат медицинских наук
+<br><span style="font-weight: bold;">Стаж работы</span>: 27 лет.<span style="font-size: 1rem;"> </span></div>
+
+            <div class="row align-items-stretch"><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+                    <article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+                        <div class="g-flex-middle-item">
+                            <h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">ОБРАЗОВАНИЕ</h6>
+                            <div class="landing-block-node-text-block-text landing-semantic-text-small g-color g-font-size-13 text-justify" style="--color: hsla(0, 0%, 0%, 0.7);"><p>Окончила в 1997 году Читинскую Государственную Медицинскую Академию.
+<br>В 1998 году окончила интернатуру по специальности «Терапия» в РКБ им. Семашко г. Улан -Удэ.
+<br>В 2002 году окончила ординатуру по специальности «Терапия» в Новосибирской Государственной Медицинской Академии.
+<br><br></p></div>
+                        </div>
+                    </article>
+                </div><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+                    <article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+                        <div class="g-flex-middle-item">
+                            <h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">СЕРТИФИКАТ</h6>
+                            <div class="landing-block-node-text-block-text landing-semantic-text-small g-color text-justify g-font-size-13" style="--color: hsla(0, 0%, 0%, 0.7);"><p>Сертификат по специальности «нефрология» подтвержден 12.03.2020 г. <br></p></div>
+                        </div>
+                    </article>
+                </div></div>
+        </div>
+    
+    </section></div><div id="b4384" class="block-wrapper block-10-1-two-cols-big-img-text-and-text-blocks"><section class="landing-block landing-semantic-background-color row no-gutters g-theme-business-bg-blue-dark-v1" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+        <div class="landing-block-node-img col-lg-5 g-min-height-360 g-bg-img-hero order-2 order-md-1" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMTYwIiBoZWlnaHQ9IjEyODAiPjxyZWN0IGlkPSJiYWNrZ3JvdW5kcmVjdCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeD0iMCIgeT0iMCIgZmlsbD0iI2RkZCIgZmlsbC1vcGFjaXR5PSIuNyIgc3Ryb2tlPSJub25lIi8+PC9zdmc+);" data-fileid="679534" data-fileid2x="679536" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/fb9/fb9ba84125ffb50337f9d0aa5e418ced/photo_2024_11_18_13_39_16_1x.jpeg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/fb9/fb9ba84125ffb50337f9d0aa5e418ced/photo_2024_11_18_13_39_16_1x.jpeg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/0ee/0eeb0a4e67ce978abb4d6250e335c60f/photo_2024_11_18_13_39_16_2x.jpeg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/fb9/fb9ba84125ffb50337f9d0aa5e418ced/photo_2024_11_18_13_39_16_1x.jpeg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/0ee/0eeb0a4e67ce978abb4d6250e335c60f/photo_2024_11_18_13_39_16_2x.jpeg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/fb9/fb9ba84125ffb50337f9d0aa5e418ced/photo_2024_11_18_13_39_16_1x.jpeg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/0ee/0eeb0a4e67ce978abb4d6250e335c60f/photo_2024_11_18_13_39_16_2x.jpeg"></div>
+
+        <div class="landing-block-node-texts col-lg-7 g-pt-100 g-pb-80 g-px-15 g-px-40--md order-1 order-md-2 g-bg" style="--bg: #ffffff;">
+            <header class="landing-block-node-header text-uppercase text-left g-brd-primary g-mb-20 u-heading-v2-0" style="--border-color: ;--border-color--hover: ;">
+                <h6 class="landing-block-node-subtitle landing-semantic-subtitle-small-primary g-font-weight-700 g-letter-spacing-1 g-color-primary g-mb-20">Врач-нефролог</h6>
+                <h2 class="landing-block-node-title landing-semantic-title-medium h1 u-heading-v2__title g-line-height-1_3 g-font-weight-700 g-color" style="--color: hsla(0, 0%, 0%, 1);">Костюнина Елена Петровна</h2>
+            </header>
+
+			<div class="landing-block-node-text landing-semantic-text-medium g-color" style="--color: hsla(0, 0%, 0%, 0.7);"><p><span style="font-weight: bold;">Специальность</span>: Врач- нефролог<br><span style="font-weight: bold;">Стаж работы</span>: 7 лет<br></p></div>
+
+            <div class="row align-items-stretch"><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+                    <article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+                        <div class="g-flex-middle-item">
+                            <h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">ОБРАЗОВАНИЕ</h6>
+                            <div class="landing-block-node-text-block-text landing-semantic-text-small g-color text-justify g-font-size-13" style="--color: hsla(0, 0%, 0%, 0.7);"><p>БГУ в 2013 г. Медицинский Факультет. 
+<br>Ординатура по специальности «Анестезиология- реаниматология» в БГУ г. Улан-Удэ-2017 г. 
+<br>В 2019 году прошла программу профессиональной переподготовки в АНО ВО «Европейский Университет «Бизнес Треугольник» г. Санкт- Петербург по специальности «Нефрология».
+<br><br><br></p></div>
+                        </div>
+                    </article>
+                </div><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+                    <article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+                        <div class="g-flex-middle-item">
+                            <h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">Сертификаты</h6>
+                            <div class="landing-block-node-text-block-text landing-semantic-text-small g-color g-font-size-13 text-justify" style="--color: hsla(0, 0%, 0%, 0.7);"><p>Сертификат   по специальности «Нефрология» подтвержден 08.06.2024 г.<br></p></div>
+                        </div>
+                    </article>
+                </div></div>
+        </div>
+    
+
+
+	</section></div><div id="b4378" class="block-wrapper block-10-1-two-cols-big-img-text-and-text-blocks"><section class="landing-block landing-semantic-background-color row no-gutters g-theme-business-bg-blue-dark-v1" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+        <div class="landing-block-node-img col-lg-5 g-min-height-360 g-bg-img-hero order-2 order-md-1" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NzciIGhlaWdodD0iNjQwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==);" data-fileid="387240" data-fileid2x="387242" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-bg="Y" data-bg="url('https://cdn-ru.bitrix24.ru/b334051/landing/f3a/f3acd5a70e6be7f7d791bed2229505b5/Balkhanov_Bair_Sodnomovich_2x.jpg')|-webkit-image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/f3a/f3acd5a70e6be7f7d791bed2229505b5/Balkhanov_Bair_Sodnomovich_2x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/f3a/f3acd5a70e6be7f7d791bed2229505b5/Balkhanov_Bair_Sodnomovich_2x.jpg') 2x)|image-set(url('https://cdn-ru.bitrix24.ru/b334051/landing/f3a/f3acd5a70e6be7f7d791bed2229505b5/Balkhanov_Bair_Sodnomovich_2x.jpg') 1x, url('https://cdn-ru.bitrix24.ru/b334051/landing/f3a/f3acd5a70e6be7f7d791bed2229505b5/Balkhanov_Bair_Sodnomovich_2x.jpg') 2x)" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/f3a/f3acd5a70e6be7f7d791bed2229505b5/Balkhanov_Bair_Sodnomovich_2x.jpg" data-src2x="https://cdn-ru.bitrix24.ru/b334051/landing/f3a/f3acd5a70e6be7f7d791bed2229505b5/Balkhanov_Bair_Sodnomovich_2x.jpg"></div>
+
+        <div class="landing-block-node-texts col-lg-7 g-pt-100 g-pb-80 g-px-15 g-px-40--md order-1 order-md-2 g-bg" style="--bg: #ffffff;">
+            <header class="landing-block-node-header text-uppercase text-left g-brd-primary g-mb-20 u-heading-v2-0" style="--border-color: ;--border-color--hover: ;">
+                <h6 class="landing-block-node-subtitle landing-semantic-subtitle-small-primary g-font-weight-700 g-letter-spacing-1 g-color-primary g-mb-20">врач-методист</h6>
+                <h2 class="landing-block-node-title landing-semantic-title-medium h1 u-heading-v2__title g-line-height-1_3 g-font-weight-700 g-color" style="--color: hsla(0, 0%, 0%, 1);">Балханов Баир Содномович</h2>
+            </header>
+
+			<div class="landing-block-node-text landing-semantic-text-medium g-color" style="--color: hsla(0, 0%, 0%, 0.7);"><p><span style="font-weight: bold;">Специальность</span>: организатор здравоохранения, врач-нефролог
+<br>Отличник здравоохранения Российской Федерации 
+<br><span style="font-weight: bold;">Ученая степень</span>: Кандидат медицинских наук
+<br><span style="font-weight: bold;">Стаж работы</span>: 32 года <br></p></div>
+
+            <div class="row align-items-stretch"><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+                    <article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+                        <div class="g-flex-middle-item">
+                            <h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">ОБРАЗОВАНИЕ</h6>
+                            <div class="landing-block-node-text-block-text landing-semantic-text-small g-color" style="--color: hsla(0, 0%, 0%, 0.7);"><p>Окончил в 1992 году Читинский государственный медицинский институт.</p><p>Диплом РАНХИГС<br></p><p></p></div>
+                        </div>
+                    </article>
+                </div><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+                    <article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+                        <div class="g-flex-middle-item">
+                            <h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">СЕРТИФИКАТЫ</h6>
+                            <div class="landing-block-node-text-block-text landing-semantic-text-small g-color" style="--color: hsla(0, 0%, 0%, 0.7);"><p>Сертификат по специальности «нефрология» от 27.12.2019 г.</p><p> <span style="font-size: 1rem;">Аккредитация по специальности «Организация здравоохранения и общественное здоровье» от 28.12.2021 г.</span></p><p></p></div>
+                        </div>
+                    </article>
+                </div><div class="col-sm-6 g-mb-30 landing-block-card-text-block">
+                    <article class="landing-semantic-background-color js-animation fadeIn h-100 g-flex-middle g-brd-left g-brd-3 g-brd-primary g-transition-0_3 g-pl-20 g-pr-20 g-pb-20 g-pt-20 g-bg g-border-color--hover" style="--bg: #ffffff;--border-color: ;--border-color--hover: #f4d39e;">
+                        <div class="g-flex-middle-item">
+                            <h6 class="landing-block-node-text-block-title landing-semantic-subtitle-small g-font-weight-700 text-uppercase g-mb-10 g-color" style="--color: hsla(0, 0%, 0%, 1);">НАГРАДЫ</h6>
+                            <div class="landing-block-node-text-block-text landing-semantic-text-small g-color" style="--color: hsla(0, 0%, 0%, 0.7);"><p>Почетное звание Заслуженный врач Республики Бурятия от 31.05.2004 г.</p><p> <span style="font-size: 1rem; text-align: justify;">Нагрудный знак Отличник здравоохранения Российской Федерации от 23.04.2009 г. </span></p><p></p></div>
+                        </div>
+                    </article>
+                </div></div>
+        </div>
+		
+
+
+
+    </section></div><div id="b4486" class="block-wrapper block-27-7-one-col-fix-text-on-bg"><section class="landing-block js-animation fadeInUp g-pt-30 g-pb-30">
+	
+	
+	
+	
+		<div class="landing-block-node-text landing-semantic-text-medium g-bg-primary-opacity-0_1 container g-max-width-container g-pt-30 g-pb-15 g-pl-15 g-pr-15"><p style="text-align: center;">Приём, консультация врача-нефролога в часы работы учреждения, по предварительной записи у администратора.  <br></p></div>
+</section></div><div id="b3030" class="block-wrapper block-14-2contacts-3-cols"><section class="landing-block g-pt-40 g-pb-25 text-center g-bg-main">
+	<div class="container">
+		<div class="row justify-content-center"><div class="landing-block-card js-animation fadeIn landing-block-node-contact g-brd-between-cols col-sm-6 col-md-6 col-lg-4 g-brd-primary g-px-15 g-py-30 g-py-0--md g-mb-15 landing-card" data-card-preset="contact-link">
+				<!-- <a class="landing-block-node-linkcontact-link g-text-decoration-none--hover" href="tel:+79021609690" target="_self"> -->
+					<span class="landing-block-node-contact-icon-container d-block g-font-size-50 g-line-height-1 g-mb-20 g-color-black-opacity-0_6">
+						<i class="landing-block-node-contact-icon fa fa-map-marker"></i>
+					</span>
+					<span class="landing-block-node-linkcontact-title d-block text-uppercase g-font-size-14 g-color-main g-mb-5">Позвоните нам</span>
+					<span class="landing-block-node-linkcontact-text g-text-decoration-none g-font-size-14 g-font-weight-700 g-color-black-opacity-0_7">+7 (9021) 609-690 Улан-Удэ<p>+7 (9021) 605-613 Селенгинск</p>
+				<!-- </a> -->
+			</div>
+			<div class="landing-block-card js-animation fadeIn landing-block-node-contact g-brd-between-cols col-sm-6 col-md-6 col-lg-4 g-brd-primary g-px-15 g-py-30 g-py-0--md g-mb-15 landing-card" data-card-preset="contact-link">
+				<a class="landing-block-node-linkcontact-link g-text-decoration-none--hover" href="mailto:info.uugdc@gmail.com" target="_self">
+					<span class="landing-block-node-contact-icon-container d-block g-font-size-50 g-line-height-1 g-mb-20 g-color-black-opacity-0_6">
+						<i class="landing-block-node-contact-icon icon-call-in"></i>
+					</span>
+					<span class="landing-block-node-linkcontact-title d-block text-uppercase g-font-size-14 g-color-main g-mb-5">Напишите нам</span>
+					<span class="landing-block-node-linkcontact-text g-text-decoration-none  g-font-size-14 g-font-weight-700 g-color-black-opacity-0_7">info.uugdc@gmail.com</span>
+				</a>
+			</div>
+			<div class="landing-block-card js-animation fadeIn landing-block-node-contact g-brd-between-cols col-sm-6 col-md-6 col-lg-4 g-brd-primary g-px-15 g-py-30 g-py-0--md g-mb-15 landing-card" data-card-preset="contact-text">
+				<div class="landing-block-node-contact-container">
+					<span class="landing-block-node-contact-icon-container d-block g-font-size-50 g-line-height-1 g-mb-20 g-color-black-opacity-0_6">
+						<i class="landing-block-node-contact-icon icon-earphones-alt"></i>
+					</span>
+					<span class="landing-block-node-contact-title d-block text-uppercase g-font-size-14 g-color-main g-mb-5">Адрес</span>
+					<span class="landing-block-node-contact-text g-font-size-14 g-font-weight-700 g-color-black-opacity-0_7">670047 г. Улан-Удэ, ул. Боевая д.9Б<br>​671247 пгт. Селенгинск, ул. Южный микрорайон, 38, Кабанский район</span>
+				</div>
+			</div></div>
+			
+	</div>
+
+
+	
+</section></div>
+
+
+
+
+</main>
+<!-- <script data-skip-moving="true">
+					(function(w,d,u,b){ 'use strict';
+					var s=d.createElement('script');var r=(Date.now()/1000|0);s.async=1;s.src=u+'?'+r;
+					var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+				})(window,document,'https://cdn-ru.bitrix24.ru/b334051/crm/site_button/loader_2_rwm76o.js');
+				</script> -->
+
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script><script src="../bitrix/js/main/core/core.min.js?1727100220225181"></script><script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script>BX.Runtime.registerExtension({"name":"ui.dexie","namespace":"BX.Dexie3","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ls","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"fx","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"fc","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"pull.protobuf","namespace":"BX","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"rest.client","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"pull_server_enabled":"Y","pull_config_timestamp":1734102412,"pull_guest_mode":"N","pull_guest_user_id":0});(window.BX||top.BX).message({"PULL_OLD_REVISION":"Для продолжения корректной работы с сайтом необходимо перезагрузить страницу."});</script>
+<script>BX.Runtime.registerExtension({"name":"pull.client","namespace":"BX","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"pull","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"intranet.design-tokens.bitrix24","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.design-tokens","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.fonts.opensans","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"landing.metrika","namespace":"BX.Landing","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"main.pageobject","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"main.popup","namespace":"BX.Main","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"popup","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"CORE_CLIPBOARD_COPY_SUCCESS":"Скопировано","CORE_CLIPBOARD_COPY_FAILURE":"Не удалось скопировать"});</script>
+<script>BX.Runtime.registerExtension({"name":"clipboard","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.icon-set.actions","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.icon-set.main","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"MAIN_SIDEPANEL_CLOSE":"Закрыть","MAIN_SIDEPANEL_PRINT":"Печать","MAIN_SIDEPANEL_NEW_WINDOW":"Открыть в новом окне","MAIN_SIDEPANEL_COPY_LINK":"Скопировать ссылку","MAIN_SIDEPANEL_MINIMIZE":"Свернуть","MAIN_SIDEPANEL_REMOVE_ALL":"Удалить всё из быстрого доступа"});</script>
+<script>BX.Runtime.registerExtension({"name":"sidepanel","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"AMPM_MODE":false});(window.BX||top.BX).message({"MONTH_1":"Январь","MONTH_2":"Февраль","MONTH_3":"Март","MONTH_4":"Апрель","MONTH_5":"Май","MONTH_6":"Июнь","MONTH_7":"Июль","MONTH_8":"Август","MONTH_9":"Сентябрь","MONTH_10":"Октябрь","MONTH_11":"Ноябрь","MONTH_12":"Декабрь","MONTH_1_S":"января","MONTH_2_S":"февраля","MONTH_3_S":"марта","MONTH_4_S":"апреля","MONTH_5_S":"мая","MONTH_6_S":"июня","MONTH_7_S":"июля","MONTH_8_S":"августа","MONTH_9_S":"сентября","MONTH_10_S":"октября","MONTH_11_S":"ноября","MONTH_12_S":"декабря","MON_1":"янв","MON_2":"фев","MON_3":"мар","MON_4":"апр","MON_5":"мая","MON_6":"июн","MON_7":"июл","MON_8":"авг","MON_9":"сен","MON_10":"окт","MON_11":"ноя","MON_12":"дек","DAY_OF_WEEK_0":"Воскресенье","DAY_OF_WEEK_1":"Понедельник","DAY_OF_WEEK_2":"Вторник","DAY_OF_WEEK_3":"Среда","DAY_OF_WEEK_4":"Четверг","DAY_OF_WEEK_5":"Пятница","DAY_OF_WEEK_6":"Суббота","DOW_0":"Вс","DOW_1":"Пн","DOW_2":"Вт","DOW_3":"Ср","DOW_4":"Чт","DOW_5":"Пт","DOW_6":"Сб","FD_SECOND_AGO_0":"#VALUE# секунд назад","FD_SECOND_AGO_1":"#VALUE# секунду назад","FD_SECOND_AGO_10_20":"#VALUE# секунд назад","FD_SECOND_AGO_MOD_1":"#VALUE# секунду назад","FD_SECOND_AGO_MOD_2_4":"#VALUE# секунды назад","FD_SECOND_AGO_MOD_OTHER":"#VALUE# секунд назад","FD_SECOND_DIFF_0":"#VALUE# секунд","FD_SECOND_DIFF_1":"#VALUE# секунда","FD_SECOND_DIFF_10_20":"#VALUE# секунд","FD_SECOND_DIFF_MOD_1":"#VALUE# секунда","FD_SECOND_DIFF_MOD_2_4":"#VALUE# секунды","FD_SECOND_DIFF_MOD_OTHER":"#VALUE# секунд","FD_SECOND_SHORT":"#VALUE#с","FD_MINUTE_AGO_0":"#VALUE# минут назад","FD_MINUTE_AGO_1":"#VALUE# минуту назад","FD_MINUTE_AGO_10_20":"#VALUE# минут назад","FD_MINUTE_AGO_MOD_1":"#VALUE# минуту назад","FD_MINUTE_AGO_MOD_2_4":"#VALUE# минуты назад","FD_MINUTE_AGO_MOD_OTHER":"#VALUE# минут назад","FD_MINUTE_DIFF_0":"#VALUE# минут","FD_MINUTE_DIFF_1":"#VALUE# минута","FD_MINUTE_DIFF_10_20":"#VALUE# минут","FD_MINUTE_DIFF_MOD_1":"#VALUE# минута","FD_MINUTE_DIFF_MOD_2_4":"#VALUE# минуты","FD_MINUTE_DIFF_MOD_OTHER":"#VALUE# минут","FD_MINUTE_0":"#VALUE# минут","FD_MINUTE_1":"#VALUE# минуту","FD_MINUTE_10_20":"#VALUE# минут","FD_MINUTE_MOD_1":"#VALUE# минуту","FD_MINUTE_MOD_2_4":"#VALUE# минуты","FD_MINUTE_MOD_OTHER":"#VALUE# минут","FD_MINUTE_SHORT":"#VALUE#мин","FD_HOUR_AGO_0":"#VALUE# часов назад","FD_HOUR_AGO_1":"#VALUE# час назад","FD_HOUR_AGO_10_20":"#VALUE# часов назад","FD_HOUR_AGO_MOD_1":"#VALUE# час назад","FD_HOUR_AGO_MOD_2_4":"#VALUE# часа назад","FD_HOUR_AGO_MOD_OTHER":"#VALUE# часов назад","FD_HOUR_DIFF_0":"#VALUE# часов","FD_HOUR_DIFF_1":"#VALUE# час","FD_HOUR_DIFF_10_20":"#VALUE# часов","FD_HOUR_DIFF_MOD_1":"#VALUE# час","FD_HOUR_DIFF_MOD_2_4":"#VALUE# часа","FD_HOUR_DIFF_MOD_OTHER":"#VALUE# часов","FD_HOUR_SHORT":"#VALUE#ч","FD_YESTERDAY":"вчера","FD_TODAY":"сегодня","FD_TOMORROW":"завтра","FD_DAY_AGO_0":"#VALUE# дней назад","FD_DAY_AGO_1":"#VALUE# день назад","FD_DAY_AGO_10_20":"#VALUE# дней назад","FD_DAY_AGO_MOD_1":"#VALUE# день назад","FD_DAY_AGO_MOD_2_4":"#VALUE# дня назад","FD_DAY_AGO_MOD_OTHER":"#VALUE# дней назад","FD_DAY_DIFF_0":"#VALUE# дней","FD_DAY_DIFF_1":"#VALUE# день","FD_DAY_DIFF_10_20":"#VALUE# дней","FD_DAY_DIFF_MOD_1":"#VALUE# день","FD_DAY_DIFF_MOD_2_4":"#VALUE# дня","FD_DAY_DIFF_MOD_OTHER":"#VALUE# дней","FD_DAY_AT_TIME":"#DAY# в #TIME#","FD_DAY_SHORT":"#VALUE#д","FD_MONTH_AGO_0":"#VALUE# месяцев назад","FD_MONTH_AGO_1":"#VALUE# месяц назад","FD_MONTH_AGO_10_20":"#VALUE# месяцев назад","FD_MONTH_AGO_MOD_1":"#VALUE# месяц назад","FD_MONTH_AGO_MOD_2_4":"#VALUE# месяца назад","FD_MONTH_AGO_MOD_OTHER":"#VALUE# месяцев назад","FD_MONTH_DIFF_0":"#VALUE# месяцев","FD_MONTH_DIFF_1":"#VALUE# месяц","FD_MONTH_DIFF_10_20":"#VALUE# месяцев","FD_MONTH_DIFF_MOD_1":"#VALUE# месяц","FD_MONTH_DIFF_MOD_2_4":"#VALUE# месяца","FD_MONTH_DIFF_MOD_OTHER":"#VALUE# месяцев","FD_MONTH_SHORT":"#VALUE#мес","FD_YEARS_AGO_0":"#VALUE# лет назад","FD_YEARS_AGO_1":"#VALUE# год назад","FD_YEARS_AGO_10_20":"#VALUE# лет назад","FD_YEARS_AGO_MOD_1":"#VALUE# год назад","FD_YEARS_AGO_MOD_2_4":"#VALUE# года назад","FD_YEARS_AGO_MOD_OTHER":"#VALUE# лет назад","FD_YEARS_DIFF_0":"#VALUE# лет","FD_YEARS_DIFF_1":"#VALUE# год","FD_YEARS_DIFF_10_20":"#VALUE# лет","FD_YEARS_DIFF_MOD_1":"#VALUE# год","FD_YEARS_DIFF_MOD_2_4":"#VALUE# года","FD_YEARS_DIFF_MOD_OTHER":"#VALUE# лет","FD_YEARS_SHORT_0":"#VALUE#л","FD_YEARS_SHORT_1":"#VALUE#г","FD_YEARS_SHORT_10_20":"#VALUE#л","FD_YEARS_SHORT_MOD_1":"#VALUE#г","FD_YEARS_SHORT_MOD_2_4":"#VALUE#г","FD_YEARS_SHORT_MOD_OTHER":"#VALUE#л","CAL_BUTTON":"Выбрать","CAL_TIME_SET":"Установить время","CAL_TIME":"Время","FD_LAST_SEEN_TOMORROW":"завтра в #TIME#","FD_LAST_SEEN_NOW":"только что","FD_LAST_SEEN_TODAY":"сегодня в #TIME#","FD_LAST_SEEN_YESTERDAY":"вчера в #TIME#","FD_LAST_SEEN_MORE_YEAR":"более года назад"});</script>
+<script>BX.Runtime.registerExtension({"name":"main.date","namespace":"BX.Main","loaded":true});</script>
+<script>(window.BX||top.BX).message({"WEEK_START":1});</script>
+<script>BX.Runtime.registerExtension({"name":"date","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
+<script>BX.Runtime.registerExtension({"name":"window","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"JC_CORE_TREE_SELECT_CONTROL":"Выберите условие","JC_CORE_TREE_ADD_CONTROL":"Добавить условие","JC_CORE_TREE_DELETE_CONTROL":"Удалить условие","JC_CORE_TREE_CONTROL_DATETIME_ICON":"Нажмите для выбора даты","JC_CORE_TREE_CONDITION_ERROR":"Ошибка в условии","JC_CORE_TREE_CONDITION_FATAL_ERROR":"Неустранимая ошибка в условии. Рекомендуется его удалить"});</script>
+<script>BX.Runtime.registerExtension({"name":"core_condtree","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANDING_NAVBAR_TOGGLER_SHOW":"Развернуть","LANDING_NAVBAR_TOGGLER_HIDE":"Свернуть","LANDING_NAVBAR_MODAL_ALERT":"Редактирование.\u003Cbr\u003EПолноценная работа блока будет доступна в\u0026nbsp;режиме просмотра."});</script>
+<script>BX.Runtime.registerExtension({"name":"landing_assets","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1734761810,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"cd1dac41715c35c5e996e4be145f6e82"});</script><script src="../bitrix/js/ui/dexie/dist/dexie3.bundle.min.js?169399112688274"></script>
+<script src="../bitrix/js/main/core/core_ls.min.js?17339298272683"></script>
+<script src="../bitrix/js/main/core/core_fx.min.js?14909536449768"></script>
+<script src="../bitrix/js/main/core/core_frame_cache.min.js?173392982711132"></script>
+<script src="../bitrix/js/pull/protobuf/protobuf.min.js?159231549176433"></script>
+<script src="../bitrix/js/pull/protobuf/model.min.js?159231549114190"></script>
+<script src="../bitrix/js/rest/client/rest.client.min.js?16015491189240"></script>
+<script src="../bitrix/js/pull/client/pull.client.min.js?172302241249664"></script>
+<script src="../bitrix/js/landing/metrika/dist/metrika.bundle.min.js?17053049563428"></script>
+<script src="../bitrix/js/main/pageobject/pageobject.min.js?1584117434570"></script>
+<script src="../bitrix/js/main/popup/dist/main.popup.bundle.min.js?173392982765924"></script>
+<script src="../bitrix/js/main/core/core_clipboard.min.js?16572140002246"></script>
+<script src="../bitrix/js/main/sidepanel/manager.min.js?171699739538706"></script>
+<script src="../bitrix/js/main/sidepanel/slider.min.js?172710022035720"></script>
+<script src="../bitrix/js/main/date/main.date.min.js?173392982719136"></script>
+<script src="../bitrix/js/main/core/core_date.min.js?161286731026661"></script>
+<script src="../bitrix/js/main/core/core_window.min.js?170185523776324"></script>
+<script src="../bitrix/js/catalog/core_tree.min.js?172546552845402"></script>
+<script src="../bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.min.js?15362428577124"></script>
+<script src="../bitrix/js/landing/utils/utils.min.js?173329386319728"></script>
+<script src="../bitrix/js/landing/mediaplayer/base_mediaplayer.min.js?16662689151069"></script>
+<script src="../bitrix/js/landing/mediaplayer/youtube_mediaplayer.min.js?16662689152281"></script>
+<script src="../bitrix/js/landing/mediaplayer/mediaplayer_factory.min.js?1666268915372"></script>
+<script src="../bitrix/js/landing/ui/tool/auto_font_scale/dist/auto_font_scale.bundle.min.js?16989351205160"></script>
+<script src="../bitrix/js/landing/event-tracker/event-tracker.min.js?15839331302876"></script>
+<script src="../bitrix/js/landing/event-tracker/services/base-service.min.js?1538227870259"></script>
+<script src="../bitrix/js/landing/event-tracker/services/google-analytics-service.min.js?1538227870485"></script>
+<script src="../bitrix/js/landing/polyfill.min.js?15675083271062"></script>
+<script src="../bitrix/js/landing/events/block_event.min.js?1538227870520"></script>
+<script src="../bitrix/js/landing/public.min.js?17249436704643"></script>
+<script>if (Intl && Intl.DateTimeFormat) document.cookie="BITRIX_SM_TZ="+Intl.DateTimeFormat().resolvedOptions().timeZone+"; path=/; expires=Mon, 01 Dec 2025 00:00:00 +0300";</script>
+<script src="../bitrix/templates/landing24/assets/vendor/jquery/jquery_landing.min.js?166385260095077"></script>
+<script src="../bitrix/templates/landing24/assets/vendor/jquery.easing/js/jquery.easing_landing.min.js?16589331053591"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/lazyload.min.js?16989351202187"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/onscroll-animation_init.min.js?16989351203360"></script>
+<script src="../bitrix/templates/landing24/assets/vendor/bootstrap/js/dist/util.min.js?15906508262242"></script>
+<script src="../bitrix/templates/landing24/assets/vendor/bootstrap/js/dist/collapse.min.js?15906508266674"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/menu/scrollspy.min.js?16770006392633"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/menu/menu_init.min.js?17024696994546"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/menu/block-header-entry.min.js?16355193376947"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/menu/block-header-init.min.js?16843044571122"></script>
+<script src="../bitrix/templates/landing24/assets/vendor/slick-carousel/slick/slick_landing.min.js?165893310545151"></script>
+<script src="../bitrix/templates/landing24/assets/js/components/hs.core_landing.min.js?1658933105614"></script>
+<script src="../bitrix/templates/landing24/assets/js/components/hs.carousel.min.js?16711921524391"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/carousel/carousel_helper.min.js?16692084138623"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/carousel/base_carousel_init.min.js?16614118232748"></script>
+<script src="../bitrix/templates/landing24/assets/vendor/fancybox/jquery.fancybox_landing.min.js?171143448261369"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/popup_init.min.js?1658933105779"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/upper_init.min.js?1594736530704"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/auto_font_scale_init.min.js?1698935120150"></script>
+<script src="../bitrix/components/bitrix/landing.pub/templates/.default/script.min.js?17126771928487"></script>
+<script>
+	BX.namespace("BX.Landing");
+	BX.Landing.getMode = () => "view";
+</script>
+<script>var _ba = _ba || []; _ba.push(["aid", "bc2cad9153cb418bb2dfd5602c3c3754"]); _ba.push(["host", "pilotgr.bitrix24.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+	(function()
+	{
+		new BX.Landing.Metrika();
+	})();
+</script>
+
+<script>
+	BX.ready(function() {
+		void new BX.Landing.Pub.PageTransition();
+	});
+</script>
+
+<script>
+	(function(w,d,u){
+		var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+		var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+	})(window,document,'https://cdn-ru.bitrix24.ru/b334051/crm/tag/call.tracker.js');
+</script>
+</body>
+</html>

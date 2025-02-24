@@ -1,0 +1,813 @@
+﻿<!DOCTYPE html>
+<html xml:lang="ru" lang="ru" class="">
+<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="MobileOptimized" content="width">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>Пациентам</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script data-skip-moving="true">(function() {const ua = navigator.userAgent;if (!/Linux/i.test(ua) || /Android/i.test(ua)){return;}const text = 'QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm';const fonts = {regular: { weight: 400, width: 0 },medium: { weight: 460, width: 0 },semiBold: { weight: 560, width: 0 },bold: { weight: 700, width: 0 }};Object.keys(fonts).forEach(name => {const font = fonts[name];const context = document.createElement('canvas').getContext('2d');context.font = 'normal ' + font.weight + ' 12px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';const textMetrics = context.measureText(text);font.width = Math.round(textMetrics.width);});const html = document.documentElement;if (fonts.medium.width > fonts.regular.width){html.classList.add('bx-font-medium');}if (fonts.semiBold.width < fonts.bold.width && fonts.semiBold.width > fonts.medium.width){html.classList.add('bx-font-semi-bold');}})();</script>
+<style type="text/css">
+							:root {
+								--theme-color-b24button: var(--primary);
+							}
+						</style>
+<style>:root {--theme-color-main: #000000 !important;--theme-color-title: #000000 !important;}</style>
+<style type="text/css">
+				:root {
+					--primary: #30a593 !important;
+					--primary-darken-1: hsl(170.77, 55%, 40%);
+					--primary-darken-2: hsl(170.77, 55%, 37%);
+					--primary-darken-3: hsl(170.77, 55%, 32%);
+					--primary-lighten-1: hsl(170.77, 55%, 52%);
+					--primary-opacity-0: rgba(48, 165, 147, 0);
+					--primary-opacity-0_05: rgba(48, 165, 147, 0.05);
+					--primary-opacity-0_1: rgba(48, 165, 147, 0.1);
+					--primary-opacity-0_15: rgba(48, 165, 147, 0.15);
+					--primary-opacity-0_2: rgba(48, 165, 147, 0.2);
+					--primary-opacity-0_25: rgba(48, 165, 147, 0.25);
+					--primary-opacity-0_3: rgba(48, 165, 147, 0.3);
+					--primary-opacity-0_35: rgba(48, 165, 147, 0.35);
+					--primary-opacity-0_4: rgba(48, 165, 147, 0.4);
+					--primary-opacity-0_45: rgba(48, 165, 147, 0.45);
+					--primary-opacity-0_5: rgba(48, 165, 147, 0.5);
+					--primary-opacity-0_55: rgba(48, 165, 147, 0.55);
+					--primary-opacity-0_6: rgba(48, 165, 147, 0.6);
+					--primary-opacity-0_65: rgba(48, 165, 147, 0.65);
+					--primary-opacity-0_7: rgba(48, 165, 147, 0.7);
+					--primary-opacity-0_75: rgba(48, 165, 147, 0.75);
+					--primary-opacity-0_8: rgba(48, 165, 147, 0.8);
+					--primary-opacity-0_85: rgba(48, 165, 147, 0.85);
+					--primary-opacity-0_9: rgba(48, 165, 147, 0.9);
+					--primary-opacity-0_95: rgba(48, 165, 147, 0.95);
+					--theme-color-main: hsl(170.77, 20%, 20%);
+					--theme-color-secondary: hsl(170.77, 20%, 80%);
+					--theme-color-title: hsl(170.77, 20%, 20%);
+					--theme-color-strict-inverse: #ffffff;
+				}
+			</style>
+<script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
+
+
+<link href="../bitrix/js/intranet/intranet-common.min.css?166151605361199" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?171327662823463" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/intranet/design-tokens/bitrix24/bitrix24-design-tokens.min.css?16854388541467" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16620208132320" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/main/popup/dist/main.popup.bundle.min.css?173392982726589" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/ui/icon-set/actions/style.min.css?173402213419819" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/ui/icon-set/main/style.min.css?173402213475565" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/main/sidepanel/css/sidepanel.min.css?170185523712285" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/main/core/css/core_date.min.css?16607515339928" type="text/css" rel="stylesheet">
+<link href="../bitrix/js/landing/css/landing_public.min.css?1567508327250" type="text/css" rel="stylesheet">
+<link href="../bitrix/components/bitrix/landing.pub/templates/.default/style.min.css?170246969943765" type="text/css" rel="stylesheet">
+<link href="../bitrix/panel/main/popup.min.css?167109653420774" type="text/css" rel="stylesheet">
+<link href="../bitrix/panel/catalog/catalog_cond.min.css?15549945847248" type="text/css" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/bootstrap/bootstrap.min.css?1694617665177088" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/theme.min.css?1702469699584893" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/css/custom.min.css?15738327531305" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/animate.min.css?167119215225402" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/hamburgers/dist/hamburgers.min.css?169461766511902" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/slick-carousel/slick/slick.min.css?16946176651267" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/slick-carousel/slick/landing-slick.min.css?16946176653544" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/icon/far/style.min.css?1640342071601" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/assets/vendor/fancybox/jquery.fancybox.min.css?156750832713920" type="text/css" data-template-style="true" rel="stylesheet">
+<link href="../bitrix/templates/landing24/template_styles.min.css?16843044572401" type="text/css" data-template-style="true" rel="stylesheet">
+
+
+
+
+<script type="extension/settings" data-extension="main.date">{"formats":{"FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","SHORT_DATE_FORMAT":"d.m.Y","MEDIUM_DATE_FORMAT":"j M Y","LONG_DATE_FORMAT":"j F Y","DAY_MONTH_FORMAT":"j F","DAY_SHORT_MONTH_FORMAT":"j M","SHORT_DAY_OF_WEEK_MONTH_FORMAT":"D, j F","SHORT_DAY_OF_WEEK_SHORT_MONTH_FORMAT":"D, j M","DAY_OF_WEEK_MONTH_FORMAT":"l, j F","FULL_DATE_FORMAT":"l, j F  Y","SHORT_TIME_FORMAT":"H:i","LONG_TIME_FORMAT":"H:i:s"}}</script>
+
+
+
+<meta name="robots" content="all">
+<style>
+					@keyframes page-transition {
+						0% {
+							opacity: 1;
+						}
+						100% {
+							opacity: 0;
+						}
+					}
+					body.landing-page-transition::after {
+						opacity: 1;
+						background: #fff;
+						animation: page-transition 2s 1s forwards;
+					}
+				</style>
+
+
+
+<link rel="preload" href="../bitrix/templates/landing24/assets/vendor/icon/far/font.woff" as="font" crossorigin="anonymous" type="font/woff" crossorigin="">
+<link rel="preload" href="../bitrix/templates/landing24/assets/vendor/icon/far/font.woff2" as="font" crossorigin="anonymous" type="font/woff2" crossorigin="">
+<style>.fa-map-marker:before{content:"\f041";}.fa-volume-control-phone:before{content:"\f2a0";}.fa-envelope:before{content:"\f0e0";}.fa-calendar:before{content:"\f133";}</style>
+<style>
+					body {
+						--landing-font-family: Open Sans
+					}
+				</style>
+<link rel="stylesheet" href="../css2-1?family=Open+Sans:wght@100;200;300;400;500;600;700;800;900">
+<style>
+				body {
+					font-weight: 400;
+					font-family: Open Sans;
+					-webkit-font-smoothing: antialiased;
+					-moz-osx-font-smoothing: grayscale;
+					-moz-font-feature-settings: "liga", "kern";
+					text-rendering: optimizelegibility;
+				}
+			</style>
+<style>
+				h1, h2, h3, h4, h5, h6 {
+					font-family: Open Sans;
+				}
+			</style>
+<style>
+			html {font-size: 14px;}
+			body {font-size: 1rem;}
+			.g-font-size-default {font-size: 1rem;}
+		</style>
+<style>
+				main.landing-public-mode {
+					line-height: 1.6;
+					font-weight: 400;
+				}
+				
+				.landing-public-mode .h1, .landing-public-mode .h2, .landing-public-mode .h3, .landing-public-mode .h4, 
+				.landing-public-mode .h5, .landing-public-mode .h6, .landing-public-mode .h7,
+				.landing-public-mode h1, .landing-public-mode h2, .landing-public-mode h3, .landing-public-mode h4, 
+				.landing-public-mode h5, .landing-public-mode h6 {
+					font-weight: 400;
+				}
+
+
+				
+			</style>
+			<style>
+				.additional-images {
+					position: absolute;
+					top: 10px; /* Позиция над основной фотографией */
+					left: 10px; /* Позиция над основной фотографией */
+					display: flex;
+					gap: 5px; /* Расстояние между изображениями */
+				}
+		
+				.additional-img {
+					width: 50px; /* Размер дополнительных изображений */
+					height: auto;
+					cursor: pointer; /* Указатель при наведении */
+				}
+		
+				.modal {
+					display: none; 
+					position: fixed; 
+					z-index: 1; 
+					left: 0;
+					top: 0;
+					width: 100%; 
+					height: 100%; 
+					overflow: auto; 
+					background-color: rgba(0,0,0,0.9); 
+				}
+		
+				.modal-content {
+					margin: auto;
+					display: block;
+					width: 80%; 
+					max-width: 700px;
+				}
+		
+				.close {
+					position: absolute;
+					top: 15px;
+					right: 35px;
+					color: #fff;
+					font-size: 40px;
+					font-weight: bold;
+					transition: 0.3s;
+				}
+		
+				.close:hover,
+				.close:focus {
+					color: #bbb;
+					text-decoration: none;
+					cursor: pointer;
+				}
+			</style>
+<meta property="og:title" content="Правила подготовки к диагностическим исследованиям"><meta property="og:description" content="Создайте собственный сайт с чистого листа и привлекайте клиентов!"><meta property="og:image" content="https://cdn.bitrix24.site/bitrix/images/demo/page/empty/preview.jpg"><meta property="og:type" content="website"><meta property="twitter:title" content="Правила подготовки к диагностическим исследованиям"><meta property="twitter:description" content="Создайте собственный сайт с чистого листа и привлекайте клиентов!"><meta property="twitter:image" content="https://cdn.bitrix24.site/bitrix/images/demo/page/empty/preview.jpg"><meta name="twitter:card" content="summary_large_image"><meta property="twitter:type" content="website"> <meta property="Bitrix24SiteType" content="page"> <meta property="og:url" content="https://cdc-dialysis.ru/pravilapodgotovkikdiagnosticheskimissledovaniyam/">
+<link rel="canonical" href="index.html">
+<link rel="icon" type="image/png" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/047e4a127947eff3c7d861cc2f113186/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/45fd33a620da2e44653e6a92c96d9446/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/c8042d925d6656dd077f15192d13bb8f/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="96x96">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/eb45a9f96698d396483d7a1236fe0380/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/a03d95df41ccb7c2ab8a9e9ebcd4cf8a/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="180x180">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/8245e211b4cc1aeef31861f9c55143e5/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://pilotgr.bitrix24.ru/b334051/resize_cache/386792/26c9f99963f016735739c7de412de1e1/landing/4bb/4bb3a965e2a7268fbf8eda2d42873b28/Dokument5_1x.png" sizes="167x167">
+ <link rel="icon" type="image/x-icon" href="../favicon.ico"></head>
+<body class="landing-page-transition landing-b24button-use-style">
+<main class="w-100 landing-public-mode">
+<div id="b4234" class="block-wrapper block-0-menu-17-restaurant"><header class="landing-block landing-semantic-background-color u-header u-header--sticky u-header--relative g-z-index-9999 g-bg" style="--bg: var(--primary);">
+	<div class="u-header__section u-header__section--light g-transition-0_3 g-py-16" data-header-fix-moment-exclude="g-py-16" data-header-fix-moment-classes="u-shadow-v27 g-py-6">
+		<nav class="navbar navbar-expand-lg g-py-0 g-mt-3 g-px-10 u-navbar-color u-navbar-color--hover" style="--navbar-color: #ffffff;--navbar-color--hover: #f4d39e;">
+			<div class="container">
+				<!-- Logo -->
+				<a href="../index.html" class="landing-block-node-menu-logo-link navbar-brand u-header__logo p-0" target="_self">
+					<img class="landing-block-node-menu-logo u-header__logo-img u-header__logo-img--main g-max-width-180" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2MCI+PHJlY3QgaWQ9ImJhY2tncm91bmRyZWN0IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4PSIwIiB5PSIwIiBmaWxsPSIjZGRkIiBmaWxsLW9wYWNpdHk9Ii43IiBzdHJva2U9Im5vbmUiLz48L3N2Zz4=" alt="" data-fileid="387040" data-fileid2x="387038" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn-ru.bitrix24.ru/b334051/landing/72b/72bc162dcbcdc5ae0f51ceccd4638fe1/Dokument5_2_1x.png" loading="lazy" data-srcset="https://cdn-ru.bitrix24.ru/b334051/landing/a17/a1740db31ee5ac2eafc827f77dd031d2/Dokument5_2_2x.png 2x">
+				</a>
+				<!-- End Logo -->
+
+				<!-- Navigation -->
+				<div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar4234">
+					<ul class="landing-block-node-menu-list js-scroll-nav navbar-nav text-uppercase g-font-weight-700 g-font-size-12 g-pt-20 g-pt-0--lg ml-auto"><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">Главная</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../pustayastranitsa/index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">Сотрудники</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../pravilapodgotovkikdiagnosticheskimissledovaniyam/index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">Для пациентов</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../turizmnabaykale/index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">Туризм на Байкале</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../structura/index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">СТРУКТУРА</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../index.html#b3982" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">Отзывы</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="../index.html#contacts" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">Контакты</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-10--lg g-mb-7 g-mb-0--lg">
+							<a href="index.html" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0 g-font-size-13" target="_self">Новости</a>
+						</li></ul>
+				</div>
+				<!-- End Navigation -->
+
+				<!-- Responsive Toggle Button -->
+				<button class="navbar-toggler btn g-line-height-1 g-brd-none g-pa-0 ml-auto" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar4234" data-toggle="collapse" data-target="#navBar4234">
+                <span class="hamburger hamburger--slider">
+                  <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                  </span>
+                </span>
+				</button>
+				<!-- End Responsive Toggle Button -->
+			</div>
+		</nav>
+	</div>
+</header></div><div id="b4254" class="block-wrapper block-01-big-with-text"><section class="g-pos-rel landing-block g-overflow-hidden">
+
+	
+	
+</section></div><div id="b4268" class="block-wrapper block-04-1-one-col-fix-with-title"><section class="landing-block js-animation fadeInUp g-pt-30 g-pb-30" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+	<div class="landing-block-node-inner container g-max-width-container text-uppercase g-brd-primary text-center u-heading-v2-0" style="--border-color: ;--border-color--hover: ;">
+		<!-- <h6 class="landing-block-node-subtitle landing-semantic-subtitle-medium-primary g-font-weight-700 g-letter-spacing-1 g-color-primary g-mb-20">ПРАВИЛА ПОДГОТОВКИ К ДИАГНОСТИЧЕСКИМ ИССЛЕДОВАНИЯМ</h6> -->
+		<br><br>
+		<h2 class="landing-block-node-title landing-semantic-title-medium h1 u-heading-v2__title g-line-height-1_3 g-font-weight-700 g-mb-minus-10">НАШИ НОВОСТИ</h2>
+	</div>
+	
+</section></div><div id="b4264" class="block-wrapper block-30-2-three-cols-fix-img-and-links"><section class="landing-block g-pt-30 g-pb-30" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+
+
+
+	
+	<div class="container">
+		<div class="row landing-block-inner">
+			<div class="landing-block-card js-animation fadeIn col-sm-6 col-md-4 col-lg-4 landing-card">
+				
+
+			<article class="u-shadow-v28 g-bg-white">
+				<div class="landing-block-node-img-container" style="position: relative;">
+					<div style="position: relative; cursor: pointer; transform-style: preserve-3d; perspective: 1000px; padding: 15px;" onclick="openModal_1()">
+						<!-- Фоновые фотографии для эффекта стопки -->
+						<div style="position: absolute; top: 12px; left: 12px; right: -8px; bottom: -8px; background: white; transform: rotate(-6deg); border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></div>
+						<div style="position: absolute; top: 6px; left: 6px; right: -4px; bottom: -4px; background: white; transform: rotate(-3deg); border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></div>
+						<!-- Основная фотография -->
+						<div style="position: relative; z-index: 3; box-shadow: 0 2px 4px rgba(0,0,0,0.2); background: white; border: 1px solid #e0e0e0;">
+							<img class="landing-block-node-img img-fluid w-100" src="../images/nov_1.jpg" alt="" data-fileid="386954" data-fileid2x="386956" data-lazy-img="Y" data-src="../images/nov_1.jpg" loading="lazy" data-srcset="../images/nov_1.jpg" style="display: block; width: 100px; height: 250px; object-fit: cover">
+						</div>
+					</div>
+				</div>
+				<div class="g-pos-rel">
+					<div class="g-pos-rel g-z-index-1 g-pa-30">
+						<h3 class="h5 mb-3">
+							<div class="landing-block-node-containertext g-pointer-events-all">
+								<div class="landing-block-node-text-9325 g-pb-1 text-left g-font-size-13">
+									<p style="text-align: justify;">В октябре 2024 года начато проведение диализа на новом современном АИП SVS-6000. Результаты положительные.</p>
+								</div>
+							</div>
+						</h3>
+					</div>
+				</div>
+			
+				<!-- Модальное окно для галереи -->
+				<div id="imageModal_1" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); z-index: 1000;">
+					<span style="position: absolute; right: 20px; top: 20px; color: white; font-size: 30px; cursor: pointer; z-index: 1001;" onclick="closeModal_1()">&times;</span>
+					<button style="position: absolute; left: 20px; top: 50%; transform: translateY(-50%); background: rgba(255,255,255,0.3); color: white; padding: 10px 15px; cursor: pointer; border: none; border-radius: 4px;" onclick="prevImage_1()">&lt;</button>
+					<button style="position: absolute; right: 20px; top: 50%; transform: translateY(-50%); background: rgba(255,255,255,0.3); color: white; padding: 10px 15px; cursor: pointer; border: none; border-radius: 4px;" onclick="nextImage_1()">&gt;</button>
+					<div style="position: relative; max-width: 90%; max-height: 90vh; margin: 20px auto;">
+						<img id="modalImage_1" src="" alt="" style="max-width: 100%; max-height: 90vh; display: block; margin: 0 auto;">
+					</div>
+				</div>
+			</article>
+			
+			<script>
+				// Массив с путями к изображениям
+				const images_1 = [
+					'../images/nov_1.jpg',
+					// Добавьте остальные изображения здесь
+				];
+				
+				let currentImageIndex_1 = 0;
+				const modal_1 = document.getElementById('imageModal_1');
+				const modalImg_1 = document.getElementById('modalImage_1');
+			
+				function openModal_1() {
+					modal_1.style.display = 'block';
+					modalImg_1.src = images_1[0];
+					currentImageIndex_1 = 0;
+				}
+			
+				function closeModal_1() {
+					modal_1.style.display = 'none';
+				}
+			
+				function prevImage_1() {
+					currentImageIndex_1 = (currentImageIndex_1 - 1 + images_1.length) % images_1.length;
+					modalImg_1.src = images_1[currentImageIndex_1];
+				}
+			
+				function nextImage_1() {
+					currentImageIndex_1 = (currentImageIndex_1 + 1) % images_1.length;
+					modalImg_1.src = images_1[currentImageIndex_1];
+				}
+			
+				// Закрытие при клике вне изображения
+				modal_1.onclick = function(e) {
+					if (e.target === moda_1l) {
+						closeModal_1();
+					}
+				}
+			
+				// Навигация с помощью клавиш
+				document.addEventListener('keydown', function(e) {
+					if (modal_1.style.display === 'block') {
+						if (e.key === 'ArrowLeft') prevImage_1();
+						if (e.key === 'ArrowRight') nextImage_1();
+						if (e.key === 'Escape') closeModal_1();
+					}
+				});
+			
+				// Скрываем эффект стопки, если нет дополнительных фотографий
+				if (images_1.length <= 1) {
+					const container = document.querySelector('.landing-block-node-img-container div');
+					container.style.padding = '0';
+					const backgrounds = container.querySelectorAll('div');
+					backgrounds[0].style.display = 'none';
+					backgrounds[1].style.display = 'none';
+				}
+			</script>
+
+
+			</div><div class="landing-block-card js-animation fadeIn col-sm-6 col-md-4 col-lg-4">
+
+				<article class="u-shadow-v28 g-bg-white">
+					<div class="landing-block-node-img-container" style="position: relative;">
+						<div style="position: relative; cursor: pointer; transform-style: preserve-3d; perspective: 1000px; padding: 15px;" onclick="openModal_2()">
+							<!-- Фоновые фотографии для эффекта стопки -->
+							<div style="position: absolute; top: 12px; left: 12px; right: -8px; bottom: -8px; background: white; transform: rotate(-6deg); border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></div>
+							<div style="position: absolute; top: 6px; left: 6px; right: -4px; bottom: -4px; background: white; transform: rotate(-3deg); border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></div>
+							<!-- Основная фотография -->
+							<div style="position: relative; z-index: 3; box-shadow: 0 2px 4px rgba(0,0,0,0.2); background: white; border: 1px solid #e0e0e0;">
+								<img class="landing-block-node-img img-fluid w-100" src="../images/nov3-5.jpg" alt="" data-fileid="386954" data-fileid2x="386956" data-lazy-img="Y" data-src="../images/nov3-5.jpg" loading="lazy" data-srcset="../images/nov3-5.jpg" style="display: block; width: 100px; height: 200px; object-fit: cover">
+							</div>
+						</div>
+					</div>
+					<div class="g-pos-rel">
+						<div class="g-pos-rel g-z-index-1 g-pa-30">
+							<h3 class="h5 mb-3">
+								<div class="landing-block-node-containertext g-pointer-events-all">
+									<div class="landing-block-node-text-9325 g-pb-1 text-left g-font-size-13">
+										<p></p>
+										<p style="text-align:justify; word-spacing: -1px; ">В ноябре 2024 года прошли образовательные семинары от преподавателей Селенгинского медколледжа на тему: Оказание медицинской помощи. Сердечно-легочная реанимация.</p>
+									</div>
+								</div>
+							</h3>
+						</div>
+					</div>
+				
+					<!-- Модальное окно для галереи -->
+					<div id="imageModal_2" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); z-index: 1000;">
+						<span style="position: absolute; right: 20px; top: 20px; color: white; font-size: 30px; cursor: pointer; z-index: 1001;" onclick="closeModal_2()">&times;</span>
+						<button style="position: absolute; left: 20px; top: 50%; transform: translateY(-50%); background: rgba(255,255,255,0.3); color: white; padding: 10px 15px; cursor: pointer; border: none; border-radius: 4px;" onclick="prevImage_2()">&lt;</button>
+						<button style="position: absolute; right: 20px; top: 50%; transform: translateY(-50%); background: rgba(255,255,255,0.3); color: white; padding: 10px 15px; cursor: pointer; border: none; border-radius: 4px;" onclick="nextImage_2()">&gt;</button>
+						<div style="position: relative; max-width: 90%; max-height: 90vh; margin: 20px auto;">
+							<img id="modalImage_2" src="" alt="" style="max-width: 100%; max-height: 90vh; display: block; margin: 0 auto;">
+						</div>
+					</div>
+				</article>
+				
+				<script>
+					// Массив с путями к изображениям
+					const images_2 = [
+						'../images/nov3-5.jpg',
+						'../images/nov3-1.jpg',
+						'../images/nov3-2.jpg',
+						'../images/nov3-3.jpg',
+						'../images/nov3-4.jpg',
+						'../images/nov3-6.jpg'
+						// Добавьте остальные изображения здесь
+					];
+					
+					let currentImageIndex_2 = 0;
+					const modal_2 = document.getElementById('imageModal_2');
+					const modalImg_2 = document.getElementById('modalImage_2');
+				
+					function openModal_2() {
+						modal_2.style.display = 'block';
+						modalImg_2.src = images_2[0];
+						currentImageIndex_2 = 0;
+					}
+				
+					function closeModal_2() {
+						modal_2.style.display = 'none';
+					}
+				
+					function prevImage_2() {
+						currentImageIndex_2 = (currentImageIndex_2 - 1 + images_2.length) % images_2.length;
+						modalImg_2.src = images_2[currentImageIndex_2];
+					}
+				
+					function nextImage_2() {
+						currentImageIndex_2 = (currentImageIndex_2 + 1) % images_2.length;
+						modalImg_2.src = images_2[currentImageIndex_2];
+					}
+				
+					// Закрытие при клике вне изображения
+					modal_2.onclick = function(e) {
+						if (e.target === modal_2) {
+							closeModal_2();
+						}
+					}
+				
+					// Навигация с помощью клавиш
+					document.addEventListener('keydown', function(e) {
+						if (modal_2.style.display === 'block') {
+							if (e.key === 'ArrowLeft') prevImage_2();
+							if (e.key === 'ArrowRight') nextImage_2();
+							if (e.key === 'Escape') closeModal_2();
+						}
+					});
+				
+					// Скрываем эффект стопки, если нет дополнительных фотографий
+					if (images_2.length <= 1) {
+						const container = document.querySelector('.landing-block-node-img-container div');
+						container.style.padding = '0';
+						const backgrounds = container.querySelectorAll('div');
+						backgrounds[0].style.display = 'none';
+						backgrounds[1].style.display = 'none';
+					}
+				</script>
+				
+			
+			</div>
+			<div class="landing-block-card js-animation fadeIn col-sm-6 col-md-4 col-lg-4">
+				<article class="u-shadow-v28 g-bg-white">
+					<div class="landing-block-node-img-container" style="position: relative;">
+						<div style="position: relative; cursor: pointer; transform-style: preserve-3d; perspective: 1000px; padding: 15px;" onclick="openModal_3()">
+							<!-- Фоновые фотографии для эффекта стопки -->
+							<!-- <div style="position: absolute; top: 12px; left: 12px; right: -8px; bottom: -8px; background: white; transform: rotate(-6deg); border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></div>
+							<div style="position: absolute; top: 6px; left: 6px; right: -4px; bottom: -4px; background: white; transform: rotate(-3deg); border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></div> -->
+							<!-- Основная фотография -->
+							<div style="position: relative; z-index: 3; box-shadow: 0 2px 4px rgba(0,0,0,0.2); background: white; border: 1px solid #e0e0e0;">
+								<img class="landing-block-node-img img-fluid w-100" src="../images/nov_2.jpg" alt="" data-fileid="386954" data-fileid2x="386956" data-lazy-img="Y" data-src="../images/nov_2.jpg" loading="lazy" data-srcset="../images/nov_2.jpg" style="display: block; width: 100px; height: 240px; object-fit:contain;">
+							</div>
+						</div>
+					</div>
+					<div class="g-pos-rel">
+						<div class="g-pos-rel g-z-index-1 g-pa-30">
+							<h3 class="h5 mb-3">
+								<div class="landing-block-node-containertext g-pointer-events-all">
+									<div class="landing-block-node-text-9325 g-pb-1 text-left g-font-size-13">
+										
+										<p style="text-align:justify; word-spacing: -1px; ">Наши сотрудники получили Почетные грамоты за трудовые успехи. Поздравляем !</p>
+									</div>
+								</div>
+							</h3>
+						</div>
+					</div>
+				
+					<!-- Модальное окно для галереи -->
+					<div id="imageModal_3" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); z-index: 1000;">
+						<span style="position: absolute; right: 20px; top: 20px; color: white; font-size: 30px; cursor: pointer; z-index: 1001;" onclick="closeModal_3()">&times;</span>
+						<button style="position: absolute; left: 20px; top: 50%; transform: translateY(-50%); background: rgba(255,255,255,0.3); color: white; padding: 10px 15px; cursor: pointer; border: none; border-radius: 4px;" onclick="prevImage_3()">&lt;</button>
+						<button style="position: absolute; right: 20px; top: 50%; transform: translateY(-50%); background: rgba(255,255,255,0.3); color: white; padding: 10px 15px; cursor: pointer; border: none; border-radius: 4px;" onclick="nextImage_3()">&gt;</button>
+						<div style="position: relative; max-width: 90%; max-height: 90vh; margin: 20px auto;">
+							<img id="modalImage_3" src="" alt="" style="max-width: 100%; max-height: 90vh; display: block; margin: 0 auto;">
+						</div>
+					</div>
+				</article>
+				
+				<script>
+					// Массив с путями к изображениям
+					const images_3 = ['../images/nov_2.jpg'];
+					
+					let currentImageIndex_3 = 0;
+					const modal_3 = document.getElementById('imageModal_3');
+					const modalImg_3 = document.getElementById('modalImage_3');
+				
+					function openModal_3() {
+						modal_3.style.display = 'block';
+						modalImg_3.src = images_3[0];
+						currentImageIndex_3 = 0;
+					}
+				
+					function closeModal_3() {
+						modal_3.style.display = 'none';
+					}
+				
+					function prevImage_3() {
+						currentImageIndex_3 = (currentImageIndex_3 - 1 + images_3.length) % images_3.length;
+						modalImg_3.src = images_3[currentImageIndex_3];
+					}
+				
+					function nextImage_3() {
+						currentImageIndex_3 = (currentImageIndex_3 + 1) % images_3.length;
+						modalImg_3.src = images_3[currentImageIndex_3];
+					}
+				
+					// Закрытие при клике вне изображения
+					modal_3.onclick = function(e) {
+						if (e.target === modal_3) {
+							closeModal_3();
+						}
+					}
+				
+					// Навигация с помощью клавиш
+					document.addEventListener('keydown', function(e) {
+						if (modal_3.style.display === 'block') {
+							if (e.key === 'ArrowLeft') prevImage_3();
+							if (e.key === 'ArrowRight') nextImage_3();
+							if (e.key === 'Escape') closeModal_3();
+						}
+					});
+				
+					// Исправленный блок для скрытия стопки
+					if (images_3.length <= 1) {
+						const article = document.currentScript.closest('article');
+						const container = article.querySelector('.landing-block-node-img-container div');
+						
+						if(container) {
+							container.style.padding = '0';
+							const backgrounds = container.querySelectorAll('div');
+							
+							if(backgrounds.length >= 2) {
+								backgrounds[0].style.display = 'none';
+								backgrounds[1].style.display = 'none';
+							}
+						}
+					}
+				</script>
+
+</section></div><div id="b4266" class="block-wrapper block-30-2-three-cols-fix-img-and-links"><section class="landing-block g-pt-30 g-pb-30" style="--bg: ;--bg-url: ;--bg-url-2x: ;--bg-overlay: ;--bg-size: ;--bg-attachment: ;">
+
+	<div class="container">
+		<div class="row landing-block-inner"><div class="landing-block-card js-animation fadeIn col-sm-6 col-md-4 col-lg-4 landing-card">
+
+			<article class="u-shadow-v28 g-bg-white">
+				<div class="landing-block-node-img-container" style="position: relative;">
+					<div style="position: relative; cursor: pointer; transform-style: preserve-3d; perspective: 1000px; padding: 15px;" onclick="openModal_4()">
+						<!-- Фоновые фотографии для эффекта стопки -->
+						<!-- <div style="position: absolute; top: 12px; left: 12px; right: -8px; bottom: -8px; background: white; transform: rotate(-6deg); border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></div>
+						<div style="position: absolute; top: 6px; left: 6px; right: -4px; bottom: -4px; background: white; transform: rotate(-3deg); border: 1px solid #e0e0e0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"></div> -->
+						<!-- Основная фотография -->
+						<div style="position: relative; z-index: 3; box-shadow: 0 2px 4px rgba(0,0,0,0.2); background: white; border: 1px solid #e0e0e0;">
+							<img class="landing-block-node-img img-fluid w-100" src="../images/nov_4.jpg" alt="" data-fileid="386954" data-fileid2x="386956" data-lazy-img="Y" data-src="../images/nov_4.jpg" loading="lazy" data-srcset="../images/nov_4.jpg" style="display: block; width: 200px; height: 250px; object-fit:cover">
+						</div>
+					</div>
+				</div>
+				<div class="g-pos-rel">
+					<div class="g-pos-rel g-z-index-1 g-pa-30">
+						<h3 class="h5 mb-3">
+							<div class="landing-block-node-containertext g-pointer-events-all">
+								<div class="landing-block-node-text-9325 g-pb-1 text-left g-font-size-13">
+									<p style="text-align:justify; word-spacing: -1px; ">Наш пациент в костюме Деда Мороза поздравил наш коллектив в Селенгинске с Новым 2025 годом!</p>
+								</div>
+							</div>
+						</h3>
+					</div>
+				</div>
+			
+				<!-- Модальное окно для галереи -->
+				<div id="imageModal_4" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); z-index: 1000;">
+					<span style="position: absolute; right: 20px; top: 20px; color: white; font-size: 30px; cursor: pointer; z-index: 1001;" onclick="closeModal_4()">&times;</span>
+					<button style="position: absolute; left: 20px; top: 50%; transform: translateY(-50%); background: rgba(255,255,255,0.3); color: white; padding: 10px 15px; cursor: pointer; border: none; border-radius: 4px;" onclick="prevImage_4()">&lt;</button>
+					<button style="position: absolute; right: 20px; top: 50%; transform: translateY(-50%); background: rgba(255,255,255,0.3); color: white; padding: 10px 15px; cursor: pointer; border: none; border-radius: 4px;" onclick="nextImage_4()">&gt;</button>
+					<div style="position: relative; max-width: 90%; max-height: 90vh; margin: 20px auto;">
+						<img id="modalImage_4" src="" alt="" style="max-width: 100%; max-height: 90vh; display: block; margin: 0 auto;">
+					</div>
+				</div>
+			</article>
+			
+			<script>
+				// Массив с путями к изображениям
+				const images_4 = [
+					'../images/nov_4.jpg',
+					// Добавьте остальные изображения здесь
+				];
+				
+				let currentImageIndex_4 = 0;
+				const modal_4 = document.getElementById('imageModal_4');
+				const modalImg_4 = document.getElementById('modalImage_4');
+			
+				function openModal_4() {
+					modal_4.style.display = 'block';
+					modalImg_4.src = images_4[0];
+					currentImageIndex_4 = 0;
+				}
+			
+				function closeModal_4() {
+					modal_4.style.display = 'none';
+				}
+			
+				function prevImage_4() {
+					currentImageIndex_4 = (currentImageIndex_4 - 1 + images_4.length) % images_4.length;
+					modalImg_4.src = images_4[currentImageIndex_4];
+				}
+			
+				function nextImage_4() {
+					currentImageIndex_4 = (currentImageIndex_4 + 1) % images_4.length;
+					modalImg_4.src = images_4[currentImageIndex_4];
+				}
+			
+				// Закрытие при клике вне изображения
+				modal_4.onclick = function(e) {
+					if (e.target === modal_4) {
+						closeModal_4();
+					}
+				}
+			
+				// Навигация с помощью клавиш
+				document.addEventListener('keydown', function(e) {
+					if (modal_4.style.display === 'block') {
+						if (e.key === 'ArrowLeft') prevImage_4();
+						if (e.key === 'ArrowRight') nextImage_4();
+						if (e.key === 'Escape') closeModal_4();
+					}
+				});
+			
+				// Скрываем эффект стопки, если нет дополнительных фотографий
+				if (images_4.length <= 1) {
+					const container = document.querySelector('.landing-block-node-img-container div');
+					container.style.padding = '0';
+					const backgrounds = container.querySelectorAll('div');
+					backgrounds[0].style.display = 'none';
+					backgrounds[1].style.display = 'none';
+				}
+			</script>
+				
+
+
+			</div><div class="landing-block-card js-animation fadeIn col-sm-6 col-md-4 col-lg-4">
+
+				
+<!-- здесь след новость, нужно скопировать прошлый артикль + скрипт и заменить все цифры на 5 + если 1 фото то удалить скрипты + если фото не вмещается посмотреть как сделано раньше -->
+
+			</div><div class="landing-block-card js-animation fadeIn col-sm-6 col-md-4 col-lg-4">
+				
+
+<!-- здесь -->
+
+
+			</div></div>
+	</div>
+
+
+</section></div><div id="b4276" class="block-wrapper block-17-copyright"><section class="landing-block js-animation animation-none g-pt-30 g-pb-15 animated">
+	<div class="landing-semantic-text-medium text-center g-pa-10">
+		<div class="g-width-600 mx-auto">
+			<div class="landing-block-node-text landing-semantic-text-medium js-animation animation-none animated g-font-size-12"><p>© 2020 Частное учреждение здравоохранения «Специализированная поликлиника» </p></div>
+		</div>
+	</div>
+</section></div>
+</main>
+<!-- <script data-skip-moving="true">
+					(function(w,d,u,b){ 'use strict';
+					var s=d.createElement('script');var r=(Date.now()/1000|0);s.async=1;s.src=u+'?'+r;
+					var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+				})(window,document,'https://cdn-ru.bitrix24.ru/b334051/crm/site_button/loader_2_rwm76o.js');
+				</script> -->
+
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script><script src="../bitrix/js/main/core/core.min.js?1727100220225181"></script><script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script>BX.Runtime.registerExtension({"name":"ui.dexie","namespace":"BX.Dexie3","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ls","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"fx","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"fc","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"pull.protobuf","namespace":"BX","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"rest.client","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"pull_server_enabled":"Y","pull_config_timestamp":1734102412,"pull_guest_mode":"N","pull_guest_user_id":0});(window.BX||top.BX).message({"PULL_OLD_REVISION":"Для продолжения корректной работы с сайтом необходимо перезагрузить страницу."});</script>
+<script>BX.Runtime.registerExtension({"name":"pull.client","namespace":"BX","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"pull","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"intranet.design-tokens.bitrix24","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.design-tokens","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.fonts.opensans","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"landing.metrika","namespace":"BX.Landing","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"main.pageobject","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"main.popup","namespace":"BX.Main","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"popup","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"CORE_CLIPBOARD_COPY_SUCCESS":"Скопировано","CORE_CLIPBOARD_COPY_FAILURE":"Не удалось скопировать"});</script>
+<script>BX.Runtime.registerExtension({"name":"clipboard","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.icon-set.actions","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.icon-set.main","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"MAIN_SIDEPANEL_CLOSE":"Закрыть","MAIN_SIDEPANEL_PRINT":"Печать","MAIN_SIDEPANEL_NEW_WINDOW":"Открыть в новом окне","MAIN_SIDEPANEL_COPY_LINK":"Скопировать ссылку","MAIN_SIDEPANEL_MINIMIZE":"Свернуть","MAIN_SIDEPANEL_REMOVE_ALL":"Удалить всё из быстрого доступа"});</script>
+<script>BX.Runtime.registerExtension({"name":"sidepanel","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"AMPM_MODE":false});(window.BX||top.BX).message({"MONTH_1":"Январь","MONTH_2":"Февраль","MONTH_3":"Март","MONTH_4":"Апрель","MONTH_5":"Май","MONTH_6":"Июнь","MONTH_7":"Июль","MONTH_8":"Август","MONTH_9":"Сентябрь","MONTH_10":"Октябрь","MONTH_11":"Ноябрь","MONTH_12":"Декабрь","MONTH_1_S":"января","MONTH_2_S":"февраля","MONTH_3_S":"марта","MONTH_4_S":"апреля","MONTH_5_S":"мая","MONTH_6_S":"июня","MONTH_7_S":"июля","MONTH_8_S":"августа","MONTH_9_S":"сентября","MONTH_10_S":"октября","MONTH_11_S":"ноября","MONTH_12_S":"декабря","MON_1":"янв","MON_2":"фев","MON_3":"мар","MON_4":"апр","MON_5":"мая","MON_6":"июн","MON_7":"июл","MON_8":"авг","MON_9":"сен","MON_10":"окт","MON_11":"ноя","MON_12":"дек","DAY_OF_WEEK_0":"Воскресенье","DAY_OF_WEEK_1":"Понедельник","DAY_OF_WEEK_2":"Вторник","DAY_OF_WEEK_3":"Среда","DAY_OF_WEEK_4":"Четверг","DAY_OF_WEEK_5":"Пятница","DAY_OF_WEEK_6":"Суббота","DOW_0":"Вс","DOW_1":"Пн","DOW_2":"Вт","DOW_3":"Ср","DOW_4":"Чт","DOW_5":"Пт","DOW_6":"Сб","FD_SECOND_AGO_0":"#VALUE# секунд назад","FD_SECOND_AGO_1":"#VALUE# секунду назад","FD_SECOND_AGO_10_20":"#VALUE# секунд назад","FD_SECOND_AGO_MOD_1":"#VALUE# секунду назад","FD_SECOND_AGO_MOD_2_4":"#VALUE# секунды назад","FD_SECOND_AGO_MOD_OTHER":"#VALUE# секунд назад","FD_SECOND_DIFF_0":"#VALUE# секунд","FD_SECOND_DIFF_1":"#VALUE# секунда","FD_SECOND_DIFF_10_20":"#VALUE# секунд","FD_SECOND_DIFF_MOD_1":"#VALUE# секунда","FD_SECOND_DIFF_MOD_2_4":"#VALUE# секунды","FD_SECOND_DIFF_MOD_OTHER":"#VALUE# секунд","FD_SECOND_SHORT":"#VALUE#с","FD_MINUTE_AGO_0":"#VALUE# минут назад","FD_MINUTE_AGO_1":"#VALUE# минуту назад","FD_MINUTE_AGO_10_20":"#VALUE# минут назад","FD_MINUTE_AGO_MOD_1":"#VALUE# минуту назад","FD_MINUTE_AGO_MOD_2_4":"#VALUE# минуты назад","FD_MINUTE_AGO_MOD_OTHER":"#VALUE# минут назад","FD_MINUTE_DIFF_0":"#VALUE# минут","FD_MINUTE_DIFF_1":"#VALUE# минута","FD_MINUTE_DIFF_10_20":"#VALUE# минут","FD_MINUTE_DIFF_MOD_1":"#VALUE# минута","FD_MINUTE_DIFF_MOD_2_4":"#VALUE# минуты","FD_MINUTE_DIFF_MOD_OTHER":"#VALUE# минут","FD_MINUTE_0":"#VALUE# минут","FD_MINUTE_1":"#VALUE# минуту","FD_MINUTE_10_20":"#VALUE# минут","FD_MINUTE_MOD_1":"#VALUE# минуту","FD_MINUTE_MOD_2_4":"#VALUE# минуты","FD_MINUTE_MOD_OTHER":"#VALUE# минут","FD_MINUTE_SHORT":"#VALUE#мин","FD_HOUR_AGO_0":"#VALUE# часов назад","FD_HOUR_AGO_1":"#VALUE# час назад","FD_HOUR_AGO_10_20":"#VALUE# часов назад","FD_HOUR_AGO_MOD_1":"#VALUE# час назад","FD_HOUR_AGO_MOD_2_4":"#VALUE# часа назад","FD_HOUR_AGO_MOD_OTHER":"#VALUE# часов назад","FD_HOUR_DIFF_0":"#VALUE# часов","FD_HOUR_DIFF_1":"#VALUE# час","FD_HOUR_DIFF_10_20":"#VALUE# часов","FD_HOUR_DIFF_MOD_1":"#VALUE# час","FD_HOUR_DIFF_MOD_2_4":"#VALUE# часа","FD_HOUR_DIFF_MOD_OTHER":"#VALUE# часов","FD_HOUR_SHORT":"#VALUE#ч","FD_YESTERDAY":"вчера","FD_TODAY":"сегодня","FD_TOMORROW":"завтра","FD_DAY_AGO_0":"#VALUE# дней назад","FD_DAY_AGO_1":"#VALUE# день назад","FD_DAY_AGO_10_20":"#VALUE# дней назад","FD_DAY_AGO_MOD_1":"#VALUE# день назад","FD_DAY_AGO_MOD_2_4":"#VALUE# дня назад","FD_DAY_AGO_MOD_OTHER":"#VALUE# дней назад","FD_DAY_DIFF_0":"#VALUE# дней","FD_DAY_DIFF_1":"#VALUE# день","FD_DAY_DIFF_10_20":"#VALUE# дней","FD_DAY_DIFF_MOD_1":"#VALUE# день","FD_DAY_DIFF_MOD_2_4":"#VALUE# дня","FD_DAY_DIFF_MOD_OTHER":"#VALUE# дней","FD_DAY_AT_TIME":"#DAY# в #TIME#","FD_DAY_SHORT":"#VALUE#д","FD_MONTH_AGO_0":"#VALUE# месяцев назад","FD_MONTH_AGO_1":"#VALUE# месяц назад","FD_MONTH_AGO_10_20":"#VALUE# месяцев назад","FD_MONTH_AGO_MOD_1":"#VALUE# месяц назад","FD_MONTH_AGO_MOD_2_4":"#VALUE# месяца назад","FD_MONTH_AGO_MOD_OTHER":"#VALUE# месяцев назад","FD_MONTH_DIFF_0":"#VALUE# месяцев","FD_MONTH_DIFF_1":"#VALUE# месяц","FD_MONTH_DIFF_10_20":"#VALUE# месяцев","FD_MONTH_DIFF_MOD_1":"#VALUE# месяц","FD_MONTH_DIFF_MOD_2_4":"#VALUE# месяца","FD_MONTH_DIFF_MOD_OTHER":"#VALUE# месяцев","FD_MONTH_SHORT":"#VALUE#мес","FD_YEARS_AGO_0":"#VALUE# лет назад","FD_YEARS_AGO_1":"#VALUE# год назад","FD_YEARS_AGO_10_20":"#VALUE# лет назад","FD_YEARS_AGO_MOD_1":"#VALUE# год назад","FD_YEARS_AGO_MOD_2_4":"#VALUE# года назад","FD_YEARS_AGO_MOD_OTHER":"#VALUE# лет назад","FD_YEARS_DIFF_0":"#VALUE# лет","FD_YEARS_DIFF_1":"#VALUE# год","FD_YEARS_DIFF_10_20":"#VALUE# лет","FD_YEARS_DIFF_MOD_1":"#VALUE# год","FD_YEARS_DIFF_MOD_2_4":"#VALUE# года","FD_YEARS_DIFF_MOD_OTHER":"#VALUE# лет","FD_YEARS_SHORT_0":"#VALUE#л","FD_YEARS_SHORT_1":"#VALUE#г","FD_YEARS_SHORT_10_20":"#VALUE#л","FD_YEARS_SHORT_MOD_1":"#VALUE#г","FD_YEARS_SHORT_MOD_2_4":"#VALUE#г","FD_YEARS_SHORT_MOD_OTHER":"#VALUE#л","CAL_BUTTON":"Выбрать","CAL_TIME_SET":"Установить время","CAL_TIME":"Время","FD_LAST_SEEN_TOMORROW":"завтра в #TIME#","FD_LAST_SEEN_NOW":"только что","FD_LAST_SEEN_TODAY":"сегодня в #TIME#","FD_LAST_SEEN_YESTERDAY":"вчера в #TIME#","FD_LAST_SEEN_MORE_YEAR":"более года назад"});</script>
+<script>BX.Runtime.registerExtension({"name":"main.date","namespace":"BX.Main","loaded":true});</script>
+<script>(window.BX||top.BX).message({"WEEK_START":1});</script>
+<script>BX.Runtime.registerExtension({"name":"date","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
+<script>BX.Runtime.registerExtension({"name":"window","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"JC_CORE_TREE_SELECT_CONTROL":"Выберите условие","JC_CORE_TREE_ADD_CONTROL":"Добавить условие","JC_CORE_TREE_DELETE_CONTROL":"Удалить условие","JC_CORE_TREE_CONTROL_DATETIME_ICON":"Нажмите для выбора даты","JC_CORE_TREE_CONDITION_ERROR":"Ошибка в условии","JC_CORE_TREE_CONDITION_FATAL_ERROR":"Неустранимая ошибка в условии. Рекомендуется его удалить"});</script>
+<script>BX.Runtime.registerExtension({"name":"core_condtree","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANDING_NAVBAR_TOGGLER_SHOW":"Развернуть","LANDING_NAVBAR_TOGGLER_HIDE":"Свернуть","LANDING_NAVBAR_MODAL_ALERT":"Редактирование.\u003Cbr\u003EПолноценная работа блока будет доступна в\u0026nbsp;режиме просмотра."});</script>
+<script>BX.Runtime.registerExtension({"name":"landing_assets","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1734765816,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"03ad025eeb57b685710a6ae714eaae77"});</script><script src="../bitrix/js/ui/dexie/dist/dexie3.bundle.min.js?169399112688274"></script>
+<script src="../bitrix/js/main/core/core_ls.min.js?17339298272683"></script>
+<script src="../bitrix/js/main/core/core_fx.min.js?14909536449768"></script>
+<script src="../bitrix/js/main/core/core_frame_cache.min.js?173392982711132"></script>
+<script src="../bitrix/js/pull/protobuf/protobuf.min.js?159231549176433"></script>
+<script src="../bitrix/js/pull/protobuf/model.min.js?159231549114190"></script>
+<script src="../bitrix/js/rest/client/rest.client.min.js?16015491189240"></script>
+<script src="../bitrix/js/pull/client/pull.client.min.js?172302241249664"></script>
+<script src="../bitrix/js/landing/metrika/dist/metrika.bundle.min.js?17053049563428"></script>
+<script src="../bitrix/js/main/pageobject/pageobject.min.js?1584117434570"></script>
+<script src="../bitrix/js/main/popup/dist/main.popup.bundle.min.js?173392982765924"></script>
+<script src="../bitrix/js/main/core/core_clipboard.min.js?16572140002246"></script>
+<script src="../bitrix/js/main/sidepanel/manager.min.js?171699739538706"></script>
+<script src="../bitrix/js/main/sidepanel/slider.min.js?172710022035720"></script>
+<script src="../bitrix/js/main/date/main.date.min.js?173392982719136"></script>
+<script src="../bitrix/js/main/core/core_date.min.js?161286731026661"></script>
+<script src="../bitrix/js/main/core/core_window.min.js?170185523776324"></script>
+<script src="../bitrix/js/catalog/core_tree.min.js?172546552845402"></script>
+<script src="../bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.min.js?15362428577124"></script>
+<script src="../bitrix/js/landing/utils/utils.min.js?173329386319728"></script>
+<script src="../bitrix/js/landing/mediaplayer/base_mediaplayer.min.js?16662689151069"></script>
+<script src="../bitrix/js/landing/mediaplayer/youtube_mediaplayer.min.js?16662689152281"></script>
+<script src="../bitrix/js/landing/mediaplayer/mediaplayer_factory.min.js?1666268915372"></script>
+<script src="../bitrix/js/landing/ui/tool/auto_font_scale/dist/auto_font_scale.bundle.min.js?16989351205160"></script>
+<script src="../bitrix/js/landing/event-tracker/event-tracker.min.js?15839331302876"></script>
+<script src="../bitrix/js/landing/event-tracker/services/base-service.min.js?1538227870259"></script>
+<script src="../bitrix/js/landing/event-tracker/services/google-analytics-service.min.js?1538227870485"></script>
+<script src="../bitrix/js/landing/polyfill.min.js?15675083271062"></script>
+<script src="../bitrix/js/landing/events/block_event.min.js?1538227870520"></script>
+<script src="../bitrix/js/landing/public.min.js?17249436704643"></script>
+<script>if (Intl && Intl.DateTimeFormat) document.cookie="BITRIX_SM_TZ="+Intl.DateTimeFormat().resolvedOptions().timeZone+"; path=/; expires=Mon, 01 Dec 2025 00:00:00 +0300";</script>
+<script src="../bitrix/templates/landing24/assets/vendor/jquery/jquery_landing.min.js?166385260095077"></script>
+<script src="../bitrix/templates/landing24/assets/vendor/jquery.easing/js/jquery.easing_landing.min.js?16589331053591"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/lazyload.min.js?16989351202187"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/onscroll-animation_init.min.js?16989351203360"></script>
+<script src="../bitrix/templates/landing24/assets/vendor/bootstrap/js/dist/util.min.js?15906508262242"></script>
+<script src="../bitrix/templates/landing24/assets/vendor/bootstrap/js/dist/collapse.min.js?15906508266674"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/menu/scrollspy.min.js?16770006392633"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/menu/menu_init.min.js?17024696994546"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/menu/block-header-entry.min.js?16355193376947"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/menu/block-header-init.min.js?16843044571122"></script>
+<script src="../bitrix/templates/landing24/assets/vendor/slick-carousel/slick/slick_landing.min.js?165893310545151"></script>
+<script src="../bitrix/templates/landing24/assets/js/components/hs.core_landing.min.js?1658933105614"></script>
+<script src="../bitrix/templates/landing24/assets/js/components/hs.carousel.min.js?16711921524391"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/carousel/carousel_helper.min.js?16692084138623"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/carousel/base_carousel_init.min.js?16614118232748"></script>
+<script src="../bitrix/templates/landing24/assets/vendor/fancybox/jquery.fancybox_landing.min.js?171143448261369"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/popup_init.min.js?1658933105779"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/upper_init.min.js?1594736530704"></script>
+<script src="../bitrix/templates/landing24/assets/js/helpers/auto_font_scale_init.min.js?1698935120150"></script>
+<script src="../bitrix/components/bitrix/landing.pub/templates/.default/script.min.js?17126771928487"></script>
+<script>
+	BX.namespace("BX.Landing");
+	BX.Landing.getMode = () => "view";
+</script>
+<script>var _ba = _ba || []; _ba.push(["aid", "bc2cad9153cb418bb2dfd5602c3c3754"]); _ba.push(["host", "pilotgr.bitrix24.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+	(function()
+	{
+		new BX.Landing.Metrika();
+	})();
+</script>
+
+<script>
+	BX.ready(function() {
+		void new BX.Landing.Pub.PageTransition();
+	});
+</script>
+
+<script>
+	(function(w,d,u){
+		var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+		var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+	})(window,document,'https://cdn-ru.bitrix24.ru/b334051/crm/tag/call.tracker.js');
+</script>
+</body>
+</html>
